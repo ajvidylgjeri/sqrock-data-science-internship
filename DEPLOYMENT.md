@@ -8,14 +8,14 @@ git init
 git add .
 git commit -m "Sqrock Data Science Internship - Phase 1 projects"
 git branch -M main
-git remote add origin https://github.com/<your-username>/sqrock-data-science-internship.git
+git remote add origin https://github.com/ajvidylgjeri/sqrock-data-science-internship.git
 git push -u origin main
 ```
 
 ## 2. Deploy each app (you get 3 live links)
 1. Go to **share.streamlit.io** and sign in with GitHub.
 2. Click **Create app → Deploy a public app from GitHub**.
-3. Repository: `<your-username>/sqrock-data-science-internship`, branch `main`.
+3. Repository: `ajvidylgjeri/sqrock-data-science-internship`, branch `main`.
 4. **Main file path:** pick one per app:
    - `sales-forecasting/app.py`
    - `resume-screening/app.py`

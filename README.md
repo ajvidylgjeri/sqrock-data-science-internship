@@ -32,7 +32,7 @@ Three end-to-end machine learning projects. Each has a Jupyter notebook (the ful
 
 ## Run locally
 ```bash
-git clone https://github.com/<your-username>/sqrock-data-science-internship.git
+git clone https://github.com/ajvidylgjeri/sqrock-data-science-internship.git
 cd sqrock-data-science-internship/churn-prediction     # or sales-forecasting / resume-screening
 pip install -r requirements.txt
 streamlit run app.py               # web app
