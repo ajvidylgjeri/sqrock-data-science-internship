@@ -1,0 +1,13 @@
+Arben Kola
+arben.kola@example.com | +355 68 222 3344
+PROFILE
+Machine Learning Engineer, 3 years of experience in NLP and computer vision.
+TECHNICAL SKILLS
+Python, PyTorch, TensorFlow, Keras, Scikit-learn, NLP, spaCy, NLTK, Transformers, Computer Vision, OpenCV, SQL, MongoDB, Docker, Kubernetes, Git, Linux, FastAPI, Machine Learning, Deep Learning
+EXPERIENCE
+Machine Learning Engineer, VisionTech (2021 - Present)
+- Trained transformer models for text classification and named-entity recognition.
+- Built a resume parsing pipeline with spaCy and TF-IDF features.
+- Served models with FastAPI and Kubernetes.
+EDUCATION
+BSc Computer Science, Polytechnic University of Tirana, 2021

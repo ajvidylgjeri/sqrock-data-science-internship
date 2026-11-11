@@ -1,0 +1,10 @@
+Job Title: Data Engineer
+Join our data platform team to design reliable data pipelines.
+Requirements:
+- 3+ years of experience as a Data Engineer
+- Python and advanced SQL
+- Apache Spark, Airflow and Kafka
+- Cloud data platforms: AWS or Azure, Snowflake
+- ETL design and data warehousing
+- Docker, Git and Linux
+Education: Bachelor's degree in Computer Science or a related field.

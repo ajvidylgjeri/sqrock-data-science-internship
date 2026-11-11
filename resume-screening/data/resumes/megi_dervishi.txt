@@ -1,0 +1,12 @@
+Megi Dervishi
+megi.dervishi@example.com | +355 68 555 6677
+SUMMARY
+Full Stack Developer with 3 years of experience across React and Django.
+SKILLS
+Python, Django, JavaScript, React, HTML, CSS, PostgreSQL, Docker, Git, REST APIs, AWS, Agile
+EXPERIENCE
+Full Stack Developer, CodeBridge (2021 - Present)
+- Built REST APIs in Django and frontends in React.
+- Set up CI/CD pipelines and Docker deployments on AWS.
+EDUCATION
+BSc Computer Engineering, Polytechnic University of Tirana, 2021

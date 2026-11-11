@@ -1,0 +1,11 @@
+Fjona Zeqiri
+fjona.zeqiri@example.com | +355 67 345 6789
+SUMMARY
+Backend Developer with 2 years of experience in Java and Spring Boot.
+SKILLS
+Java, Spring Boot, MySQL, REST APIs, Microservices, Docker, Git, Linux, JUnit, Agile
+EXPERIENCE
+Backend Developer, EnterpriseSoft (2022 - Present)
+- Developed microservices with Spring Boot and MySQL.
+EDUCATION
+BSc Software Engineering, University of New York Tirana, 2022

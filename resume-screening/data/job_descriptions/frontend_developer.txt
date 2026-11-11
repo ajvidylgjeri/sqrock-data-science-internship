@@ -1,0 +1,12 @@
+Job Title: Frontend Developer (React)
+We are looking for a Frontend Developer to build fast, accessible web applications.
+Requirements:
+- 2+ years of experience with JavaScript and TypeScript
+- Strong knowledge of React and Next.js
+- HTML, CSS and Tailwind CSS, responsive design
+- State management with Redux
+- Consuming REST APIs and GraphQL
+- Testing with Jest
+- Git and Agile workflows
+- Ability to work with designers using Figma
+Education: Bachelor's degree in Computer Science, Software Engineering or equivalent experience.

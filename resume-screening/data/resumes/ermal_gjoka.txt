@@ -1,0 +1,13 @@
+Ermal Gjoka
+ermal.gjoka@example.com | +355 68 888 9900
+SUMMARY
+Data Engineer with 4 years of experience building data pipelines and warehouses.
+SKILLS
+Python, SQL, Apache Spark, Airflow, Kafka, AWS, Azure, Snowflake, PostgreSQL, Docker, Git, ETL, Data Warehousing, Linux, Pandas
+EXPERIENCE
+Data Engineer, StreamFlow (2021 - Present)
+- Built Spark and Airflow ETL pipelines processing 2 TB per day.
+- Modelled a Snowflake data warehouse used by the analytics team.
+Junior Data Engineer, DataHub (2020 - 2021)
+EDUCATION
+BSc Computer Science, University of Tirana, 2020

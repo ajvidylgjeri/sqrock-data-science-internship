@@ -1,0 +1,13 @@
+Job Title: Data Scientist
+We are hiring a Data Scientist to build machine learning models that drive business decisions.
+Requirements:
+- 2+ years of experience in data science or machine learning
+- Strong Python skills with Pandas, NumPy and Scikit-learn
+- Experience with SQL and relational databases such as PostgreSQL
+- Knowledge of statistics, A/B testing and machine learning algorithms (regression, classification, clustering)
+- Experience with deep learning frameworks such as TensorFlow or PyTorch is a plus
+- NLP experience is a plus
+- Data visualization with Matplotlib, Seaborn, Power BI or Tableau
+- Familiarity with Git, Docker and cloud platforms (AWS)
+- Strong communication skills to explain results to non-technical stakeholders
+Education: Bachelor's or Master's degree in Computer Science, Statistics, Mathematics or a related field.
