@@ -1,0 +1,1521 @@
+Applicant_ID,Gender,Age,Marital_Status,Education,Employment_Status,Annual_Income,Loan_Amount,Loan_Term,Credit_History,Property_Area,Loan_Status
+LP00001,Female,48,Single,Graduate,Self-employed,55300.0,184000.0,360.0,1.0,Semiurban,Approved
+LP00002,Male,31,Married,Graduate,Salaried,26600.0,98000.0,240.0,1.0,Urban,Approved
+LP00003,Female,29,Single,Not Graduate,Salaried,53200.0,99000.0,360.0,1.0,Urban,Approved
+LP00004,Female,43,Married,Graduate,Salaried,62800.0,144000.0,300.0,1.0,Urban,Approved
+LP00005,Male,48,Married,Graduate,Salaried,45900.0,,240.0,1.0,Semiurban,Approved
+LP00006,Female,38,Married,Graduate,Salaried,49700.0,217000.0,360.0,1.0,Urban,Approved
+LP00007,Female,25,Divorced,Graduate,Unemployed,25600.0,24000.0,300.0,1.0,Urban,Approved
+LP00008,Female,24,Single,Graduate,Self-employed,35900.0,112000.0,360.0,0.0,Rural,Rejected
+LP00009,Male,24,Single,Graduate,Self-employed,65600.0,220000.0,360.0,1.0,Semiurban,Approved
+LP00010,Male,21,Married,Not Graduate,Salaried,52100.0,63000.0,360.0,1.0,Rural,Approved
+LP00011,Male,39,Married,Graduate,Salaried,23300.0,,300.0,0.0,Urban,Rejected
+LP00012,Female,49,Single,Graduate,Salaried,70800.0,54000.0,300.0,1.0,Urban,Approved
+LP00013,Female,38,Married,Graduate,Salaried,24500.0,68000.0,360.0,1.0,Rural,Rejected
+LP00014,Female,21,Divorced,Graduate,Salaried,49300.0,221000.0,360.0,1.0,Semiurban,Approved
+LP00015,Male,36,Single,Not Graduate,Self-employed,25900.0,59000.0,360.0,1.0,Semiurban,Approved
+LP00016,Male,36,Married,Graduate,Unemployed,34700.0,155000.0,300.0,0.0,Rural,Rejected
+LP00017,Male,59,Single,Graduate,Salaried,30900.0,34000.0,240.0,0.0,Semiurban,Rejected
+LP00018,Male,23,Divorced,Graduate,Salaried,24700.0,53000.0,180.0,1.0,Urban,Approved
+LP00019,Female,34,Married,Not Graduate,Salaried,40400.0,,360.0,1.0,Semiurban,Approved
+LP00020,Female,55,Single,Graduate,Salaried,43200.0,174000.0,300.0,1.0,Urban,Approved
+LP00021,Female,42,Single,Not Graduate,Salaried,19300.0,36000.0,360.0,1.0,Urban,Approved
+LP00022,Male,44,Married,Graduate,Salaried,65900.0,214000.0,360.0,1.0,Urban,Approved
+LP00023,Female,39,,Graduate,Salaried,21200.0,86000.0,300.0,1.0,Rural,Approved
+LP00024,Female,41,Married,Graduate,Salaried,32600.0,117000.0,360.0,0.0,Semiurban,Rejected
+LP00025,Female,46,Single,Graduate,Self-employed,46200.0,141000.0,360.0,1.0,Urban,Approved
+LP00026,Male,30,Single,Graduate,Salaried,74600.0,89000.0,360.0,1.0,Urban,Approved
+LP00027,Male,47,Single,Graduate,Salaried,93100.0,82000.0,180.0,1.0,Semiurban,Approved
+LP00028,Male,24,Married,Not Graduate,Salaried,62400.0,187000.0,360.0,1.0,Rural,Approved
+LP00029,Male,41,Single,Not Graduate,Salaried,35500.0,91000.0,180.0,1.0,Urban,Approved
+LP00030,Female,40,,Not Graduate,Salaried,12700.0,19000.0,360.0,1.0,Urban,Approved
+LP00031,Female,32,Married,Graduate,Self-employed,71300.0,124000.0,360.0,1.0,Rural,Approved
+LP00032,,38,Married,Graduate,Self-employed,115900.0,247000.0,300.0,1.0,Rural,Approved
+LP00033,Male,32,Single,Not Graduate,Salaried,66200.0,168000.0,360.0,1.0,Rural,Approved
+LP00034,Male,27,Married,Graduate,Salaried,64000.0,136000.0,360.0,1.0,Urban,Approved
+LP00035,Male,34,,Graduate,Salaried,30400.0,64000.0,240.0,1.0,Urban,Approved
+LP00036,Male,27,Single,graduate,Salaried,30000.0,32000.0,360.0,1.0,Semiurban,Approved
+LP00037,Male,41,Married,Graduate,Salaried,124100.0,493000.0,180.0,1.0,Urban,Approved
+LP00038,Male,26,Married,Graduate,Self-employed,31600.0,94000.0,360.0,1.0,Rural,Approved
+LP00039,,45,Married,Not Graduate,Salaried,22700.0,27000.0,360.0,1.0,Urban,Approved
+LP00040,Female,26,Married,Graduate,Salaried,79500.0,179000.0,360.0,1.0,Semiurban,Approved
+LP00041,Male,32,Single,Graduate,Salaried,42800.0,95000.0,360.0,1.0,Rural,Approved
+LP00042,Female,32,Married,Graduate,Salaried,30600.0,,,1.0,Rural,Approved
+LP00043,Female,51,Married,Graduate,Self-employed,118900.0,354000.0,300.0,1.0,Semiurban,Approved
+LP00044,Male,41,Divorced,Not Graduate,Salaried,46800.0,146000.0,180.0,1.0,Rural,Approved
+LP00045,Female,36,Single,Graduate,Salaried,43800.0,145000.0,300.0,1.0,Urban,Approved
+LP00046,Female,43,Single,Graduate,Salaried,31100.0,31000.0,360.0,0.0,Semiurban,Approved
+LP00047,Male,21,Single,Not Graduate,Self-employed,109800.0,196000.0,360.0,1.0,Urban,Approved
+LP00048,Male,38,Single,Graduate,Salaried,51400.0,34000.0,360.0,1.0,Rural,Approved
+LP00049,Female,58,Married,Not Graduate,Salaried,71300.0,169000.0,240.0,0.0,Rural,Rejected
+LP00050,Male,39,Single,Graduate,Salaried,77700.0,177000.0,240.0,1.0,Urban,Approved
+LP00051,Male,39,Single,Graduate,Salaried,41100.0,142000.0,360.0,1.0,Urban,Rejected
+LP00052,Male,43,Married,Graduate,Self-employed,47500.0,59000.0,180.0,1.0,Semiurban,Approved
+LP00053,Female,47,Married,Graduate,Salaried,99700.0,305000.0,360.0,0.0,Urban,Rejected
+LP00054,Female,21,Married,Not Graduate,Salaried,73400.0,132000.0,300.0,1.0,Rural,Approved
+LP00055,Female,21,Single,Not Graduate,Salaried,16300.0,34000.0,300.0,1.0,Urban,Approved
+LP00056,Female,40,Single,Not Graduate,Salaried,48700.0,166000.0,360.0,0.0,Rural,Rejected
+LP00057,Male,31,Single,Graduate,Salaried,49200.0,,360.0,1.0,Semiurban,Approved
+LP00058,Male,51,Married,Not Graduate,Self-employed,27400.0,53000.0,360.0,1.0,Semiurban,Approved
+LP00059,Male,35,Married,Graduate,Salaried,58500.0,124000.0,360.0,1.0,Urban,Approved
+LP00060,,21,Married,Not Graduate,,20700.0,70000.0,300.0,1.0,Rural,Approved
+LP00061,Female,25,Married,Graduate,Salaried,42200.0,58000.0,360.0,1.0,Semiurban,Approved
+LP00062,Male,21,Single,Not Graduate,Self-employed,30500.0,131000.0,360.0,0.0,Semiurban,Rejected
+LP00063,Male,36,Single,Graduate,Salaried,41500.0,186000.0,360.0,1.0,Semiurban,Approved
+LP00064,Female,36,Single,Graduate,Salaried,50400.0,191000.0,360.0,1.0,Rural,Approved
+LP00065,Female,34,Single,Not Graduate,Salaried,24100.0,43000.0,240.0,1.0,Rural,Approved
+LP00066,Male,49,Divorced,Graduate,Salaried,105500.0,336000.0,180.0,1.0,Rural,Approved
+LP00067,Male,50,Married,Graduate,Unemployed,22700.0,21000.0,360.0,0.0,Semiurban,Rejected
+LP00068,Male,36,Married,Not Graduate,Salaried,85200.0,341000.0,360.0,1.0,Rural,Rejected
+LP00069,Male,21,Married,Graduate,Salaried,48400.0,126000.0,240.0,1.0,Urban,Approved
+LP00070,Male,44,Married,Graduate,Salaried,40600.0,52000.0,240.0,0.0,Semiurban,Rejected
+LP00071,Male,44,Married,Graduate,Salaried,114700.0,215000.0,,0.0,Semiurban,Rejected
+LP00072,Male,41,Married,Graduate,Salaried,40100.0,149000.0,360.0,1.0,Semiurban,Approved
+LP00073,Female,48,,Graduate,Salaried,48000.0,192000.0,,1.0,Rural,Rejected
+LP00074,Male,26,Married,Not Graduate,Salaried,52500.0,138000.0,180.0,,Rural,Approved
+LP00075,Male,58,Divorced,Not Graduate,Self-employed,25000.0,62000.0,360.0,1.0,Semiurban,Approved
+LP00076,Male,28,Single,Graduate,Self-employed,82400.0,291000.0,360.0,1.0,Semiurban,Approved
+LP00077,Male,45,Single,Graduate,Salaried,67600.0,258000.0,360.0,0.0,Rural,Rejected
+LP00078,Female,21,Single,Graduate,Unemployed,32200.0,115000.0,300.0,1.0,Rural,Rejected
+LP00079,Male,29,Married,Not Graduate,Unemployed,19900.0,42000.0,360.0,1.0,Rural,Rejected
+LP00080,Female,53,Single,Graduate,Salaried,93300.0,290000.0,360.0,1.0,Urban,Rejected
+LP00081,Female,35,Married,Graduate,Salaried,49500.0,195000.0,360.0,1.0,Urban,Rejected
+LP00082,Male,46,Divorced,Not Graduate,Salaried,25800.0,31000.0,360.0,1.0,Rural,Approved
+LP00083,Female,40,Married,Not Graduate,Salaried,98200.0,208000.0,360.0,1.0,Rural,Approved
+LP00084,Male,37,Married,Graduate,Salaried,26200.0,22000.0,300.0,1.0,Rural,Approved
+LP00085,Male,52,Single,Graduate,Salaried,27400.0,60000.0,360.0,1.0,Semiurban,Approved
+LP00086,Male,36,Single,Graduate,Unemployed,23500.0,85000.0,360.0,0.0,Semiurban,Rejected
+LP00087,Female,21,Married,Graduate,Salaried,108000.0,148000.0,240.0,1.0,Semiurban,Approved
+LP00088,Male,30,Single,Graduate,Self-employed,65100.0,177000.0,240.0,1.0,Rural,Approved
+LP00089,Male,44,Married,Graduate,Salaried,81500.0,61000.0,360.0,1.0,Urban,Approved
+LP00090,Male,42,Single,Graduate,Salaried,21200.0,87000.0,,1.0,Semiurban,Approved
+LP00091,Male,22,Married,Graduate,Self-employed,47800.0,182000.0,360.0,1.0,Semiurban,Approved
+LP00092,Female,31,Married,Graduate,Salaried,22400.0,59000.0,180.0,1.0,Rural,Approved
+LP00093,Male,32,Married,Graduate,Salaried,73900.0,248000.0,300.0,1.0,Urban,Approved
+LP00094,Male,34,Married,Not Graduate,Salaried,18900.0,19000.0,240.0,1.0,Rural,Approved
+LP00095,Male,24,Married,Graduate,Salaried,29300.0,114000.0,360.0,0.0,Urban,Rejected
+LP00096,Female,32,Married,Not Graduate,Salaried,47900.0,162000.0,360.0,1.0,Urban,Rejected
+LP00097,Male,31,Married,Graduate,Salaried,83900.0,90000.0,360.0,1.0,Semiurban,Approved
+LP00098,Male,46,Married,Graduate,Salaried,48400.0,214000.0,360.0,1.0,Urban,Rejected
+LP00099,Male,46,Married,Not Graduate,Salaried,49100.0,34000.0,180.0,1.0,Rural,Approved
+LP00100,Female,37,Married,Graduate,Salaried,66200.0,202000.0,360.0,1.0,Rural,Approved
+LP00101,Female,34,Single,Graduate,Salaried,47200.0,60000.0,360.0,0.0,Urban,Rejected
+LP00102,Female,39,Divorced,Graduate,Salaried,31800.0,108000.0,360.0,1.0,Rural,Approved
+LP00103,Male,30,Married,Graduate,Salaried,67100.0,59000.0,240.0,1.0,Semiurban,Approved
+LP00104,Female,27,Single,Graduate,Salaried,68500.0,63000.0,360.0,1.0,Semiurban,Approved
+LP00105,Female,29,Married,Graduate,Self-employed,89400.0,216000.0,240.0,1.0,Rural,Approved
+LP00106,Female,32,Married,Graduate,Salaried,59800.0,268000.0,120.0,0.0,Semiurban,Rejected
+LP00107,Male,26,Single,Graduate,Salaried,30700.0,52000.0,240.0,1.0,Urban,Approved
+LP00108,Male,40,Single,Graduate,Salaried,70900.0,212000.0,180.0,1.0,Urban,Approved
+LP00109,Male,45,Single,Graduate,Unemployed,18200.0,48000.0,240.0,0.0,Semiurban,Rejected
+LP00110,Female,22,Married,Graduate,Salaried,41800.0,162000.0,360.0,0.0,Rural,Rejected
+LP00111,Male,38,Single,Graduate,Salaried,45500.0,79000.0,240.0,1.0,Semiurban,Approved
+LP00112,Male,36,Married,Graduate,Salaried,38100.0,105000.0,360.0,1.0,Semiurban,Approved
+LP00113,Male,41,Married,Graduate,Salaried,77600.0,334000.0,360.0,1.0,Urban,Approved
+LP00114,Male,38,Married,Graduate,Salaried,27500.0,52000.0,360.0,,Rural,Rejected
+LP00115,Male,23,Divorced,Graduate,Salaried,33300.0,77000.0,360.0,1.0,Urban,Approved
+LP00116,Female,25,Married,Graduate,Salaried,44800.0,182000.0,360.0,1.0,Semiurban,Approved
+LP00117,Female,38,Single,Graduate,Salaried,107500.0,204000.0,180.0,1.0,Semiurban,Approved
+LP00118,Female,48,Single,Not Graduate,Salaried,61100.0,127000.0,300.0,1.0,Urban,Approved
+LP00119,Male,21,Single,Not Graduate,Self-employed,20900.0,37000.0,360.0,1.0,Urban,Approved
+LP00120,Female,41,Single,Graduate,Salaried,95500.0,359000.0,360.0,1.0,Semiurban,Rejected
+LP00121,Male,50,Single,Graduate,Self-employed,109800.0,464000.0,360.0,1.0,Urban,Rejected
+LP00122,Female,36,Married,Graduate,Self-employed,35300.0,108000.0,360.0,1.0,Semiurban,Approved
+LP00123,Male,44,Married,Not Graduate,Self-employed,14100.0,43000.0,360.0,1.0,Rural,Approved
+LP00124,Male,31,Single,Not Graduate,Self-employed,42300.0,90000.0,360.0,1.0,Urban,Approved
+LP00125,Male,37,,Graduate,Salaried,86200.0,56000.0,360.0,1.0,Semiurban,Approved
+LP00126,Male,22,Married,Graduate,Salaried,106400.0,136000.0,360.0,,Urban,Approved
+LP00127,Male,21,Married,Graduate,Salaried,35100.0,41000.0,360.0,1.0,Urban,Approved
+LP00128,Male,47,Married,Not Graduate,Salaried,83600.0,88000.0,360.0,1.0,Rural,Approved
+LP00129,Male,28,Married,Not Graduate,Salaried,13900.0,44000.0,360.0,1.0,Rural,Rejected
+LP00130,Male,33,Married,Graduate,,44100.0,50000.0,360.0,1.0,Rural,Approved
+LP00131,Male,24,Single,Graduate,,43100.0,40000.0,180.0,1.0,Urban,Approved
+LP00132,Female,24,Married,Graduate,Self-employed,100400.0,210000.0,240.0,1.0,Semiurban,Approved
+LP00133,Male,36,Divorced,Graduate,Salaried,93300.0,147000.0,360.0,1.0,Semiurban,Approved
+LP00134,Male,31,Divorced,Not Graduate,Salaried,58400.0,68000.0,180.0,1.0,Rural,Approved
+LP00135,Male,42,Married,Graduate,Salaried,28300.0,33000.0,360.0,1.0,Semiurban,Approved
+LP00136,Male,43,Single,Graduate,Salaried,76700.0,,360.0,1.0,Rural,Approved
+LP00137,Female,41,Single,Graduate,Self-employed,75200.0,203000.0,360.0,1.0,Urban,Approved
+LP00138,Male,40,Single,Graduate,Salaried,24500.0,87000.0,360.0,1.0,Semiurban,Approved
+LP00139,Female,54,Married,Not Graduate,Salaried,15000.0,59000.0,360.0,0.0,Rural,Rejected
+LP00140,Male,27,Married,Graduate,Salaried,83000.0,293000.0,300.0,1.0,Semiurban,Approved
+LP00141,Male,37,Married,Not Graduate,Salaried,35000.0,107000.0,180.0,1.0,Semiurban,Approved
+LP00142,Male,49,Single,Graduate,Salaried,29200.0,121000.0,360.0,1.0,Semiurban,Rejected
+LP00143,Female,51,Divorced,Graduate,Unemployed,16600.0,44000.0,240.0,1.0,Rural,Approved
+LP00144,Male,24,Single,Graduate,Salaried,61300.0,188000.0,360.0,1.0,Urban,Approved
+LP00145,Male,35,Single,Graduate,Salaried,50100.0,110000.0,360.0,1.0,Rural,Approved
+LP00146,Male,52,Divorced,Graduate,Salaried,25900.0,49000.0,360.0,,Semiurban,Approved
+LP00147,Male,43,Single,Graduate,Salaried,121500.0,230000.0,360.0,0.0,Semiurban,Rejected
+LP00148,Male,40,Married,Graduate,,28600.0,34000.0,360.0,1.0,Semiurban,Approved
+LP00149,Male,36,Single,Graduate,Self-employed,51400.0,191000.0,360.0,1.0,Urban,Rejected
+LP00150,Male,34,Married,Graduate,Salaried,45500.0,37000.0,300.0,1.0,Rural,Approved
+LP00151,Female,41,Married,Graduate,Salaried,61100.0,197000.0,360.0,0.0,Rural,Rejected
+LP00152,Female,35,Married,Not Graduate,Salaried,22900.0,91000.0,240.0,1.0,Rural,Approved
+LP00153,Male,38,Divorced,Not Graduate,Salaried,43900.0,112000.0,360.0,1.0,Rural,Approved
+LP00154,Male,39,Married,Graduate,Salaried,28600.0,25000.0,240.0,1.0,Semiurban,Approved
+LP00155,Male,31,Married,Not Graduate,Self-employed,42300.0,96000.0,360.0,1.0,Semiurban,Approved
+LP00156,Female,43,Married,Not Graduate,Salaried,22500.0,44000.0,360.0,,Rural,Approved
+LP00157,Male,67,Married,Not Graduate,Salaried,23000.0,102000.0,120.0,1.0,Urban,Approved
+LP00158,Female,21,Married,Graduate,Self-employed,125400.0,413000.0,360.0,1.0,Rural,Approved
+LP00159,Female,41,Single,Graduate,Self-employed,61400.0,210000.0,240.0,1.0,Semiurban,Approved
+LP00160,Female,30,Single,Graduate,Salaried,57100.0,149000.0,240.0,1.0,Semiurban,Approved
+LP00161,Male,44,Married,Not Graduate,Salaried,15400.0,52000.0,120.0,1.0,Semiurban,Approved
+LP00162,,38,Married,Not Graduate,,,99000.0,240.0,1.0,Semiurban,Approved
+LP00163,Male,46,Married,Graduate,Self-employed,73600.0,63000.0,360.0,,Urban,Rejected
+LP00164,Male,50,Married,Graduate,Salaried,56700.0,83000.0,360.0,0.0,Semiurban,Rejected
+LP00165,Male,40,Married,Not Graduate,Salaried,14400.0,9000.0,360.0,1.0,Semiurban,Approved
+LP00166,Male,49,,Not Graduate,Salaried,41700.0,108000.0,360.0,1.0,Urban,Approved
+LP00167,,21,Single,Graduate,,61300.0,246000.0,360.0,1.0,Urban,Approved
+LP00168,Female,54,Married,Graduate,Salaried,92700.0,276000.0,360.0,0.0,Semiurban,Rejected
+LP00169,Male,42,Married,Graduate,Self-employed,44500.0,114000.0,360.0,1.0,Urban,Approved
+LP00170,Female,49,Married,Graduate,Salaried,19000.0,80000.0,120.0,1.0,Rural,Rejected
+LP00171,Male,26,Married,Graduate,Salaried,33200.0,42000.0,360.0,1.0,Urban,Approved
+LP00172,Male,30,Divorced,Not Graduate,Unemployed,8100.0,7000.0,360.0,0.0,Semiurban,Rejected
+LP00173,Male,39,Single,Not Graduate,Salaried,52900.0,221000.0,240.0,1.0,Urban,Rejected
+LP00174,Female,38,Divorced,Graduate,Salaried,15300.0,63000.0,360.0,1.0,Semiurban,Approved
+LP00175,Male,41,Single,Graduate,Salaried,42500.0,139000.0,300.0,1.0,Semiurban,Approved
+LP00176,Male,49,Single,Graduate,Salaried,98800.0,154000.0,300.0,1.0,Semiurban,Approved
+LP00177,Male,21,Divorced,Graduate,Salaried,52200.0,229000.0,360.0,0.0,Semiurban,Rejected
+LP00178,,48,Married,Graduate,Salaried,77800.0,279000.0,300.0,1.0,Semiurban,Approved
+LP00179,Female,38,Married,Graduate,Salaried,24800.0,80000.0,360.0,1.0,Urban,Approved
+LP00180,Female,36,Married,Graduate,Salaried,25300.0,37000.0,360.0,1.0,Semiurban,Approved
+LP00181,Female,23,Married,Graduate,Salaried,99300.0,258000.0,120.0,1.0,Semiurban,Approved
+LP00182,Female,43,Married,Graduate,Self-employed,62600.0,238000.0,360.0,1.0,Semiurban,Approved
+LP00183,Male,21,Married,Not Graduate,Salaried,39800.0,157000.0,360.0,1.0,Semiurban,Approved
+LP00184,Male,44,Single,Graduate,Self-employed,36200.0,101000.0,360.0,0.0,Rural,Rejected
+LP00185,Female,23,Single,Graduate,Salaried,54400.0,144000.0,360.0,0.0,Semiurban,Rejected
+LP00186,Female,39,Single,Not Graduate,Salaried,22700.0,75000.0,360.0,1.0,Urban,Rejected
+LP00187,Male,37,Married,Graduate,Salaried,88700.0,236000.0,300.0,1.0,Urban,Approved
+LP00188,Male,50,Single,Graduate,Salaried,177500.0,396000.0,240.0,1.0,Urban,Approved
+LP00189,Female,36,Married,Graduate,Salaried,64700.0,60000.0,300.0,1.0,Semiurban,Approved
+LP00190,,31,Married,Graduate,Salaried,39100.0,43000.0,240.0,1.0,Rural,Approved
+LP00191,Female,33,Married,Graduate,Salaried,16600.0,59000.0,360.0,0.0,Rural,Rejected
+LP00192,Male,51,Married,Graduate,Salaried,24400.0,17000.0,240.0,1.0,Semiurban,Approved
+LP00193,Male,43,Married,Graduate,Salaried,104700.0,84000.0,360.0,1.0,Urban,Approved
+LP00194,Female,34,Single,Graduate,Salaried,32700.0,135000.0,360.0,,Rural,Rejected
+LP00195,Male,36,Single,Graduate,Salaried,44000.0,147000.0,360.0,0.0,Urban,Rejected
+LP00196,Male,22,Single,Graduate,Salaried,69800.0,43000.0,360.0,1.0,Semiurban,Approved
+LP00197,Male,42,Married,Graduate,Salaried,101300.0,184000.0,360.0,1.0,Rural,Approved
+LP00198,Female,21,Single,Graduate,Salaried,47500.0,170000.0,360.0,1.0,Semiurban,Rejected
+LP00199,Male,46,,Not Graduate,Salaried,31700.0,71000.0,240.0,1.0,Urban,Approved
+LP00200,Male,39,Married,Graduate,Salaried,53700.0,130000.0,360.0,1.0,Urban,Approved
+LP00201,Female,62,Single,Graduate,Salaried,39200.0,94000.0,240.0,1.0,Semiurban,Approved
+LP00202,Female,27,Married,Graduate,Salaried,,56000.0,360.0,1.0,Urban,Approved
+LP00203,Male,37,Married,Graduate,Self-employed,72000.0,246000.0,360.0,1.0,Semiurban,Approved
+LP00204,Male,56,Married,Not Graduate,Salaried,41300.0,41000.0,240.0,1.0,Semiurban,Approved
+LP00205,Male,50,Married,Graduate,Self-employed,156100.0,402000.0,240.0,1.0,Urban,Approved
+LP00206,Male,31,Married,Graduate,Salaried,63400.0,80000.0,300.0,1.0,Urban,Approved
+LP00207,Male,40,Married,Not Graduate,Salaried,63800.0,50000.0,360.0,1.0,Rural,Approved
+LP00208,Female,38,Married,Not Graduate,Salaried,23500.0,27000.0,360.0,1.0,Semiurban,Approved
+LP00209,Male,41,Divorced,Graduate,,65900.0,263000.0,120.0,0.0,Rural,Rejected
+LP00210,Male,31,Married,Graduate,Salaried,37600.0,48000.0,300.0,1.0,Semiurban,Approved
+LP00211,Female,37,Married,Graduate,Self-employed,71400.0,120000.0,300.0,1.0,Urban,Approved
+LP00212,Male,22,Married,Graduate,Salaried,70900.0,81000.0,360.0,1.0,Semiurban,Approved
+LP00213,Male,39,Single,Graduate,Salaried,53200.0,185000.0,180.0,0.0,Semiurban,Rejected
+LP00214,Female,43,Married,Graduate,Salaried,153600.0,359000.0,300.0,,Semiurban,Approved
+LP00215,Female,36,Single,Not Graduate,Salaried,72300.0,309000.0,360.0,,Rural,Rejected
+LP00216,Female,22,Married,Graduate,Self-employed,101600.0,324000.0,360.0,0.0,Rural,Rejected
+LP00217,Male,48,Married,Graduate,Salaried,73300.0,196000.0,360.0,1.0,Rural,Approved
+LP00218,Male,42,Married,Graduate,Salaried,115000.0,363000.0,360.0,1.0,Semiurban,Approved
+LP00219,Female,31,Married,Graduate,Self-employed,31300.0,24000.0,360.0,1.0,Semiurban,Approved
+LP00220,Male,35,Single,Graduate,Unemployed,33700.0,145000.0,360.0,0.0,Semiurban,Rejected
+LP00221,Male,23,Single,Not Graduate,Salaried,24300.0,105000.0,240.0,1.0,Urban,Rejected
+LP00222,Male,28,Married,Graduate,Salaried,40300.0,68000.0,240.0,1.0,Rural,Approved
+LP00223,Female,33,Divorced,Graduate,Self-employed,77000.0,235000.0,360.0,1.0,Rural,Approved
+LP00224,Female,50,Married,Graduate,Salaried,90600.0,126000.0,360.0,1.0,Urban,Approved
+LP00225,Male,32,Married,Graduate,Salaried,30900.0,85000.0,360.0,,Rural,Approved
+LP00226,Female,44,Married,Graduate,Salaried,41300.0,149000.0,180.0,,Rural,Rejected
+LP00227,Male,33,Married,Not Graduate,Self-employed,45700.0,195000.0,120.0,1.0,Semiurban,Rejected
+LP00228,Male,40,Single,Graduate,Self-employed,55000.0,106000.0,240.0,1.0,Rural,Approved
+LP00229,Female,37,Married,Graduate,Salaried,76400.0,252000.0,360.0,1.0,Urban,Approved
+LP00230,Male,47,Married,Not Graduate,Salaried,178400.0,606000.0,360.0,0.0,Urban,Rejected
+LP00231,Male,33,Married,Graduate,Salaried,62800.0,92000.0,360.0,1.0,Urban,Approved
+LP00232,Male,22,Married,Not Graduate,Salaried,27300.0,83000.0,360.0,1.0,Semiurban,Approved
+LP00233,Female,24,Married,Graduate,Self-employed,33400.0,105000.0,180.0,1.0,Semiurban,Approved
+LP00234,Male,33,Single,Graduate,Salaried,44900.0,161000.0,360.0,,Rural,Rejected
+LP00235,Female,26,Married,Not Graduate,Salaried,24900.0,112000.0,240.0,1.0,Urban,Rejected
+LP00236,Female,42,Married,Graduate,Self-employed,73800.0,56000.0,300.0,1.0,Urban,Approved
+LP00237,Male,33,,Graduate,Salaried,63700.0,88000.0,360.0,1.0,Semiurban,Approved
+LP00238,Female,62,Married,Graduate,Self-employed,48500.0,,360.0,1.0,Urban,Approved
+LP00239,Male,21,Married,Graduate,Salaried,127000.0,153000.0,,1.0,Semiurban,Approved
+LP00240,Male,40,Single,Graduate,Self-employed,43000.0,102000.0,240.0,,Semiurban,Approved
+LP00241,Female,27,Divorced,Graduate,Salaried,49300.0,198000.0,360.0,1.0,Rural,Rejected
+LP00242,Female,33,Married,Graduate,Salaried,69300.0,163000.0,180.0,1.0,Semiurban,Approved
+LP00243,Male,39,Divorced,Graduate,Salaried,77700.0,249000.0,360.0,1.0,Urban,Approved
+LP00244,Male,21,Single,Graduate,Salaried,92400.0,191000.0,360.0,1.0,Urban,Approved
+LP00245,Male,40,Single,Graduate,Salaried,63100.0,117000.0,240.0,1.0,Urban,Approved
+LP00246,Female,57,Single,Graduate,Salaried,83400.0,321000.0,240.0,1.0,Rural,Rejected
+LP00247,Male,33,Single,Graduate,Salaried,38500.0,122000.0,240.0,1.0,Semiurban,Approved
+LP00248,Male,41,Single,Graduate,Self-employed,90400.0,178000.0,360.0,0.0,Semiurban,Rejected
+LP00249,Male,48,Married,Graduate,Salaried,78100.0,325000.0,300.0,1.0,Urban,Rejected
+LP00250,Male,36,Married,Graduate,Salaried,102700.0,261000.0,360.0,1.0,Rural,Approved
+LP00251,Female,32,Married,Graduate,Self-employed,28200.0,38000.0,300.0,1.0,Urban,Approved
+LP00252,Female,21,Married,Graduate,Salaried,34600.0,86000.0,360.0,1.0,Semiurban,Approved
+LP00253,Male,44,Single,Graduate,Self-employed,86600.0,280000.0,180.0,,Rural,Approved
+LP00254,Male,37,Married,Not Graduate,Salaried,11500.0,23000.0,180.0,0.0,Urban,Rejected
+LP00255,Male,28,Married,Not Graduate,Salaried,47400.0,184000.0,360.0,1.0,Semiurban,Approved
+LP00256,Female,39,Married,Graduate,Salaried,83800.0,225000.0,360.0,1.0,Urban,Approved
+LP00257,Female,32,Married,Not Graduate,Self-employed,33700.0,82000.0,240.0,1.0,Semiurban,Approved
+LP00258,Male,33,Single,Not Graduate,Salaried,31300.0,124000.0,300.0,1.0,Rural,Rejected
+LP00259,Male,44,Single,Graduate,Salaried,32100.0,77000.0,360.0,0.0,Semiurban,Rejected
+LP00260,Male,25,Married,Not Graduate,Unemployed,10500.0,23000.0,180.0,0.0,Rural,Rejected
+LP00261,Male,48,Married,Graduate,Salaried,41700.0,42000.0,240.0,1.0,Semiurban,Approved
+LP00262,Female,24,Married,Graduate,Self-employed,44000.0,89000.0,300.0,0.0,Urban,Approved
+LP00263,Male,31,Married,Graduate,Self-employed,42900.0,92000.0,240.0,1.0,Semiurban,Approved
+LP00264,Male,57,Single,Graduate,Self-employed,52900.0,69000.0,360.0,1.0,Semiurban,Approved
+LP00265,Female,49,Married,Graduate,Self-employed,52600.0,152000.0,360.0,1.0,Urban,Rejected
+LP00266,Male,39,Married,Not Graduate,Unemployed,30900.0,36000.0,360.0,0.0,Semiurban,Rejected
+LP00267,Male,29,Married,Graduate,Salaried,43500.0,64000.0,360.0,1.0,Semiurban,Approved
+LP00268,Male,33,Divorced,Graduate,Self-employed,69800.0,195000.0,300.0,1.0,Rural,Approved
+LP00269,Male,39,Single,Graduate,Self-employed,46100.0,76000.0,360.0,1.0,Urban,Approved
+LP00270,Male,38,Married,Graduate,Salaried,39900.0,123000.0,120.0,1.0,Rural,Approved
+LP00271,Male,37,Married,Not Graduate,Salaried,17600.0,58000.0,300.0,1.0,Semiurban,Rejected
+LP00272,Male,38,Married,Not Graduate,Unemployed,6600.0,12000.0,360.0,0.0,Urban,Rejected
+LP00273,Male,36,Divorced,Graduate,Salaried,30200.0,28000.0,300.0,1.0,Urban,Approved
+LP00274,Male,24,Married,Graduate,Salaried,56500.0,142000.0,180.0,1.0,Rural,Approved
+LP00275,Female,33,Married,Graduate,Salaried,84400.0,81000.0,300.0,1.0,Semiurban,Approved
+LP00276,Male,47,Divorced,Graduate,Salaried,23300.0,61000.0,360.0,1.0,Semiurban,Approved
+LP00277,Male,24,Single,Not Graduate,Self-employed,34100.0,117000.0,180.0,1.0,Urban,Rejected
+LP00278,Male,36,Married,Not Graduate,Salaried,20500.0,62000.0,360.0,1.0,Semiurban,Approved
+LP00279,,30,Married,Graduate,Salaried,46200.0,108000.0,360.0,1.0,Rural,Approved
+LP00280,Female,39,Married,Graduate,Self-employed,97000.0,416000.0,360.0,,Urban,Approved
+LP00281,Male,34,Single,Graduate,Salaried,42500.0,42000.0,240.0,1.0,Rural,Approved
+LP00282,Male,53,Married,Graduate,Self-employed,58500.0,236000.0,360.0,1.0,Urban,Rejected
+LP00283,Male,43,Divorced,Graduate,Salaried,100100.0,372000.0,240.0,1.0,Urban,Approved
+LP00284,Male,25,Divorced,Graduate,Self-employed,73500.0,164000.0,360.0,1.0,Semiurban,Approved
+LP00285,Male,45,Married,Graduate,Unemployed,12900.0,15000.0,360.0,0.0,Semiurban,Rejected
+LP00286,Male,30,Single,Not Graduate,Salaried,40800.0,49000.0,180.0,1.0,Urban,Approved
+LP00287,Male,32,Married,Graduate,Salaried,35800.0,150000.0,360.0,0.0,Semiurban,Rejected
+LP00288,Male,41,Married,Graduate,Salaried,62800.0,95000.0,360.0,1.0,Urban,Approved
+LP00289,Male,33,Single,Graduate,Salaried,65600.0,263000.0,360.0,,Semiurban,Approved
+LP00290,Male,47,Married,Graduate,Self-employed,32300.0,83000.0,300.0,1.0,Semiurban,Approved
+LP00291,Female,30,Married,Graduate,Salaried,56300.0,135000.0,360.0,1.0,Rural,Approved
+LP00292,Male,32,Married,Graduate,Salaried,49300.0,149000.0,360.0,1.0,Semiurban,Approved
+LP00293,Female,31,Married,Graduate,Salaried,66400.0,96000.0,360.0,1.0,Semiurban,Approved
+LP00294,Male,32,Married,Graduate,Salaried,75600.0,172000.0,240.0,1.0,Semiurban,Approved
+LP00295,Female,49,Single,Graduate,Self-employed,74100.0,316000.0,360.0,0.0,Urban,Rejected
+LP00296,Female,44,Single,Graduate,Salaried,45400.0,69000.0,360.0,1.0,Urban,Approved
+LP00297,Female,55,Single,Graduate,Salaried,79100.0,332000.0,360.0,1.0,Rural,Rejected
+LP00298,Female,61,Single,Graduate,Salaried,35100.0,157000.0,360.0,0.0,Urban,Rejected
+LP00299,Female,28,Married,Graduate,Self-employed,33000.0,26000.0,300.0,1.0,Rural,Approved
+LP00300,Female,39,Single,Graduate,Salaried,12300.0,33000.0,360.0,1.0,Urban,Approved
+LP00301,Female,26,Married,Not Graduate,Salaried,36800.0,47000.0,300.0,1.0,Rural,Approved
+LP00302,Male,30,Married,Not Graduate,Salaried,26300.0,80000.0,240.0,1.0,Urban,Approved
+LP00303,,32,Divorced,Graduate,Salaried,62200.0,277000.0,,1.0,Rural,Approved
+LP00304,Male,27,Married,Graduate,Unemployed,7500.0,31000.0,240.0,1.0,Semiurban,Rejected
+LP00305,Female,27,Married,Graduate,Salaried,38900.0,164000.0,120.0,1.0,Urban,Approved
+LP00306,Male,37,Married,Not Graduate,Salaried,47000.0,67000.0,180.0,1.0,Semiurban,Approved
+LP00307,Male,26,Married,Graduate,Self-employed,37600.0,102000.0,360.0,1.0,Semiurban,Approved
+LP00308,Female,46,Married,Not Graduate,Salaried,45700.0,69000.0,360.0,0.0,Urban,Rejected
+LP00309,Male,29,Married,Graduate,,40500.0,166000.0,360.0,1.0,Urban,Rejected
+LP00310,Male,66,Single,Graduate,Salaried,51200.0,69000.0,180.0,1.0,Semiurban,Approved
+LP00311,Male,33,Married,Graduate,Salaried,68000.0,82000.0,360.0,0.0,Rural,Approved
+LP00312,Male,39,Married,Graduate,Self-employed,91800.0,59000.0,240.0,0.0,Urban,Approved
+LP00313,Male,25,Married,Not Graduate,Self-employed,45600.0,60000.0,360.0,1.0,Rural,Rejected
+LP00314,Male,55,Single,Graduate,Self-employed,41500.0,56000.0,360.0,1.0,Urban,Approved
+LP00315,Male,49,Married,Graduate,,48700.0,44000.0,240.0,1.0,Urban,Approved
+LP00316,Male,41,Married,Graduate,Salaried,69300.0,276000.0,360.0,1.0,Semiurban,Approved
+LP00317,Male,999,Married,Graduate,Salaried,32800.0,119000.0,300.0,1.0,Urban,Approved
+LP00318,Female,40,Single,Graduate,Salaried,48000.0,76000.0,360.0,1.0,Urban,Approved
+LP00319,Male,27,Single,Graduate,Unemployed,15300.0,56000.0,180.0,0.0,Semiurban,Rejected
+LP00320,Female,53,Single,Graduate,Self-employed,57100.0,128000.0,360.0,1.0,Urban,Approved
+LP00321,Female,46,Single,Graduate,Salaried,33000.0,120000.0,360.0,1.0,Urban,Approved
+LP00322,Male,39,Married,Not Graduate,Salaried,16500.0,31000.0,360.0,1.0,Semiurban,Approved
+LP00323,Male,21,Married,Graduate,Self-employed,75600.0,212000.0,360.0,1.0,Semiurban,Approved
+LP00324,Male,28,Married,Not Graduate,Self-employed,67400.0,141000.0,240.0,1.0,Rural,Approved
+LP00325,Female,45,Married,Not Graduate,Self-employed,19500.0,26000.0,360.0,0.0,Semiurban,Rejected
+LP00326,Female,50,Married,Graduate,Salaried,61400.0,177000.0,360.0,0.0,Semiurban,Rejected
+LP00327,Female,49,Married,Graduate,Salaried,84700.0,299000.0,300.0,,Urban,Rejected
+LP00328,Male,22,Married,Not Graduate,Salaried,49700.0,176000.0,180.0,1.0,Rural,Rejected
+LP00329,Female,41,Married,Graduate,Salaried,43100.0,86000.0,240.0,0.0,Urban,Rejected
+LP00330,Male,48,Married,Graduate,Unemployed,11900.0,31000.0,240.0,0.0,Urban,Rejected
+LP00331,Female,21,Single,Graduate,Salaried,53900.0,193000.0,360.0,0.0,Rural,Rejected
+LP00332,Male,38,Single,Graduate,Salaried,58100.0,47000.0,360.0,1.0,Rural,Approved
+LP00333,Female,41,Married,Graduate,Salaried,54300.0,48000.0,360.0,1.0,Semiurban,Approved
+LP00334,Female,35,Married,Not Graduate,Salaried,35000.0,72000.0,360.0,1.0,Urban,Approved
+LP00335,Male,21,Single,Graduate,Salaried,31900.0,47000.0,240.0,1.0,Urban,Approved
+LP00336,Male,35,Single,Not Graduate,Salaried,46000.0,95000.0,360.0,1.0,Semiurban,Approved
+LP00337,Male,35,Married,Graduate,Self-employed,73900.0,71000.0,120.0,1.0,Rural,Approved
+LP00338,Female,37,Married,Graduate,Salaried,56900.0,166000.0,180.0,1.0,Semiurban,Approved
+LP00339,Male,32,Single,Graduate,Salaried,54700.0,176000.0,240.0,1.0,Urban,Approved
+LP00340,Female,34,Single,GRADUATE ,Salaried,110700.0,408000.0,300.0,1.0,Urban,Approved
+LP00341,Male,38,Married,Graduate,Salaried,39300.0,123000.0,300.0,1.0,Semiurban,Approved
+LP00342,Female,42,Married,Graduate,Self-employed,106400.0,228000.0,360.0,1.0,Semiurban,Approved
+LP00343,Female,35,Single,Graduate,Self-employed,43000.0,183000.0,240.0,1.0,Urban,Rejected
+LP00344,Male,34,Married,Graduate,Salaried,85700.0,294000.0,180.0,0.0,Urban,Rejected
+LP00345,Female,39,Single,Graduate,Unemployed,31700.0,84000.0,360.0,1.0,Urban,Approved
+LP00346,Female,21,Married,Graduate,Self-employed,52400.0,74000.0,120.0,1.0,Urban,Approved
+LP00347,Female,43,Married,Graduate,Salaried,109800.0,344000.0,360.0,1.0,Semiurban,Approved
+LP00348,Male,38,Married,Graduate,Salaried,64200.0,187000.0,360.0,1.0,Urban,Approved
+LP00349,Male,38,Married,Graduate,Salaried,35000.0,114000.0,360.0,1.0,Semiurban,Approved
+LP00350,Male,48,Single,Graduate,Self-employed,50500.0,184000.0,360.0,1.0,Rural,Rejected
+LP00351,,21,Married,Graduate,Salaried,86600.0,361000.0,360.0,0.0,Rural,Rejected
+LP00352,Male,21,Divorced,Graduate,Salaried,78800.0,339000.0,360.0,1.0,Rural,Approved
+LP00353,Male,41,Married,Graduate,Self-employed,37100.0,113000.0,360.0,0.0,Urban,Rejected
+LP00354,Male,38,Single,Graduate,Self-employed,56200.0,245000.0,360.0,1.0,Urban,Rejected
+LP00355,Male,40,Divorced,Graduate,Salaried,57000.0,237000.0,300.0,1.0,Urban,Approved
+LP00356,Male,33,Married,Graduate,Self-employed,47600.0,29000.0,360.0,1.0,Semiurban,Approved
+LP00357,Female,45,Married,Not Graduate,Salaried,109800.0,339000.0,360.0,1.0,Urban,Approved
+LP00358,Female,47,Single,Not Graduate,Self-employed,48500.0,63000.0,120.0,0.0,Semiurban,Rejected
+LP00359,Male,43,Married,Graduate,Salaried,50600.0,,360.0,1.0,Urban,Approved
+LP00360,Male,35,Divorced,Graduate,Salaried,88900.0,156000.0,360.0,1.0,Urban,Approved
+LP00361,Female,21,Married,Graduate,Unemployed,15400.0,38000.0,360.0,1.0,Semiurban,Approved
+LP00362,Male,46,Married,Not Graduate,Salaried,59800.0,38000.0,300.0,0.0,Semiurban,Rejected
+LP00363,Male,50,Married,Graduate,Salaried,24600.0,37000.0,240.0,1.0,Semiurban,Approved
+LP00364,Male,44,Single,Graduate,Salaried,42400.0,,240.0,1.0,Rural,Approved
+LP00365,Female,29,Divorced,GRADUATE ,Salaried,83400.0,262000.0,360.0,1.0,Urban,Approved
+LP00366,Male,45,Married,Graduate,,105400.0,429000.0,360.0,1.0,Urban,Approved
+LP00367,Female,47,Single,Graduate,Salaried,36700.0,165000.0,360.0,1.0,Semiurban,Rejected
+LP00368,Female,54,Divorced,Graduate,Self-employed,40100.0,94000.0,300.0,1.0,Semiurban,Approved
+LP00369,Male,29,Married,Graduate,Self-employed,77200.0,125000.0,240.0,0.0,Semiurban,Approved
+LP00370,Female,36,Married,Graduate,Salaried,39300.0,154000.0,360.0,1.0,Urban,Approved
+LP00371,Female,45,Single,Not Graduate,Salaried,33700.0,35000.0,360.0,1.0,Rural,Approved
+LP00372,Male,39,Single,Not Graduate,Self-employed,64800.0,285000.0,360.0,1.0,Urban,Approved
+LP00373,Male,27,Married,Graduate,Salaried,40700.0,138000.0,300.0,1.0,Semiurban,Approved
+LP00374,Male,42,Single,Graduate,Salaried,21500.0,55000.0,180.0,1.0,Semiurban,Approved
+LP00375,Male,44,Married,Graduate,Salaried,29000.0,28000.0,360.0,0.0,Rural,Rejected
+LP00376,Male,39,Single,Not Graduate,Salaried,38200.0,26000.0,360.0,1.0,Semiurban,Approved
+LP00377,Female,40,Single,Graduate,Salaried,22500.0,61000.0,300.0,1.0,Rural,Approved
+LP00378,Male,35,Single,Graduate,Self-employed,52300.0,116000.0,360.0,0.0,Urban,Rejected
+LP00379,Male,53,Married,Not Graduate,Unemployed,7100.0,28000.0,360.0,0.0,Semiurban,Rejected
+LP00380,Female,29,Married,Graduate,Salaried,108800.0,338000.0,360.0,1.0,Rural,Approved
+LP00381,Male,32,Married,Graduate,Salaried,137800.0,315000.0,360.0,1.0,Semiurban,Approved
+LP00382,Female,38,Married,Graduate,Salaried,32300.0,48000.0,360.0,,Semiurban,Approved
+LP00383,Female,47,Single,Graduate,Salaried,58400.0,144000.0,360.0,1.0,Rural,Approved
+LP00384,Male,23,Married,Graduate,Self-employed,38800.0,48000.0,360.0,1.0,Urban,Approved
+LP00385,Male,25,Married,Graduate,Salaried,45200.0,145000.0,360.0,1.0,Semiurban,Approved
+LP00386,Female,21,Married,Not Graduate,Unemployed,29900.0,89000.0,360.0,1.0,Rural,Rejected
+LP00387,Female,38,Married,Graduate,Salaried,42100.0,158000.0,360.0,0.0,Rural,Rejected
+LP00388,Female,27,Married,Not Graduate,Salaried,33400.0,79000.0,240.0,1.0,Rural,Approved
+LP00389,Male,34,Single,Not Graduate,Salaried,24900.0,42000.0,300.0,0.0,Rural,Rejected
+LP00390,Female,45,Single,Graduate,Salaried,87100.0,336000.0,360.0,1.0,Urban,Approved
+LP00391,Female,32,Married,Not Graduate,Self-employed,10100.0,33000.0,300.0,0.0,Rural,Rejected
+LP00392,Male,40,Single,Graduate,Salaried,42600.0,143000.0,360.0,1.0,Semiurban,Approved
+LP00393,Male,35,Single,Graduate,Salaried,50900.0,135000.0,360.0,0.0,Semiurban,Rejected
+LP00394,Female,45,Married,Graduate,Salaried,38600.0,155000.0,360.0,1.0,Semiurban,Approved
+LP00395,Male,43,Single,Graduate,Salaried,76700.0,114000.0,360.0,1.0,Rural,Approved
+LP00396,Male,31,Married,Not Graduate,Self-employed,75100.0,163000.0,360.0,1.0,Semiurban,Approved
+LP00397,Female,36,Married,Graduate,Salaried,27500.0,102000.0,360.0,1.0,Rural,Approved
+LP00398,Male,48,Married,Graduate,Salaried,133400.0,149000.0,360.0,1.0,Urban,Approved
+LP00399,Male,42,Married,Graduate,Salaried,27400.0,103000.0,240.0,0.0,Urban,Rejected
+LP00400,Male,24,Single,Graduate,Salaried,92900.0,183000.0,240.0,1.0,Semiurban,Approved
+LP00401,Male,45,Divorced,Graduate,Salaried,55600.0,61000.0,360.0,0.0,Urban,Approved
+LP00402,Female,27,Single,Graduate,Salaried,41500.0,38000.0,360.0,1.0,Semiurban,Approved
+LP00403,Female,52,Married,Not Graduate,Salaried,31600.0,123000.0,360.0,0.0,Urban,Rejected
+LP00404,Male,48,Married,Graduate,Salaried,51200.0,186000.0,180.0,0.0,Semiurban,Rejected
+LP00405,Female,41,Divorced,Not Graduate,Salaried,41700.0,72000.0,360.0,1.0,Urban,Approved
+LP00406,Female,40,Married,Graduate,Self-employed,39500.0,42000.0,360.0,,Urban,Approved
+LP00407,Male,36,Married,Graduate,Salaried,46800.0,73000.0,360.0,1.0,Semiurban,Approved
+LP00408,Female,45,Married,Graduate,Salaried,36800.0,53000.0,300.0,1.0,Urban,Approved
+LP00409,Male,34,Married,Graduate,Salaried,30100.0,104000.0,360.0,1.0,Urban,Approved
+LP00410,Female,40,Married,Not Graduate,,26300.0,38000.0,360.0,1.0,Urban,Rejected
+LP00411,Female,47,Married,Graduate,Self-employed,35600.0,51000.0,360.0,1.0,Urban,Approved
+LP00412,Female,32,Single,Graduate,Salaried,43000.0,31000.0,300.0,1.0,Semiurban,Approved
+LP00413,,32,Married,Not Graduate,Salaried,46200.0,135000.0,360.0,1.0,Urban,Rejected
+LP00414,Female,26,Married,Graduate,,63100.0,207000.0,240.0,1.0,Semiurban,Approved
+LP00415,Male,27,Married,Graduate,Self-employed,145400.0,458000.0,360.0,1.0,Semiurban,Approved
+LP00416,,21,Married,Not Graduate,Self-employed,16200.0,46000.0,240.0,0.0,Semiurban,Rejected
+LP00417,Male,45,Single,Graduate,Salaried,64200.0,280000.0,360.0,,Semiurban,Rejected
+LP00418,Female,56,Married,Not Graduate,Salaried,38100.0,93000.0,360.0,0.0,Urban,Rejected
+LP00419,Male,52,Single,Graduate,Salaried,75100.0,297000.0,300.0,1.0,Rural,Rejected
+LP00420,Female,22,Single,Not Graduate,Salaried,52500.0,164000.0,240.0,1.0,Semiurban,Approved
+LP00421,Female,45,Married,Graduate,Salaried,48300.0,45000.0,240.0,1.0,Urban,Approved
+LP00422,Male,52,Single,Graduate,Self-employed,64600.0,243000.0,180.0,1.0,Rural,Approved
+LP00423,Male,33,Single,Graduate,Salaried,37200.0,107000.0,360.0,0.0,Semiurban,Rejected
+LP00424,Male,39,Married,Not Graduate,Salaried,50100.0,158000.0,240.0,1.0,Semiurban,Rejected
+LP00425,Male,21,Married,Graduate,,22300.0,29000.0,180.0,1.0,Rural,Approved
+LP00426,Female,41,Married,Not Graduate,Salaried,53900.0,124000.0,360.0,0.0,Urban,Rejected
+LP00427,Male,27,Divorced,Graduate,Salaried,51500.0,208000.0,240.0,1.0,Rural,Rejected
+LP00428,Female,40,Single,Graduate,Self-employed,48000.0,69000.0,360.0,,Semiurban,Approved
+LP00429,Male,22,Divorced,Not Graduate,Salaried,34200.0,21000.0,360.0,1.0,Semiurban,Approved
+LP00430,Female,43,Single,Graduate,,55700.0,89000.0,360.0,1.0,Urban,Approved
+LP00431,Female,48,Married,Graduate,Salaried,93200.0,233000.0,360.0,1.0,Urban,Approved
+LP00432,Female,30,Single,Graduate,Self-employed,256200.0,974000.0,240.0,1.0,Rural,Approved
+LP00433,Female,27,Married,Graduate,Salaried,90000.0,280000.0,360.0,1.0,Urban,Approved
+LP00434,Female,21,Single,Graduate,,46400.0,194000.0,360.0,1.0,Urban,Approved
+LP00435,Male,35,Married,Graduate,Self-employed,79400.0,189000.0,300.0,1.0,Semiurban,Approved
+LP00436,Male,32,Married,Graduate,Salaried,70400.0,150000.0,360.0,1.0,Semiurban,Approved
+LP00437,Male,22,Single,Graduate,Salaried,34300.0,52000.0,360.0,1.0,Urban,Approved
+LP00438,Male,43,Single,Graduate,Self-employed,33900.0,49000.0,360.0,1.0,Rural,Approved
+LP00439,Female,34,Single,Graduate,Salaried,50500.0,175000.0,360.0,1.0,Semiurban,Approved
+LP00440,Female,27,Married,Graduate,Self-employed,86000.0,79000.0,120.0,1.0,Rural,Approved
+LP00441,Female,32,Married,Graduate,Unemployed,8800.0,14000.0,360.0,0.0,Urban,Rejected
+LP00442,Male,49,Divorced,Graduate,Self-employed,43200.0,175000.0,360.0,1.0,Urban,Approved
+LP00443,Female,44,Married,Graduate,Salaried,67300.0,192000.0,360.0,1.0,Semiurban,Approved
+LP00444,Male,37,Married,Graduate,Salaried,53000.0,41000.0,180.0,1.0,Urban,Approved
+LP00445,Male,44,Married,Graduate,Unemployed,34400.0,115000.0,360.0,0.0,Semiurban,Rejected
+LP00446,Female,26,Married,Not Graduate,Salaried,20100.0,52000.0,360.0,0.0,Urban,Rejected
+LP00447,Female,38,Married,Graduate,Salaried,149900.0,590000.0,300.0,0.0,Rural,Rejected
+LP00448,Male,39,Married,Graduate,Salaried,26000.0,85000.0,360.0,1.0,Rural,Approved
+LP00449,Male,33,Single,Graduate,Self-employed,24000.0,15000.0,360.0,0.0,Rural,Rejected
+LP00450,Male,42,Single,Graduate,Salaried,,71000.0,360.0,1.0,Rural,Approved
+LP00451,Male,30,Divorced,Not Graduate,Salaried,22800.0,37000.0,360.0,1.0,Rural,Approved
+LP00452,Female,43,Married,Not Graduate,Salaried,37300.0,125000.0,240.0,0.0,Semiurban,Rejected
+LP00453,Female,44,Married,Not Graduate,Self-employed,42300.0,109000.0,360.0,1.0,Semiurban,Approved
+LP00454,Male,21,Single,Graduate,Salaried,47600.0,167000.0,360.0,1.0,Rural,Rejected
+LP00455,Male,50,Single,Graduate,Self-employed,40900.0,106000.0,,1.0,Rural,Approved
+LP00456,Male,21,Married,Graduate,Self-employed,,136000.0,300.0,1.0,Rural,Approved
+LP00457,Female,32,Single,Graduate,Unemployed,15800.0,16000.0,180.0,1.0,Rural,Approved
+LP00458,Male,48,Single,Graduate,Self-employed,98300.0,137000.0,360.0,1.0,Urban,Approved
+LP00459,Female,35,Single,Graduate,Salaried,47900.0,104000.0,300.0,1.0,Rural,Approved
+LP00460,Female,23,Single,Graduate,Salaried,33700.0,93000.0,360.0,1.0,Rural,Approved
+LP00461,Male,27,Married,Not Graduate,Salaried,17800.0,76000.0,360.0,1.0,Semiurban,Rejected
+LP00462,Male,48,Married,Graduate,Unemployed,16800.0,26000.0,360.0,1.0,Rural,Approved
+LP00463,Female,21,Single,Graduate,Salaried,29400.0,94000.0,240.0,1.0,Semiurban,Approved
+LP00464,Male,49,Married,Not Graduate,Salaried,20700.0,25000.0,360.0,,Rural,Approved
+LP00465,Male,37,Single,Graduate,Self-employed,75800.0,256000.0,120.0,1.0,Urban,Approved
+LP00466,Female,26,Single,Graduate,Salaried,23400.0,15000.0,360.0,1.0,Rural,Approved
+LP00467,Female,32,Married,Graduate,Self-employed,112900.0,357000.0,360.0,1.0,Urban,Rejected
+LP00468,Female,28,Single,Graduate,Salaried,55900.0,69000.0,360.0,1.0,Urban,Approved
+LP00469,Male,47,Single,Graduate,Salaried,51000.0,66000.0,300.0,1.0,Urban,Approved
+LP00470,Male,45,Single,Graduate,Salaried,32600.0,91000.0,240.0,1.0,Semiurban,Approved
+LP00471,Male,21,Married,Graduate,Salaried,73300.0,151000.0,360.0,1.0,Urban,Approved
+LP00472,Male,34,Single,Graduate,Salaried,51900.0,127000.0,360.0,1.0,Rural,Approved
+LP00473,Male,29,Married,Graduate,Self-employed,43900.0,79000.0,360.0,1.0,Semiurban,Approved
+LP00474,Male,51,Married,Graduate,Salaried,56900.0,246000.0,360.0,1.0,Rural,Approved
+LP00475,Male,24,Married,Not Graduate,Salaried,17800.0,31000.0,360.0,0.0,Urban,Rejected
+LP00476,Male,54,Single,Graduate,Self-employed,28600.0,78000.0,360.0,1.0,Urban,Approved
+LP00477,Male,38,Single,Graduate,Self-employed,36100.0,142000.0,360.0,0.0,Rural,Rejected
+LP00478,Male,26,Married,Graduate,Salaried,60900.0,194000.0,360.0,1.0,Semiurban,Rejected
+LP00479,Female,31,Married,Not Graduate,Unemployed,13300.0,25000.0,360.0,0.0,Semiurban,Rejected
+LP00480,Male,30,Single,Graduate,Salaried,83400.0,230000.0,300.0,1.0,Rural,Approved
+LP00481,Male,25,Single,Graduate,Salaried,34400.0,32000.0,360.0,1.0,Rural,Approved
+LP00482,Male,39,Married,Graduate,Salaried,67300.0,184000.0,240.0,0.0,Semiurban,Approved
+LP00483,Male,26,Divorced,Graduate,Self-employed,56800.0,130000.0,360.0,1.0,Rural,Approved
+LP00484,Male,21,,Graduate,Salaried,34000.0,121000.0,360.0,1.0,Semiurban,Rejected
+LP00485,Male,34,Divorced,Graduate,Salaried,61800.0,241000.0,360.0,0.0,Semiurban,Rejected
+LP00486,Male,21,Divorced,Not Graduate,Self-employed,42400.0,58000.0,300.0,0.0,Semiurban,Approved
+LP00487,Male,30,,Graduate,Salaried,39200.0,36000.0,300.0,1.0,Urban,Approved
+LP00488,Male,29,Single,Graduate,Salaried,53000.0,113000.0,240.0,1.0,Urban,Approved
+LP00489,,29,Single,Graduate,Self-employed,56400.0,151000.0,180.0,,Rural,Approved
+LP00490,Male,58,Married,Graduate,Salaried,48500.0,100000.0,300.0,1.0,Semiurban,Approved
+LP00491,Female,39,Married,Graduate,Salaried,43200.0,132000.0,360.0,0.0,Urban,Rejected
+LP00492,Female,40,Single,Graduate,Salaried,28900.0,74000.0,300.0,1.0,Semiurban,Approved
+LP00493,Female,21,Married,Not Graduate,Unemployed,13800.0,59000.0,300.0,1.0,Urban,Rejected
+LP00494,Male,31,Single,Not Graduate,Salaried,26500.0,58000.0,360.0,1.0,Urban,Approved
+LP00495,Female,40,Married,Not Graduate,Salaried,24000.0,22000.0,240.0,1.0,Rural,Approved
+LP00496,Male,28,Married,Graduate,Salaried,46700.0,83000.0,240.0,1.0,Semiurban,Approved
+LP00497,Male,47,Married,Graduate,Salaried,72400.0,215000.0,360.0,1.0,Urban,Approved
+LP00498,Female,26,Married,Graduate,Unemployed,19800.0,32000.0,180.0,1.0,Semiurban,Approved
+LP00499,Male,35,Married,Graduate,Salaried,40900.0,67000.0,300.0,1.0,Semiurban,Approved
+LP00500,Male,32,Married,Graduate,Salaried,40200.0,77000.0,360.0,1.0,Semiurban,Approved
+LP00501,Female,40,Single,Graduate,Salaried,69200.0,243000.0,240.0,1.0,Rural,Approved
+LP00502,Female,32,Married,Graduate,Salaried,17700.0,76000.0,240.0,1.0,Semiurban,Rejected
+LP00503,Female,35,Married,Graduate,Salaried,74400.0,146000.0,240.0,1.0,Semiurban,Approved
+LP00504,Male,36,Married,Not Graduate,Unemployed,5700.0,8000.0,300.0,0.0,Semiurban,Rejected
+LP00505,Male,31,Married,Graduate,Self-employed,31600.0,71000.0,360.0,0.0,Semiurban,Rejected
+LP00506,Female,43,Married,Graduate,Salaried,41300.0,81000.0,300.0,1.0,Urban,Approved
+LP00507,Male,40,Single,Graduate,Salaried,138100.0,616000.0,300.0,,Urban,Rejected
+LP00508,Female,37,Single,Graduate,Salaried,110600.0,266000.0,300.0,1.0,Rural,Approved
+LP00509,Male,34,Married,Not Graduate,Salaried,52200.0,170000.0,360.0,1.0,Semiurban,Approved
+LP00510,Male,46,Single,Graduate,Salaried,61000.0,254000.0,180.0,1.0,Semiurban,Approved
+LP00511,Male,36,Married,Not Graduate,Salaried,16400.0,50000.0,360.0,1.0,Urban,Approved
+LP00512,Female,35,Married,Not Graduate,Self-employed,46900.0,,300.0,1.0,Rural,Approved
+LP00513,Male,39,Single,Graduate,Self-employed,46700.0,139000.0,360.0,1.0,Urban,Approved
+LP00514,,55,Married,Graduate,Salaried,36000.0,78000.0,300.0,1.0,Semiurban,Approved
+LP00515,Male,25,Single,Graduate,Self-employed,,144000.0,180.0,1.0,Rural,Approved
+LP00516,Male,46,Married,Graduate,Salaried,42100.0,186000.0,360.0,1.0,Semiurban,Approved
+LP00517,Male,21,Married,Graduate,Salaried,76900.0,130000.0,240.0,1.0,Rural,Approved
+LP00518,Female,40,Married,Not Graduate,Self-employed,18300.0,44000.0,360.0,1.0,Urban,Approved
+LP00519,Male,54,Married,Graduate,Salaried,53800.0,66000.0,360.0,1.0,Semiurban,Approved
+LP00520,Female,43,Divorced,Not Graduate,Salaried,25600.0,33000.0,360.0,1.0,Rural,Approved
+LP00521,Female,40,Married,Graduate,Self-employed,49700.0,147000.0,240.0,1.0,Semiurban,Approved
+LP00522,Male,32,Single,Not Graduate,,43600.0,154000.0,360.0,1.0,Semiurban,Approved
+LP00523,Male,38,Single,Graduate,Self-employed,36200.0,112000.0,300.0,1.0,Semiurban,Rejected
+LP00524,Male,35,Married,Graduate,Salaried,56000.0,106000.0,360.0,1.0,Rural,Approved
+LP00525,Male,30,Married,Graduate,Self-employed,54400.0,45000.0,360.0,1.0,Rural,Approved
+LP00526,Male,35,Married,Graduate,Salaried,38600.0,94000.0,360.0,1.0,Semiurban,Approved
+LP00527,Female,40,Married,Not Graduate,Salaried,30700.0,79000.0,360.0,1.0,Rural,Approved
+LP00528,Female,30,Single,Graduate,Salaried,48500.0,175000.0,360.0,1.0,Semiurban,Approved
+LP00529,Female,30,Married,Graduate,Self-employed,42300.0,131000.0,360.0,1.0,Semiurban,Approved
+LP00530,Male,24,Divorced,Graduate,Salaried,52200.0,209000.0,240.0,1.0,Urban,Rejected
+LP00531,Female,42,Single,Graduate,Self-employed,52800.0,193000.0,360.0,0.0,Semiurban,Rejected
+LP00532,Female,43,Married,Graduate,Salaried,39500.0,,300.0,1.0,Rural,Approved
+LP00533,Male,40,Single,Graduate,Salaried,106300.0,326000.0,120.0,1.0,Semiurban,Approved
+LP00534,Female,48,Married,Graduate,Salaried,62700.0,220000.0,,1.0,Urban,Approved
+LP00535,Male,39,Single,Graduate,Salaried,43800.0,190000.0,180.0,1.0,Semiurban,Approved
+LP00536,Male,42,Married,Graduate,Unemployed,19400.0,44000.0,360.0,,Rural,Approved
+LP00537,Male,41,Divorced,Not Graduate,Salaried,23900.0,75000.0,240.0,0.0,Rural,Rejected
+LP00538,Male,37,Single,Graduate,Salaried,42700.0,91000.0,300.0,1.0,Urban,Approved
+LP00539,Male,33,Single,Graduate,Salaried,45000.0,156000.0,360.0,1.0,Urban,Approved
+LP00540,Female,60,Married,Graduate,Salaried,29700.0,123000.0,180.0,1.0,Semiurban,Approved
+LP00541,Female,33,Single,Graduate,Salaried,61900.0,259000.0,360.0,0.0,Urban,Rejected
+LP00542,Male,31,Married,Graduate,Self-employed,47600.0,58000.0,360.0,0.0,Rural,Rejected
+LP00543,Female,42,Single,Graduate,Salaried,44300.0,62000.0,360.0,0.0,Semiurban,Approved
+LP00544,Female,41,Married,Graduate,Salaried,40300.0,143000.0,240.0,,Semiurban,Approved
+LP00545,Male,24,Married,Graduate,Salaried,196900.0,603000.0,360.0,1.0,Urban,Rejected
+LP00546,Male,49,Married,Graduate,Salaried,38600.0,159000.0,360.0,1.0,Semiurban,Approved
+LP00547,Male,37,Married,Not Graduate,Salaried,15000.0,27000.0,300.0,1.0,Rural,Approved
+LP00548,Male,27,Married,Graduate,Salaried,25300.0,99000.0,,1.0,Semiurban,Approved
+LP00549,Female,50,Single,Graduate,Salaried,73200.0,239000.0,300.0,0.0,Urban,Rejected
+LP00550,,44,Married,Graduate,Self-employed,109100.0,149000.0,360.0,,Urban,Approved
+LP00551,Male,25,Single,Graduate,Unemployed,13400.0,15000.0,180.0,1.0,Rural,Approved
+LP00552,Male,56,Married,Graduate,Unemployed,32400.0,108000.0,300.0,,Rural,Rejected
+LP00553,Male,45,Single,Graduate,Self-employed,83500.0,102000.0,360.0,1.0,Urban,Approved
+LP00554,Female,38,Single,Graduate,Salaried,47700.0,176000.0,360.0,1.0,Semiurban,Approved
+LP00555,Male,54,Married,Graduate,Self-employed,53200.0,148000.0,240.0,0.0,Urban,Rejected
+LP00556,Male,40,Single,Graduate,Salaried,56400.0,139000.0,300.0,1.0,Semiurban,Approved
+LP00557,Male,38,Single,Not Graduate,Salaried,56400.0,94000.0,300.0,1.0,Urban,Approved
+LP00558,Male,31,Single,Graduate,Salaried,62200.0,276000.0,360.0,1.0,Rural,Rejected
+LP00559,Male,44,Married,Not Graduate,,28000.0,96000.0,360.0,1.0,Rural,Approved
+LP00560,Male,43,Married,Graduate,Unemployed,16800.0,61000.0,360.0,1.0,Urban,Rejected
+LP00561,Male,38,Single,Not Graduate,Self-employed,106600.0,384000.0,360.0,1.0,Semiurban,Rejected
+LP00562,Male,30,Married,Graduate,Salaried,58200.0,167000.0,180.0,1.0,Urban,Rejected
+LP00563,Female,39,Single,Graduate,Salaried,76900.0,328000.0,360.0,1.0,Urban,Approved
+LP00564,Female,37,Married,Not Graduate,Salaried,48500.0,140000.0,300.0,0.0,Urban,Rejected
+LP00565,Female,25,Single,Graduate,Salaried,58800.0,155000.0,300.0,1.0,Urban,Approved
+LP00566,Female,23,Married,Graduate,Self-employed,62800.0,105000.0,240.0,1.0,Rural,Approved
+LP00567,Female,44,Married,Not Graduate,Unemployed,19900.0,34000.0,180.0,0.0,Urban,Rejected
+LP00568,Male,21,Divorced,Graduate,Salaried,71900.0,250000.0,360.0,1.0,Rural,Approved
+LP00569,Male,40,Single,Graduate,Salaried,58600.0,112000.0,240.0,0.0,Urban,Rejected
+LP00570,Male,33,Single,Graduate,Salaried,38100.0,131000.0,240.0,0.0,Semiurban,Rejected
+LP00571,Male,51,Divorced,Not Graduate,Salaried,45200.0,195000.0,240.0,0.0,Semiurban,Rejected
+LP00572,Female,33,Married,Not Graduate,Salaried,36900.0,85000.0,360.0,1.0,Rural,Approved
+LP00573,Male,45,Married,Graduate,Salaried,45300.0,44000.0,360.0,1.0,Urban,Approved
+LP00574,,34,Married,Graduate,Salaried,173600.0,555000.0,360.0,1.0,Urban,Approved
+LP00575,Female,39,Married,Graduate,Salaried,26000.0,17000.0,360.0,1.0,Rural,Approved
+LP00576,Male,45,Married,Graduate,Salaried,80000.0,294000.0,360.0,0.0,Semiurban,Rejected
+LP00577,Female,33,Divorced,Not Graduate,Self-employed,29600.0,78000.0,360.0,1.0,Semiurban,Approved
+LP00578,Male,48,Married,Graduate,Salaried,55200.0,139000.0,240.0,1.0,Urban,Approved
+LP00579,Female,28,Married,Graduate,Self-employed,190000.0,536000.0,300.0,1.0,Urban,Approved
+LP00580,Male,41,Married,Graduate,Salaried,33700.0,88000.0,240.0,1.0,Rural,Approved
+LP00581,Male,47,Married,Graduate,Salaried,37500.0,70000.0,360.0,1.0,Semiurban,Approved
+LP00582,Male,45,Married,Not Graduate,Salaried,37700.0,64000.0,120.0,1.0,Semiurban,Approved
+LP00583,Male,57,Single,Graduate,Self-employed,40800.0,91000.0,180.0,1.0,Urban,Approved
+LP00584,Male,30,Married,Graduate,Salaried,77400.0,317000.0,360.0,,Urban,Rejected
+LP00585,Female,24,Single,Not Graduate,Salaried,29900.0,34000.0,180.0,1.0,Rural,Approved
+LP00586,Female,28,Single,Not Graduate,Salaried,51000.0,95000.0,120.0,0.0,Semiurban,Rejected
+LP00587,Male,45,Single,Graduate,Unemployed,10000.0,13000.0,180.0,0.0,Urban,Rejected
+LP00588,Male,43,Single,Not Graduate,Salaried,16900.0,38000.0,360.0,1.0,Rural,Rejected
+LP00589,Male,39,Married,Graduate,Salaried,46900.0,53000.0,180.0,1.0,Semiurban,Approved
+LP00590,Male,27,Married,Not Graduate,Self-employed,21600.0,77000.0,180.0,1.0,Urban,Rejected
+LP00591,Female,46,Married,Graduate,Salaried,103000.0,103000.0,240.0,0.0,Semiurban,Approved
+LP00592,Male,26,Divorced,Graduate,Salaried,26100.0,83000.0,360.0,1.0,Semiurban,Approved
+LP00593,Male,50,Single,Graduate,Self-employed,37500.0,62000.0,240.0,1.0,Semiurban,Approved
+LP00594,Male,67,Married,Graduate,Salaried,62600.0,153000.0,120.0,1.0,Semiurban,Approved
+LP00595,Male,42,Married,Graduate,Salaried,39900.0,55000.0,360.0,1.0,Semiurban,Approved
+LP00596,Male,44,Single,Graduate,Salaried,26300.0,91000.0,360.0,0.0,Urban,Rejected
+LP00597,Female,33,Single,Graduate,Salaried,130200.0,560000.0,240.0,1.0,Rural,Rejected
+LP00598,Female,21,Married,Graduate,Self-employed,38100.0,56000.0,240.0,0.0,Semiurban,Rejected
+LP00599,Female,32,Single,Graduate,Salaried,,206000.0,240.0,1.0,Semiurban,Approved
+LP00600,Female,27,Single,Graduate,Salaried,47300.0,88000.0,360.0,1.0,Semiurban,Approved
+LP00601,Male,24,,Not Graduate,Salaried,52300.0,145000.0,240.0,0.0,Semiurban,Rejected
+LP00602,Female,55,Married,Not Graduate,Salaried,46800.0,156000.0,360.0,1.0,Semiurban,Approved
+LP00603,Female,41,Married,Graduate,Salaried,35800.0,49000.0,360.0,1.0,Semiurban,Approved
+LP00604,Female,42,Divorced,Graduate,Salaried,,105000.0,360.0,1.0,Rural,Approved
+LP00605,Female,35,Single,Graduate,,54000.0,47000.0,120.0,1.0,Rural,Approved
+LP00606,Female,36,Married,Graduate,Salaried,72800.0,242000.0,360.0,1.0,Rural,Approved
+LP00607,Female,48,Single,Not Graduate,Self-employed,25800.0,57000.0,360.0,1.0,Urban,Rejected
+LP00608,Male,38,Married,Graduate,Salaried,128900.0,526000.0,360.0,1.0,Semiurban,Approved
+LP00609,Female,43,Single,Graduate,Salaried,37000.0,62000.0,180.0,,Semiurban,Approved
+LP00610,Male,36,Married,Graduate,Self-employed,59600.0,250000.0,360.0,1.0,Urban,Approved
+LP00611,Male,35,Single,Graduate,Self-employed,35500.0,,360.0,1.0,Rural,Approved
+LP00612,Female,24,Married,Not Graduate,Salaried,21200.0,63000.0,360.0,1.0,Urban,Approved
+LP00613,Female,21,Married,Graduate,Salaried,,63000.0,360.0,1.0,Urban,Approved
+LP00614,Female,35,Married,Graduate,Self-employed,38600.0,51000.0,360.0,1.0,Urban,Approved
+LP00615,Male,39,Single,Graduate,Salaried,43200.0,42000.0,300.0,1.0,Urban,Approved
+LP00616,Female,25,Married,Not Graduate,Salaried,24500.0,77000.0,360.0,1.0,Urban,Approved
+LP00617,Female,38,Married,Graduate,Salaried,71100.0,107000.0,360.0,,Semiurban,Approved
+LP00618,Male,39,Single,Not Graduate,Salaried,26700.0,76000.0,360.0,1.0,Semiurban,Rejected
+LP00619,Male,21,Married,Not Graduate,Salaried,25400.0,112000.0,240.0,1.0,Urban,Rejected
+LP00620,Male,29,Married,Graduate,Salaried,43600.0,80000.0,120.0,1.0,Urban,Approved
+LP00621,Female,42,Married,Not Graduate,Self-employed,68300.0,50000.0,360.0,1.0,Rural,Approved
+LP00622,Male,42,Single,Graduate,Salaried,57300.0,66000.0,360.0,1.0,Urban,Approved
+LP00623,Female,26,Married,Graduate,Salaried,49700.0,53000.0,180.0,0.0,Semiurban,Approved
+LP00624,Male,40,Married,Graduate,Unemployed,9600.0,23000.0,300.0,1.0,Semiurban,Approved
+LP00625,Female,48,Married,Graduate,Salaried,31100.0,109000.0,360.0,1.0,Semiurban,Approved
+LP00626,Male,46,Married,Graduate,Salaried,29300.0,51000.0,360.0,1.0,Rural,Approved
+LP00627,Female,37,Married,Graduate,Salaried,93600.0,109000.0,240.0,1.0,Semiurban,Approved
+LP00628,Male,33,Married,Graduate,Salaried,66000.0,205000.0,300.0,1.0,Rural,Approved
+LP00629,Male,32,Married,Graduate,Salaried,35300.0,63000.0,300.0,1.0,Rural,Approved
+LP00630,Female,43,Married,Graduate,Unemployed,14100.0,40000.0,180.0,0.0,Urban,Rejected
+LP00631,Female,40,Single,Graduate,Self-employed,41200.0,175000.0,360.0,1.0,Urban,Rejected
+LP00632,Female,44,Married,Graduate,Salaried,34900.0,61000.0,360.0,0.0,Urban,Rejected
+LP00633,Male,39,Married,Not Graduate,Salaried,46700.0,121000.0,360.0,0.0,Semiurban,Rejected
+LP00634,Male,46,Single,Not Graduate,Self-employed,38400.0,144000.0,360.0,1.0,Semiurban,Approved
+LP00635,Male,39,Single,Graduate,Salaried,132700.0,438000.0,120.0,1.0,Urban,Approved
+LP00636,Male,46,Single,Graduate,Self-employed,105000.0,371000.0,240.0,1.0,Urban,Rejected
+LP00637,Female,47,Married,Graduate,Salaried,93700.0,339000.0,240.0,0.0,Semiurban,Rejected
+LP00638,Female,30,Married,Not Graduate,Self-employed,59100.0,160000.0,180.0,1.0,Semiurban,Rejected
+LP00639,Female,21,Married,Graduate,Self-employed,49400.0,133000.0,360.0,1.0,Semiurban,Approved
+LP00640,Female,53,Married,Not Graduate,Salaried,49700.0,,180.0,0.0,Rural,Rejected
+LP00641,Female,41,Married,Graduate,Salaried,44400.0,147000.0,360.0,0.0,Urban,Rejected
+LP00642,Female,21,Married,Graduate,Self-employed,124500.0,400000.0,240.0,1.0,Semiurban,Rejected
+LP00643,Male,31,Married,Graduate,Salaried,62400.0,130000.0,180.0,,Rural,Rejected
+LP00644,Male,46,Single,Graduate,Salaried,58500.0,224000.0,240.0,1.0,Semiurban,Rejected
+LP00645,Female,35,Married,Not Graduate,Salaried,40200.0,61000.0,360.0,1.0,Semiurban,Approved
+LP00646,Female,33,Married,Graduate,Salaried,113800.0,137000.0,360.0,0.0,Semiurban,Rejected
+LP00647,Male,52,Single,Graduate,Salaried,27300.0,53000.0,360.0,1.0,Urban,Approved
+LP00648,Male,28,Single,Graduate,Salaried,118900.0,189000.0,180.0,1.0,Rural,Approved
+LP00649,Female,30,Married,Graduate,Salaried,47800.0,152000.0,360.0,,Semiurban,Approved
+LP00650,Male,40,Married,Graduate,Self-employed,31800.0,48000.0,360.0,1.0,Semiurban,Approved
+LP00651,Male,42,Married,Graduate,,,117000.0,300.0,1.0,Semiurban,Approved
+LP00652,Female,150,Married,Graduate,Salaried,24700.0,64000.0,180.0,1.0,Semiurban,Approved
+LP00653,Female,47,Single,Graduate,Salaried,69800.0,83000.0,240.0,1.0,Urban,Approved
+LP00654,Male,40,Married,Graduate,Self-employed,37500.0,60000.0,180.0,1.0,Rural,Approved
+LP00655,Female,43,Married,Graduate,Salaried,56100.0,148000.0,360.0,0.0,Semiurban,Rejected
+LP00656,Male,35,Married,Graduate,Self-employed,99600.0,345000.0,300.0,1.0,Urban,Approved
+LP00657,Female,39,Married,Graduate,Salaried,38400.0,83000.0,360.0,1.0,Semiurban,Approved
+LP00658,Male,39,Married,Not Graduate,Salaried,33700.0,51000.0,360.0,1.0,Rural,Rejected
+LP00659,Male,40,Married,Graduate,Unemployed,10100.0,18000.0,300.0,1.0,Semiurban,Rejected
+LP00660,Male,46,Divorced,Graduate,Self-employed,50200.0,49000.0,360.0,1.0,Semiurban,Approved
+LP00661,Male,44,Single,Not Graduate,Salaried,121000.0,84000.0,180.0,0.0,Semiurban,Rejected
+LP00662,Female,38,Married,Graduate,Salaried,73800.0,324000.0,360.0,0.0,Rural,Rejected
+LP00663,Male,30,Married,Graduate,Salaried,46200.0,45000.0,180.0,1.0,Semiurban,Approved
+LP00664,Male,39,Single,Graduate,Salaried,39500.0,43000.0,240.0,0.0,Rural,Rejected
+LP00665,Male,38,Married,Graduate,Self-employed,58700.0,235000.0,240.0,1.0,Urban,Approved
+LP00666,Female,40,Married,Graduate,Self-employed,63400.0,202000.0,360.0,1.0,Rural,Approved
+LP00667,Female,60,Single,Not Graduate,Salaried,31500.0,72000.0,360.0,1.0,Rural,Approved
+LP00668,Female,33,Married,Not Graduate,Salaried,48200.0,151000.0,360.0,1.0,Semiurban,Approved
+LP00669,Male,42,Married,Graduate,Salaried,33900.0,144000.0,180.0,0.0,Semiurban,Rejected
+LP00670,Male,49,Married,Graduate,Salaried,33800.0,33000.0,360.0,1.0,Urban,Approved
+LP00671,Male,39,Married,Not Graduate,Self-employed,51600.0,80000.0,180.0,1.0,Semiurban,Approved
+LP00672,Male,61,Married,Graduate,Salaried,30700.0,121000.0,360.0,1.0,Urban,Approved
+LP00673,Female,34,Single,Graduate,Salaried,72200.0,263000.0,360.0,,Urban,Approved
+LP00674,Female,41,Married,Graduate,Salaried,51700.0,231000.0,360.0,1.0,Rural,Approved
+LP00675,Male,30,Married,Graduate,Unemployed,8000.0,15000.0,300.0,0.0,Urban,Rejected
+LP00676,Male,34,Single,Graduate,Salaried,54600.0,234000.0,360.0,,Semiurban,Rejected
+LP00677,Female,40,Married,Graduate,Salaried,24400.0,47000.0,360.0,1.0,Urban,Approved
+LP00678,Male,46,Married,Graduate,Salaried,71000.0,241000.0,180.0,1.0,Semiurban,Approved
+LP00679,Male,41,Married,Graduate,Salaried,46500.0,188000.0,360.0,1.0,Semiurban,Approved
+LP00680,Male,51,Single,Not Graduate,Salaried,87400.0,111000.0,180.0,1.0,Urban,Approved
+LP00681,Male,37,Married,Graduate,Salaried,84200.0,118000.0,360.0,1.0,Semiurban,Approved
+LP00682,Male,35,Single,Graduate,Salaried,32300.0,93000.0,360.0,1.0,Rural,Approved
+LP00683,Male,65,Single,Graduate,Salaried,20900.0,81000.0,360.0,1.0,Semiurban,Approved
+LP00684,Male,42,Single,Graduate,Self-employed,42600.0,39000.0,360.0,1.0,Rural,Approved
+LP00685,Female,31,Divorced,Not Graduate,Salaried,21900.0,86000.0,240.0,1.0,Semiurban,Approved
+LP00686,Male,31,Single,Not Graduate,Salaried,86400.0,167000.0,360.0,1.0,Semiurban,Approved
+LP00687,Male,29,Single,Graduate,Salaried,51800.0,113000.0,240.0,1.0,Urban,Approved
+LP00688,Female,47,Single,Graduate,Self-employed,91000.0,175000.0,360.0,1.0,Urban,Approved
+LP00689,Female,34,Single,Graduate,Self-employed,52600.0,219000.0,360.0,1.0,Rural,Approved
+LP00690,Male,39,Single,Graduate,Self-employed,55200.0,61000.0,360.0,1.0,Semiurban,Approved
+LP00691,Male,37,Divorced,Graduate,Salaried,51200.0,145000.0,240.0,1.0,Semiurban,Approved
+LP00692,Female,45,Married,Graduate,Salaried,85600.0,101000.0,240.0,1.0,Rural,Approved
+LP00693,Male,30,Single,Graduate,Salaried,59800.0,252000.0,360.0,0.0,Urban,Rejected
+LP00694,Male,27,Married,Graduate,Salaried,32300.0,120000.0,180.0,0.0,Rural,Rejected
+LP00695,Female,40,Single,Graduate,Salaried,107900.0,163000.0,240.0,,Urban,Approved
+LP00696,Male,999,Married,Graduate,Salaried,45600.0,80000.0,300.0,1.0,Rural,Approved
+LP00697,Female,41,Single,Graduate,Salaried,42400.0,89000.0,360.0,1.0,Urban,Approved
+LP00698,Male,30,Single,Graduate,Salaried,14600.0,32000.0,240.0,0.0,Urban,Rejected
+LP00699,Female,45,Divorced,Graduate,Salaried,69200.0,262000.0,360.0,1.0,Semiurban,Rejected
+LP00700,,31,Married,Graduate,Salaried,54400.0,152000.0,360.0,1.0,Urban,Approved
+LP00701,Male,33,Single,Graduate,Self-employed,62600.0,142000.0,360.0,1.0,Rural,Approved
+LP00702,Male,29,Single,Graduate,Salaried,43400.0,148000.0,240.0,1.0,Semiurban,Approved
+LP00703,Male,51,Divorced,Not Graduate,Self-employed,33700.0,80000.0,180.0,1.0,Urban,Rejected
+LP00704,Female,44,Single,Not Graduate,Salaried,32200.0,35000.0,180.0,1.0,Urban,Approved
+LP00705,Male,44,Married,Graduate,Self-employed,73700.0,75000.0,360.0,1.0,Rural,Approved
+LP00706,Male,50,Married,Graduate,Self-employed,,149000.0,360.0,0.0,Semiurban,Rejected
+LP00707,Female,66,Married,Graduate,Salaried,46900.0,138000.0,120.0,1.0,Rural,Approved
+LP00708,Female,21,Divorced,Graduate,Unemployed,27900.0,31000.0,240.0,1.0,Urban,Approved
+LP00709,Male,31,Married,Graduate,Salaried,50200.0,138000.0,300.0,0.0,Rural,Rejected
+LP00710,Male,32,Single,Graduate,Salaried,41400.0,68000.0,300.0,1.0,Semiurban,Approved
+LP00711,Female,29,Single,Graduate,Self-employed,65400.0,217000.0,360.0,0.0,Semiurban,Rejected
+LP00712,Female,27,Married,Graduate,Salaried,28200.0,20000.0,240.0,,Semiurban,Rejected
+LP00713,Female,35,Married,Graduate,Salaried,57700.0,140000.0,180.0,1.0,Urban,Approved
+LP00714,Female,26,Married,Graduate,Salaried,26000.0,21000.0,300.0,1.0,Rural,Approved
+LP00715,Female,41,Single,Graduate,Salaried,32700.0,62000.0,180.0,1.0,Rural,Approved
+LP00716,Male,39,Married,Graduate,Salaried,21000.0,14000.0,180.0,1.0,Semiurban,Approved
+LP00717,Male,43,Married,Graduate,Salaried,48100.0,117000.0,300.0,,Rural,Approved
+LP00718,Male,43,Single,Graduate,Salaried,107300.0,,300.0,1.0,Urban,Approved
+LP00719,Female,44,Married,Graduate,Salaried,49300.0,49000.0,180.0,1.0,Urban,Approved
+LP00720,Female,34,Single,Graduate,Salaried,69500.0,241000.0,360.0,1.0,Urban,Approved
+LP00721,Male,59,Married,Graduate,Salaried,149900.0,431000.0,360.0,,Semiurban,Approved
+LP00722,Male,40,Married,Not Graduate,Salaried,45600.0,117000.0,180.0,1.0,Urban,Approved
+LP00723,Male,21,Married,Graduate,Salaried,36900.0,108000.0,360.0,1.0,Semiurban,Approved
+LP00724,Female,28,Married,Graduate,Salaried,39200.0,75000.0,240.0,1.0,Urban,Approved
+LP00725,Male,21,Married,Graduate,,59800.0,202000.0,360.0,1.0,Rural,Rejected
+LP00726,Male,38,Single,Not Graduate,Self-employed,32900.0,120000.0,360.0,1.0,Rural,Rejected
+LP00727,Male,37,Married,Not Graduate,Salaried,29600.0,108000.0,300.0,1.0,Semiurban,Approved
+LP00728,Male,33,Married,Not Graduate,Salaried,59200.0,98000.0,240.0,1.0,Urban,Approved
+LP00729,Male,58,Married,Graduate,Self-employed,94900.0,299000.0,360.0,0.0,Rural,Rejected
+LP00730,Male,43,Married,Graduate,Self-employed,28500.0,34000.0,300.0,1.0,Urban,Approved
+LP00731,Male,45,Divorced,Graduate,Salaried,36000.0,91000.0,,1.0,Rural,Approved
+LP00732,Male,29,Married,Graduate,Salaried,42200.0,26000.0,360.0,0.0,Semiurban,Approved
+LP00733,Male,28,Divorced,Graduate,Salaried,68100.0,92000.0,360.0,1.0,Semiurban,Approved
+LP00734,Male,38,Married,Graduate,Salaried,87000.0,267000.0,360.0,0.0,Urban,Rejected
+LP00735,Male,40,Married,Graduate,Self-employed,201700.0,809000.0,360.0,1.0,Rural,Approved
+LP00736,Female,21,Married,Not Graduate,Salaried,30800.0,24000.0,360.0,1.0,Rural,Approved
+LP00737,Male,36,Married,Graduate,Salaried,43100.0,,360.0,1.0,Semiurban,Approved
+LP00738,Male,38,Single,Graduate,Salaried,67800.0,209000.0,360.0,1.0,Rural,Approved
+LP00739,Male,36,Married,Graduate,Self-employed,44000.0,186000.0,360.0,0.0,Rural,Rejected
+LP00740,Male,30,Married,Not Graduate,Salaried,35700.0,113000.0,360.0,1.0,Urban,Rejected
+LP00741,Male,33,Single,Not Graduate,Self-employed,36300.0,36000.0,360.0,1.0,Rural,Approved
+LP00742,Male,36,Single,Graduate,Salaried,16000.0,19000.0,360.0,1.0,Urban,Approved
+LP00743,Female,39,Divorced,Not Graduate,Salaried,40200.0,124000.0,,0.0,Semiurban,Rejected
+LP00744,Male,44,Divorced,Not Graduate,Salaried,35000.0,50000.0,360.0,1.0,Urban,Approved
+LP00745,Male,49,Single,Not Graduate,Salaried,67300.0,284000.0,240.0,1.0,Rural,Rejected
+LP00746,Male,35,Single,Not Graduate,Unemployed,13300.0,56000.0,360.0,0.0,Semiurban,Rejected
+LP00747,Male,33,Single,Graduate,Salaried,29600.0,127000.0,120.0,1.0,Urban,Approved
+LP00748,Male,42,Married,Not Graduate,Salaried,33800.0,59000.0,240.0,1.0,Semiurban,Approved
+LP00749,Female,44,Single,Graduate,Salaried,20300.0,69000.0,300.0,1.0,Semiurban,Rejected
+LP00750,Female,34,Married,Graduate,Salaried,30200.0,96000.0,360.0,1.0,Rural,Approved
+LP00751,Male,46,Single,Graduate,Salaried,69200.0,51000.0,360.0,1.0,Rural,Approved
+LP00752,Male,48,Divorced,Not Graduate,Self-employed,39100.0,64000.0,240.0,1.0,Urban,Approved
+LP00753,Male,51,Married,Not Graduate,Salaried,57600.0,81000.0,180.0,0.0,Semiurban,Rejected
+LP00754,Male,56,Single,Graduate,Salaried,21500.0,44000.0,240.0,1.0,Semiurban,Approved
+LP00755,Female,29,Divorced,Not Graduate,Salaried,,147000.0,300.0,1.0,Semiurban,Approved
+LP00756,Male,38,Married,Graduate,Salaried,42000.0,164000.0,120.0,1.0,Semiurban,Approved
+LP00757,Male,38,Married,Graduate,Salaried,79900.0,139000.0,360.0,1.0,Urban,Approved
+LP00758,Female,37,Divorced,GRADUATE ,Salaried,70400.0,188000.0,240.0,1.0,Urban,Approved
+LP00759,Male,32,Divorced,Not Graduate,Salaried,50700.0,68000.0,300.0,,Semiurban,Approved
+LP00760,Male,23,Married,Graduate,Self-employed,119700.0,201000.0,300.0,1.0,Rural,Approved
+LP00761,Female,39,Married,Graduate,Self-employed,50700.0,43000.0,360.0,0.0,Urban,Approved
+LP00762,Male,30,Single,Graduate,Self-employed,109000.0,,360.0,1.0,Urban,Approved
+LP00763,Male,39,Married,Graduate,Salaried,32500.0,103000.0,180.0,1.0,Rural,Approved
+LP00764,Male,30,Married,Graduate,Salaried,32000.0,124000.0,300.0,1.0,Rural,Rejected
+LP00765,Female,27,Married,Not Graduate,,61300.0,245000.0,360.0,1.0,Semiurban,Rejected
+LP00766,Male,40,Married,Graduate,Salaried,26400.0,32000.0,120.0,1.0,Urban,Approved
+LP00767,Male,40,Married,Not Graduate,Salaried,49200.0,172000.0,360.0,0.0,Semiurban,Rejected
+LP00768,Male,44,Single,Graduate,,54400.0,61000.0,360.0,1.0,Semiurban,Approved
+LP00769,Male,60,Single,Not Graduate,Self-employed,70800.0,146000.0,360.0,1.0,Semiurban,Approved
+LP00770,Female,41,Single,Graduate,Salaried,50600.0,,360.0,1.0,Urban,Approved
+LP00771,Male,43,Married,Graduate,Salaried,53300.0,42000.0,300.0,1.0,Urban,Approved
+LP00772,Male,27,Married,Graduate,Salaried,65400.0,79000.0,300.0,1.0,Urban,Approved
+LP00773,Male,25,Married,Graduate,Salaried,38600.0,64000.0,180.0,1.0,Semiurban,Approved
+LP00774,Female,54,Married,Graduate,Salaried,37800.0,41000.0,120.0,1.0,Semiurban,Approved
+LP00775,Male,29,Married,Not Graduate,Salaried,47000.0,199000.0,,1.0,Urban,Rejected
+LP00776,Female,28,Married,Graduate,Salaried,51300.0,88000.0,360.0,1.0,Semiurban,Approved
+LP00777,Male,38,Married,Graduate,Self-employed,49800.0,127000.0,360.0,1.0,Rural,Approved
+LP00778,Male,37,Married,Graduate,Self-employed,57600.0,258000.0,240.0,1.0,Urban,Rejected
+LP00779,Female,29,Single,Not Graduate,Salaried,77900.0,219000.0,360.0,,Semiurban,Approved
+LP00780,Female,35,Single,Graduate,Unemployed,14900.0,33000.0,240.0,1.0,Semiurban,Approved
+LP00781,Male,50,Divorced,Graduate,Salaried,42000.0,177000.0,300.0,1.0,Semiurban,Approved
+LP00782,Female,30,Single,Graduate,Self-employed,27700.0,41000.0,240.0,1.0,Rural,Approved
+LP00783,Male,24,Married,Graduate,Salaried,51000.0,66000.0,360.0,1.0,Rural,Approved
+LP00784,Male,47,Married,Graduate,Salaried,69900.0,188000.0,360.0,1.0,Urban,Approved
+LP00785,Female,43,Married,Graduate,Salaried,75800.0,172000.0,360.0,1.0,Urban,Approved
+LP00786,Male,32,Married,Graduate,Salaried,54600.0,202000.0,180.0,0.0,Urban,Rejected
+LP00787,Female,22,Married,Graduate,Salaried,79900.0,61000.0,300.0,0.0,Urban,Rejected
+LP00788,Male,31,Married,Graduate,Salaried,72300.0,218000.0,360.0,,Semiurban,Rejected
+LP00789,Female,37,Married,Graduate,Salaried,85800.0,289000.0,180.0,1.0,Rural,Approved
+LP00790,Male,50,Married,Not Graduate,Salaried,59200.0,260000.0,300.0,1.0,Rural,Rejected
+LP00791,Male,28,Single,Graduate,Salaried,105400.0,123000.0,120.0,1.0,Urban,Approved
+LP00792,Male,37,Single,Graduate,Unemployed,16900.0,26000.0,180.0,1.0,Semiurban,Approved
+LP00793,Male,45,Single,Graduate,Salaried,28600.0,121000.0,360.0,0.0,Urban,Rejected
+LP00794,Male,21,Single,Graduate,Self-employed,80600.0,247000.0,240.0,1.0,Semiurban,Approved
+LP00795,Male,48,Married,Not Graduate,Salaried,54000.0,40000.0,360.0,1.0,Urban,Approved
+LP00796,Male,26,Married,Graduate,Salaried,105400.0,95000.0,360.0,0.0,Rural,Approved
+LP00797,Male,41,Single,Graduate,Salaried,92600.0,339000.0,240.0,,Rural,Approved
+LP00798,Male,40,Married,Graduate,Salaried,124800.0,351000.0,180.0,1.0,Urban,Approved
+LP00799,Female,49,Married,Graduate,Salaried,68700.0,193000.0,360.0,,Semiurban,Approved
+LP00800,Female,44,Married,Not Graduate,Self-employed,48400.0,195000.0,360.0,1.0,Semiurban,Approved
+LP00801,Female,21,Divorced,Graduate,Salaried,27900.0,43000.0,360.0,0.0,Rural,Rejected
+LP00802,Male,30,Single,Graduate,Self-employed,68700.0,84000.0,300.0,1.0,Semiurban,Approved
+LP00803,Female,39,Married,Not Graduate,Salaried,29600.0,89000.0,360.0,1.0,Urban,Approved
+LP00804,Male,36,Single,Not Graduate,Salaried,41800.0,169000.0,360.0,1.0,Semiurban,Approved
+LP00805,Male,43,Married,Graduate,Salaried,53300.0,87000.0,240.0,0.0,Urban,Approved
+LP00806,Male,46,Married,Graduate,Unemployed,22500.0,73000.0,360.0,0.0,Semiurban,Rejected
+LP00807,Female,44,Married,Graduate,Salaried,49800.0,59000.0,360.0,0.0,Urban,Rejected
+LP00808,Male,36,Married,Not Graduate,Salaried,57900.0,74000.0,360.0,0.0,Semiurban,Rejected
+LP00809,Male,21,Single,Graduate,Salaried,15300.0,63000.0,240.0,,Rural,Rejected
+LP00810,Female,33,Married,Graduate,Salaried,56600.0,60000.0,300.0,1.0,Urban,Approved
+LP00811,Male,42,Single,Not Graduate,Unemployed,22800.0,16000.0,180.0,0.0,Semiurban,Rejected
+LP00812,Male,27,Married,Graduate,Self-employed,138700.0,502000.0,360.0,1.0,Rural,Rejected
+LP00813,Female,44,Single,Graduate,Self-employed,83100.0,167000.0,180.0,1.0,Urban,Approved
+LP00814,Male,47,Single,Graduate,Unemployed,38800.0,83000.0,180.0,1.0,Semiurban,Rejected
+LP00815,Male,39,Single,Not Graduate,Self-employed,47200.0,176000.0,360.0,,Semiurban,Rejected
+LP00816,Female,21,Single,Graduate,Salaried,52100.0,68000.0,300.0,1.0,Semiurban,Approved
+LP00817,Female,25,Divorced,Graduate,Salaried,66000.0,207000.0,360.0,0.0,Rural,Rejected
+LP00818,Male,57,Married,Graduate,Salaried,51900.0,95000.0,240.0,1.0,Semiurban,Approved
+LP00819,Female,33,Single,Not Graduate,Salaried,26700.0,27000.0,360.0,1.0,Semiurban,Approved
+LP00820,Male,21,Single,Not Graduate,Salaried,30100.0,99000.0,240.0,1.0,Urban,Rejected
+LP00821,Male,50,Married,Graduate,Salaried,31500.0,58000.0,360.0,1.0,Urban,Approved
+LP00822,Male,38,Married,Graduate,Unemployed,23100.0,92000.0,360.0,1.0,Urban,Rejected
+LP00823,Male,49,Married,Not Graduate,Unemployed,13400.0,56000.0,300.0,1.0,Rural,Rejected
+LP00824,Female,41,Married,Not Graduate,Salaried,32300.0,126000.0,240.0,1.0,Rural,Rejected
+LP00825,Female,43,Married,Graduate,Self-employed,46300.0,86000.0,180.0,1.0,Rural,Approved
+LP00826,Male,42,Married,Graduate,Salaried,65300.0,99000.0,360.0,1.0,Urban,Approved
+LP00827,Male,45,Single,Not Graduate,Salaried,54000.0,220000.0,240.0,1.0,Semiurban,Approved
+LP00828,Male,61,Married,Not Graduate,Salaried,22800.0,54000.0,240.0,1.0,Rural,Approved
+LP00829,Female,48,Single,Graduate,Salaried,29100.0,98000.0,300.0,,Semiurban,Approved
+LP00830,Male,22,Married,Graduate,Salaried,79900.0,306000.0,360.0,1.0,Urban,Approved
+LP00831,Male,42,Single,Graduate,Salaried,28000.0,47000.0,360.0,1.0,Rural,Approved
+LP00832,Male,49,Married,Not Graduate,Salaried,48600.0,52000.0,300.0,0.0,Urban,Approved
+LP00833,Male,50,Married,Graduate,Salaried,107600.0,327000.0,360.0,1.0,Urban,Rejected
+LP00834,Female,34,Married,Graduate,Self-employed,123900.0,360000.0,360.0,1.0,Rural,Approved
+LP00835,Female,50,Single,Graduate,Salaried,72500.0,,360.0,1.0,Semiurban,Approved
+LP00836,Male,47,Married,Not Graduate,Salaried,52300.0,151000.0,360.0,1.0,Semiurban,Approved
+LP00837,Female,64,Divorced,Not Graduate,Salaried,104700.0,386000.0,180.0,1.0,Semiurban,Rejected
+LP00838,Female,30,,Not Graduate,Salaried,13300.0,26000.0,360.0,1.0,Rural,Approved
+LP00839,Male,33,Married,Graduate,Salaried,42200.0,,360.0,,Urban,Approved
+LP00840,Male,35,Married,Not Graduate,Salaried,55700.0,191000.0,360.0,1.0,Rural,Rejected
+LP00841,Male,33,Single,Not Graduate,Salaried,32600.0,119000.0,240.0,0.0,Urban,Rejected
+LP00842,Female,29,Married,Graduate,Salaried,90800.0,392000.0,240.0,1.0,Urban,Approved
+LP00843,Male,21,Married,Graduate,Salaried,51100.0,60000.0,360.0,0.0,Semiurban,Approved
+LP00844,Male,34,Married,Not Graduate,Salaried,40300.0,164000.0,,0.0,Semiurban,Rejected
+LP00845,Male,42,Married,Graduate,Salaried,46000.0,165000.0,360.0,1.0,Urban,Rejected
+LP00846,Female,33,Married,Graduate,Salaried,41100.0,137000.0,300.0,1.0,Semiurban,Approved
+LP00847,Male,57,Divorced,Graduate,Salaried,40700.0,74000.0,360.0,,Semiurban,Approved
+LP00848,Female,38,Married,Graduate,Salaried,58700.0,40000.0,240.0,1.0,Semiurban,Approved
+LP00849,Male,51,Married,Graduate,Salaried,36700.0,95000.0,240.0,1.0,Semiurban,Approved
+LP00850,Female,41,Divorced,Not Graduate,Salaried,58400.0,100000.0,180.0,1.0,Rural,Approved
+LP00851,Male,46,Married,Graduate,Salaried,69800.0,121000.0,360.0,1.0,Semiurban,Approved
+LP00852,Male,41,Married,Not Graduate,Salaried,62300.0,263000.0,360.0,1.0,Semiurban,Rejected
+LP00853,Female,52,Single,Graduate,Salaried,31300.0,37000.0,360.0,1.0,Semiurban,Approved
+LP00854,Female,39,Single,Graduate,Salaried,24200.0,103000.0,360.0,1.0,Semiurban,Approved
+LP00855,Male,43,Single,Not Graduate,Salaried,37900.0,97000.0,360.0,0.0,Urban,Rejected
+LP00856,Male,42,Married,Graduate,Self-employed,220400.0,853000.0,360.0,1.0,Urban,Approved
+LP00857,Female,35,Divorced,Graduate,Self-employed,105700.0,180000.0,360.0,1.0,Urban,Approved
+LP00858,Female,42,Married,Not Graduate,Unemployed,10400.0,32000.0,360.0,1.0,Semiurban,Rejected
+LP00859,Male,60,Divorced,Graduate,Salaried,62900.0,174000.0,360.0,0.0,Rural,Rejected
+LP00860,Male,35,Single,Graduate,Salaried,72100.0,303000.0,180.0,1.0,Semiurban,Rejected
+LP00861,Female,42,Divorced,Graduate,Salaried,28100.0,37000.0,360.0,1.0,Semiurban,Approved
+LP00862,Female,51,Married,Not Graduate,Salaried,70400.0,98000.0,180.0,0.0,Semiurban,Rejected
+LP00863,Female,49,Married,Graduate,Salaried,48200.0,207000.0,180.0,1.0,Semiurban,Approved
+LP00864,Male,38,Single,Graduate,Salaried,49900.0,49000.0,,1.0,Semiurban,Approved
+LP00865,Male,21,Married,Not Graduate,Salaried,38400.0,118000.0,360.0,1.0,Semiurban,Approved
+LP00866,Female,43,Married,Graduate,Salaried,87000.0,73000.0,,1.0,Semiurban,Approved
+LP00867,Female,21,Divorced,Graduate,Salaried,37000.0,33000.0,180.0,1.0,Urban,Approved
+LP00868,Female,53,Single,Graduate,Salaried,24100.0,71000.0,360.0,1.0,Semiurban,Approved
+LP00869,Male,40,Married,Graduate,Self-employed,69200.0,190000.0,180.0,1.0,Semiurban,Approved
+LP00870,Male,48,Married,Graduate,Salaried,20700.0,59000.0,120.0,1.0,Rural,Approved
+LP00871,Female,29,Married,Graduate,Salaried,45400.0,111000.0,360.0,1.0,Rural,Approved
+LP00872,Male,22,Married,Graduate,Unemployed,31000.0,108000.0,360.0,0.0,Rural,Rejected
+LP00873,Female,41,Married,Graduate,Salaried,67500.0,302000.0,360.0,1.0,Semiurban,Approved
+LP00874,Male,38,Single,Graduate,Salaried,83100.0,139000.0,360.0,1.0,Urban,Approved
+LP00875,Female,33,Single,Graduate,Salaried,68700.0,128000.0,300.0,1.0,Semiurban,Approved
+LP00876,Female,39,Married,Graduate,Salaried,153800.0,286000.0,240.0,1.0,Rural,Approved
+LP00877,,66,Married,Graduate,Salaried,39900.0,143000.0,360.0,,Rural,Approved
+LP00878,Male,46,Single,Not Graduate,Self-employed,52300.0,102000.0,360.0,1.0,Rural,Approved
+LP00879,Male,48,Single,Graduate,Self-employed,49100.0,159000.0,300.0,1.0,Urban,Approved
+LP00880,Male,46,Single,Graduate,Self-employed,92000.0,215000.0,240.0,1.0,Semiurban,Approved
+LP00881,Male,53,Married,Graduate,Unemployed,17700.0,53000.0,240.0,1.0,Rural,Approved
+LP00882,Male,36,Single,Not Graduate,Salaried,82400.0,316000.0,180.0,1.0,Semiurban,Approved
+LP00883,Female,21,Married,Graduate,Self-employed,47100.0,123000.0,240.0,1.0,Semiurban,Approved
+LP00884,Male,36,Married,Not Graduate,Salaried,71600.0,176000.0,120.0,1.0,Semiurban,Approved
+LP00885,Male,46,Single,Graduate,Salaried,67900.0,111000.0,360.0,1.0,Semiurban,Approved
+LP00886,Male,28,Married,Graduate,Self-employed,58900.0,154000.0,240.0,1.0,Urban,Approved
+LP00887,Male,36,Married,Not Graduate,Self-employed,55800.0,91000.0,360.0,1.0,Urban,Approved
+LP00888,Male,31,Married,Graduate,Self-employed,67300.0,262000.0,360.0,1.0,Rural,Rejected
+LP00889,Male,53,Married,Graduate,Salaried,61000.0,129000.0,360.0,1.0,Rural,Approved
+LP00890,Female,45,Married,Not Graduate,Salaried,34600.0,,360.0,0.0,Rural,Rejected
+LP00891,Male,45,Single,Graduate,Salaried,37900.0,58000.0,300.0,1.0,Urban,Approved
+LP00892,Female,44,Married,Graduate,Salaried,44700.0,120000.0,180.0,1.0,Urban,Approved
+LP00893,Male,38,Married,Graduate,Self-employed,28000.0,117000.0,360.0,1.0,Urban,Rejected
+LP00894,Male,40,Single,Graduate,,87300.0,155000.0,120.0,1.0,Rural,Approved
+LP00895,,26,Married,Not Graduate,Salaried,21800.0,36000.0,240.0,1.0,Semiurban,Approved
+LP00896,Female,21,Divorced,Graduate,Salaried,47100.0,103000.0,180.0,1.0,Rural,Approved
+LP00897,Male,40,Married,Not Graduate,Salaried,50900.0,223000.0,360.0,1.0,Urban,Rejected
+LP00898,Male,41,Married,Graduate,Salaried,75900.0,,120.0,1.0,Semiurban,Approved
+LP00899,Male,50,Married,Not Graduate,Salaried,17100.0,20000.0,360.0,1.0,Rural,Approved
+LP00900,Male,54,Single,Not Graduate,Self-employed,41900.0,125000.0,300.0,1.0,Urban,Approved
+LP00901,Male,54,Married,Not Graduate,Salaried,46700.0,172000.0,360.0,1.0,Rural,Rejected
+LP00902,Male,28,Single,Graduate,Unemployed,18600.0,67000.0,240.0,1.0,Semiurban,Rejected
+LP00903,Male,34,Married,Graduate,Salaried,95200.0,239000.0,360.0,1.0,Urban,Approved
+LP00904,Male,43,Single,Graduate,Self-employed,41300.0,,360.0,1.0,Urban,Rejected
+LP00905,Female,63,Married,Graduate,Salaried,20700.0,60000.0,300.0,1.0,Rural,Approved
+LP00906,Female,53,Married,Graduate,Salaried,74900.0,104000.0,300.0,1.0,Semiurban,Approved
+LP00907,Male,49,Married,Not Graduate,Salaried,29800.0,24000.0,360.0,1.0,Rural,Approved
+LP00908,Male,34,Married,Graduate,Self-employed,27100.0,55000.0,360.0,0.0,Rural,Rejected
+LP00909,Male,29,Married,Not Graduate,Self-employed,40700.0,34000.0,300.0,1.0,Semiurban,Approved
+LP00910,Male,46,Single,Graduate,Salaried,90500.0,194000.0,300.0,1.0,Rural,Approved
+LP00911,,27,Married,Not Graduate,Salaried,21500.0,82000.0,120.0,1.0,Rural,Approved
+LP00912,Female,36,Married,Graduate,Salaried,148800.0,579000.0,180.0,1.0,Urban,Approved
+LP00913,Female,37,Married,Graduate,Self-employed,41000.0,30000.0,180.0,1.0,Rural,Approved
+LP00914,Female,54,Married,Not Graduate,Salaried,39500.0,34000.0,120.0,1.0,Urban,Approved
+LP00915,Female,34,Married,Not Graduate,Salaried,22000.0,71000.0,,1.0,Urban,Approved
+LP00916,Female,21,Single,Not Graduate,Salaried,38700.0,99000.0,360.0,1.0,Semiurban,Approved
+LP00917,Male,43,Married,Not Graduate,Salaried,35800.0,42000.0,360.0,1.0,Rural,Approved
+LP00918,Male,31,Single,Graduate,Self-employed,30600.0,114000.0,360.0,,Urban,Approved
+LP00919,Male,38,Married,Not Graduate,Self-employed,155900.0,225000.0,360.0,1.0,Semiurban,Approved
+LP00920,Male,37,Married,Graduate,Self-employed,47900.0,43000.0,,1.0,Semiurban,Approved
+LP00921,Male,35,Single,Graduate,Self-employed,47900.0,169000.0,180.0,0.0,Urban,Rejected
+LP00922,Female,46,Married,Graduate,Self-employed,92500.0,275000.0,360.0,1.0,Rural,Approved
+LP00923,Male,23,Married,Graduate,Salaried,117600.0,251000.0,240.0,1.0,Rural,Approved
+LP00924,Male,33,Divorced,Graduate,Unemployed,30200.0,100000.0,360.0,0.0,Urban,Rejected
+LP00925,Male,45,Divorced,Not Graduate,Salaried,22100.0,92000.0,360.0,1.0,Urban,Rejected
+LP00926,Male,32,Single,Graduate,Salaried,57300.0,42000.0,360.0,1.0,Rural,Approved
+LP00927,,22,Married,Not Graduate,Self-employed,18700.0,57000.0,240.0,,Urban,Approved
+LP00928,Female,45,Single,Graduate,Salaried,78000.0,113000.0,360.0,1.0,Urban,Approved
+LP00929,Male,49,Divorced,Graduate,Salaried,24900.0,61000.0,180.0,1.0,Rural,Approved
+LP00930,Female,38,Divorced,Graduate,Salaried,36200.0,82000.0,120.0,1.0,Rural,Approved
+LP00931,Male,21,Married,Graduate,Salaried,51900.0,110000.0,120.0,0.0,Semiurban,Rejected
+LP00932,Male,45,Married,Graduate,,73100.0,98000.0,240.0,0.0,Semiurban,Approved
+LP00933,Male,21,Married,Graduate,Salaried,46200.0,172000.0,360.0,1.0,Rural,Approved
+LP00934,Female,41,Married,Graduate,Salaried,103000.0,214000.0,300.0,1.0,Semiurban,Approved
+LP00935,Female,29,Single,Graduate,Salaried,72000.0,292000.0,120.0,0.0,Semiurban,Rejected
+LP00936,Male,26,Married,Not Graduate,,50800.0,101000.0,360.0,,Rural,Approved
+LP00937,Female,34,Married,Graduate,Salaried,29900.0,,360.0,1.0,Semiurban,Approved
+LP00938,Male,36,Married,Not Graduate,Salaried,81600.0,222000.0,300.0,0.0,Semiurban,Approved
+LP00939,Female,32,Married,Not Graduate,Salaried,26500.0,56000.0,360.0,1.0,Semiurban,Approved
+LP00940,Male,44,Married,not graduate,Salaried,113700.0,380000.0,360.0,0.0,Semiurban,Rejected
+LP00941,Male,34,Married,Graduate,Salaried,129200.0,474000.0,360.0,1.0,Semiurban,Approved
+LP00942,Female,48,,Graduate,Salaried,65500.0,163000.0,360.0,0.0,Semiurban,Rejected
+LP00943,Male,41,Divorced,Graduate,Self-employed,95100.0,215000.0,360.0,1.0,Semiurban,Approved
+LP00944,Male,31,Married,Graduate,Salaried,13000.0,37000.0,300.0,1.0,Rural,Approved
+LP00945,Male,29,Married,Not Graduate,Salaried,34800.0,100000.0,360.0,,Semiurban,Approved
+LP00946,Male,22,Married,Graduate,Unemployed,29900.0,68000.0,120.0,,Urban,Approved
+LP00947,Female,41,Married,Graduate,Salaried,78800.0,280000.0,360.0,1.0,Urban,Approved
+LP00948,Female,34,Married,Graduate,Salaried,30000.0,65000.0,300.0,0.0,Urban,Rejected
+LP00949,Female,21,Married,Graduate,Self-employed,52400.0,124000.0,240.0,0.0,Rural,Rejected
+LP00950,Male,33,Married,Graduate,Salaried,16600.0,49000.0,360.0,0.0,Semiurban,Rejected
+LP00951,Male,29,Married,Graduate,Self-employed,72000.0,320000.0,360.0,1.0,Urban,Rejected
+LP00952,Male,54,Single,Not Graduate,Self-employed,18700.0,30000.0,180.0,1.0,Rural,Approved
+LP00953,,21,Married,Graduate,Unemployed,30300.0,46000.0,240.0,0.0,Urban,Rejected
+LP00954,Male,24,Married,Graduate,Unemployed,31000.0,40000.0,300.0,0.0,Urban,Rejected
+LP00955,Female,49,Single,Graduate,Salaried,42000.0,138000.0,360.0,1.0,Rural,Approved
+LP00956,Female,52,Married,Graduate,Self-employed,75600.0,178000.0,300.0,1.0,Semiurban,Approved
+LP00957,Female,31,Married,Not Graduate,Salaried,34500.0,73000.0,240.0,1.0,Rural,Approved
+LP00958,Male,32,Married,Not Graduate,Salaried,42400.0,59000.0,360.0,1.0,Rural,Approved
+LP00959,Male,44,Married,graduate,Salaried,22700.0,93000.0,300.0,1.0,Rural,Rejected
+LP00960,Male,21,Married,Graduate,Salaried,68800.0,160000.0,180.0,1.0,Urban,Approved
+LP00961,Male,21,Divorced,Graduate,Salaried,24800.0,74000.0,360.0,,Rural,Approved
+LP00962,Male,35,Divorced,Not Graduate,Salaried,16700.0,17000.0,120.0,1.0,Semiurban,Approved
+LP00963,Male,53,Divorced,Graduate,Salaried,49200.0,50000.0,360.0,0.0,Urban,Approved
+LP00964,Male,34,Married,Graduate,Salaried,47300.0,41000.0,360.0,1.0,Rural,Approved
+LP00965,Female,39,Married,Graduate,Self-employed,67600.0,137000.0,180.0,,Semiurban,Rejected
+LP00966,Male,49,Married,Graduate,Salaried,,,360.0,0.0,Rural,Rejected
+LP00967,Female,59,Married,Not Graduate,Self-employed,102100.0,159000.0,360.0,1.0,Semiurban,Approved
+LP00968,Male,32,Married,Graduate,Self-employed,64300.0,126000.0,,1.0,Semiurban,Approved
+LP00969,Male,38,Married,Not Graduate,Self-employed,48500.0,30000.0,360.0,1.0,Urban,Approved
+LP00970,Male,56,Married,Graduate,Salaried,56800.0,112000.0,120.0,1.0,Rural,Approved
+LP00971,Male,23,Married,Graduate,Self-employed,93900.0,100000.0,180.0,,Semiurban,Approved
+LP00972,Male,48,Married,Graduate,Self-employed,77500.0,85000.0,360.0,1.0,Urban,Approved
+LP00973,Male,28,Single,Graduate,Self-employed,73000.0,45000.0,,0.0,Urban,Approved
+LP00974,Female,39,Married,Graduate,Self-employed,83300.0,276000.0,240.0,1.0,Rural,Rejected
+LP00975,Male,36,Single,Graduate,Salaried,22900.0,97000.0,360.0,1.0,Urban,Approved
+LP00976,Male,28,Married,Graduate,Salaried,23300.0,70000.0,240.0,0.0,Semiurban,Rejected
+LP00977,Male,28,Married,Not Graduate,,42200.0,41000.0,360.0,0.0,Semiurban,Approved
+LP00978,Male,41,Married,Graduate,Salaried,47600.0,212000.0,360.0,1.0,Urban,Rejected
+LP00979,Male,48,Married,Graduate,Self-employed,77600.0,342000.0,360.0,1.0,Semiurban,Rejected
+LP00980,Male,37,Married,Graduate,Salaried,52500.0,127000.0,120.0,0.0,Urban,Rejected
+LP00981,Female,39,Married,Not Graduate,Salaried,49400.0,50000.0,300.0,1.0,Rural,Approved
+LP00982,Female,44,Single,Graduate,Salaried,29700.0,101000.0,360.0,0.0,Rural,Rejected
+LP00983,Female,28,Married,Graduate,Salaried,51700.0,225000.0,300.0,1.0,Urban,Approved
+LP00984,Male,45,Married,Graduate,Unemployed,10000.0,36000.0,360.0,0.0,Semiurban,Rejected
+LP00985,Male,46,Divorced,Graduate,Salaried,61900.0,188000.0,360.0,1.0,Semiurban,Approved
+LP00986,Female,64,Married,Graduate,Self-employed,25700.0,,300.0,1.0,Rural,Approved
+LP00987,Male,34,Married,Graduate,Salaried,60800.0,268000.0,240.0,1.0,Semiurban,Approved
+LP00988,Male,33,Married,Not Graduate,Unemployed,6900.0,6000.0,360.0,1.0,Semiurban,Rejected
+LP00989,Male,46,Married,Graduate,Salaried,43800.0,52000.0,180.0,1.0,Rural,Approved
+LP00990,Female,46,Married,Graduate,Salaried,77800.0,299000.0,360.0,1.0,Urban,Rejected
+LP00991,,33,Married,Graduate,Salaried,57600.0,67000.0,,1.0,Semiurban,Approved
+LP00992,Female,34,Single,Graduate,Salaried,24800.0,52000.0,180.0,1.0,Urban,Approved
+LP00993,Female,43,Married,Graduate,Unemployed,13400.0,23000.0,360.0,0.0,Semiurban,Rejected
+LP00994,Male,30,Married,Graduate,Unemployed,9300.0,14000.0,300.0,0.0,Semiurban,Rejected
+LP00995,Female,34,Married,Graduate,Salaried,24300.0,17000.0,240.0,1.0,Rural,Approved
+LP00996,Male,39,Single,Graduate,Salaried,54800.0,154000.0,360.0,1.0,Semiurban,Approved
+LP00997,Female,48,Single,Graduate,Salaried,66900.0,145000.0,360.0,1.0,Urban,Approved
+LP00998,Male,32,Divorced,Not Graduate,Salaried,46300.0,127000.0,360.0,1.0,Rural,Approved
+LP00999,Female,21,Single,Graduate,Salaried,68200.0,122000.0,360.0,1.0,Rural,Approved
+LP01000,Male,21,Single,Graduate,Salaried,51700.0,221000.0,360.0,0.0,Semiurban,Rejected
+LP01001,Male,25,Married,Not Graduate,,33600.0,98000.0,300.0,,Rural,Rejected
+LP01002,Male,25,Single,Not Graduate,Self-employed,27000.0,117000.0,240.0,1.0,Urban,Rejected
+LP01003,Male,36,Married,Graduate,Salaried,42700.0,84000.0,240.0,1.0,Semiurban,Approved
+LP01004,Male,26,Married,Not Graduate,Salaried,21000.0,13000.0,300.0,1.0,Urban,Approved
+LP01005,Female,31,Single,Graduate,Salaried,35500.0,129000.0,360.0,,Urban,Approved
+LP01006,Male,30,Married,Graduate,Salaried,54100.0,207000.0,360.0,1.0,Rural,Approved
+LP01007,Female,34,Married,Not Graduate,Salaried,36000.0,30000.0,300.0,1.0,Rural,Approved
+LP01008,Male,51,Married,Not Graduate,Salaried,150900.0,459000.0,360.0,0.0,Urban,Rejected
+LP01009,Female,45,Married,Graduate,Salaried,28400.0,90000.0,360.0,0.0,Urban,Rejected
+LP01010,Male,38,Single,Graduate,Self-employed,56500.0,66000.0,360.0,1.0,Rural,Approved
+LP01011,Female,-1,Married,Graduate,Self-employed,31500.0,87000.0,300.0,1.0,Urban,Approved
+LP01012,Male,34,Single,Graduate,Self-employed,50200.0,78000.0,360.0,1.0,Urban,Approved
+LP01013,Male,41,Married,Not Graduate,,32500.0,22000.0,360.0,1.0,Urban,Approved
+LP01014,Female,44,Single,Graduate,Salaried,76100.0,303000.0,180.0,1.0,Urban,Approved
+LP01015,Male,29,Married,Graduate,Salaried,42500.0,107000.0,300.0,1.0,Urban,Approved
+LP01016,Male,38,Divorced,Graduate,Salaried,47700.0,174000.0,240.0,1.0,Rural,Approved
+LP01017,Female,21,Married,Graduate,Unemployed,15000.0,51000.0,360.0,1.0,Urban,Approved
+LP01018,Female,40,Married,Graduate,Unemployed,9700.0,43000.0,360.0,1.0,Semiurban,Rejected
+LP01019,Male,46,Married,Not Graduate,Salaried,28300.0,65000.0,360.0,1.0,Rural,Approved
+LP01020,Male,35,Married,Graduate,Salaried,43800.0,99000.0,360.0,1.0,Semiurban,Approved
+LP01021,Female,56,Married,Graduate,Salaried,53800.0,91000.0,300.0,1.0,Rural,Approved
+LP01022,Female,29,Single,Graduate,Salaried,66900.0,203000.0,300.0,1.0,Semiurban,Approved
+LP01023,Female,40,Divorced,Graduate,,16400.0,41000.0,360.0,0.0,Semiurban,Rejected
+LP01024,Male,38,Single,Graduate,,46400.0,160000.0,360.0,1.0,Semiurban,Approved
+LP01025,Female,37,Married,Graduate,Salaried,24000.0,48000.0,360.0,1.0,Rural,Approved
+LP01026,Male,37,Married,Graduate,Salaried,66300.0,74000.0,240.0,,Semiurban,Approved
+LP01027,,39,Single,Graduate,Salaried,38000.0,151000.0,180.0,1.0,Rural,Rejected
+LP01028,Male,46,Single,Not Graduate,Salaried,53200.0,204000.0,240.0,1.0,Urban,Rejected
+LP01029,Female,52,Married,Graduate,Self-employed,108100.0,,300.0,0.0,Semiurban,Rejected
+LP01030,Male,38,Divorced,Graduate,Salaried,47800.0,157000.0,240.0,0.0,Rural,Rejected
+LP01031,Male,46,Married,Graduate,Salaried,32800.0,83000.0,360.0,1.0,Urban,Approved
+LP01032,Female,31,Single,Graduate,,51600.0,184000.0,360.0,0.0,Rural,Rejected
+LP01033,Male,46,Divorced,Not Graduate,Salaried,44500.0,94000.0,300.0,1.0,Urban,Approved
+LP01034,Female,30,Single,Graduate,Salaried,45100.0,121000.0,240.0,1.0,Urban,Approved
+LP01035,Male,49,Married,Graduate,Salaried,40300.0,33000.0,300.0,1.0,Rural,Approved
+LP01036,Female,60,Single,Graduate,Salaried,67000.0,86000.0,360.0,1.0,Urban,Approved
+LP01037,Male,37,Married,Not Graduate,,47500.0,173000.0,360.0,1.0,Semiurban,Approved
+LP01038,,21,Single,Graduate,Self-employed,51200.0,107000.0,180.0,1.0,Semiurban,Approved
+LP01039,Male,33,Married,Graduate,Self-employed,28400.0,21000.0,360.0,1.0,Rural,Approved
+LP01040,Male,50,Single,Graduate,Unemployed,22300.0,28000.0,180.0,0.0,Semiurban,Rejected
+LP01041,Male,44,Single,Graduate,Salaried,36800.0,81000.0,240.0,1.0,Semiurban,Approved
+LP01042,Female,40,Married,Not Graduate,Self-employed,48100.0,164000.0,360.0,0.0,Rural,Rejected
+LP01043,Female,48,Married,Graduate,Salaried,55700.0,112000.0,240.0,0.0,Semiurban,Rejected
+LP01044,Female,43,Single,Graduate,Salaried,22200.0,78000.0,180.0,0.0,Rural,Rejected
+LP01045,Male,50,Married,Graduate,Salaried,53900.0,213000.0,360.0,1.0,Rural,Approved
+LP01046,Male,47,Married,Not Graduate,Salaried,47900.0,92000.0,300.0,1.0,Semiurban,Approved
+LP01047,Male,53,Married,Graduate,Self-employed,79700.0,297000.0,180.0,1.0,Rural,Approved
+LP01048,Female,42,Married,Graduate,Salaried,54800.0,60000.0,120.0,0.0,Semiurban,Approved
+LP01049,Female,47,Single,Not Graduate,Salaried,15600.0,35000.0,180.0,1.0,Urban,Approved
+LP01050,Male,35,Married,Graduate,Unemployed,32300.0,32000.0,360.0,1.0,Urban,Approved
+LP01051,Female,32,Married,Not Graduate,Salaried,45700.0,37000.0,240.0,1.0,Semiurban,Approved
+LP01052,Male,55,Married,Not Graduate,Unemployed,7700.0,7000.0,360.0,1.0,Urban,Rejected
+LP01053,Male,150,Married,Graduate,Self-employed,42000.0,42000.0,360.0,1.0,Semiurban,Approved
+LP01054,Male,46,Married,Graduate,Self-employed,66400.0,256000.0,180.0,1.0,Semiurban,Rejected
+LP01055,Male,39,Single,Graduate,Self-employed,81200.0,221000.0,300.0,1.0,Semiurban,Approved
+LP01056,Female,32,Married,Graduate,Salaried,41700.0,179000.0,180.0,1.0,Urban,Rejected
+LP01057,Female,38,Married,Graduate,Salaried,75400.0,203000.0,240.0,1.0,Rural,Approved
+LP01058,Male,52,Divorced,Not Graduate,Self-employed,19500.0,60000.0,240.0,1.0,Semiurban,Approved
+LP01059,Male,44,Married,Graduate,Self-employed,37400.0,49000.0,360.0,,Urban,Approved
+LP01060,Female,21,Single,Graduate,Salaried,20500.0,56000.0,300.0,1.0,Semiurban,Approved
+LP01061,Female,36,Married,Graduate,Salaried,34700.0,73000.0,360.0,0.0,Semiurban,Rejected
+LP01062,Male,56,Married,Graduate,Salaried,102500.0,434000.0,360.0,1.0,Semiurban,Approved
+LP01063,Male,36,Married,Graduate,Salaried,131300.0,557000.0,360.0,0.0,Semiurban,Rejected
+LP01064,Female,21,Single,Not Graduate,Salaried,42200.0,58000.0,300.0,1.0,Urban,Approved
+LP01065,Male,57,Single,Graduate,Self-employed,44900.0,136000.0,240.0,1.0,Rural,Approved
+LP01066,Female,45,Married,Graduate,Self-employed,54100.0,167000.0,360.0,1.0,Semiurban,Approved
+LP01067,Male,37,,Graduate,Salaried,64300.0,180000.0,300.0,1.0,Urban,Approved
+LP01068,Female,34,Married,Graduate,Salaried,25700.0,28000.0,360.0,,Rural,Approved
+LP01069,Male,49,Single,Not Graduate,Salaried,29400.0,93000.0,360.0,1.0,Semiurban,Approved
+LP01070,Male,33,Single,Graduate,Salaried,99200.0,369000.0,360.0,1.0,Semiurban,Rejected
+LP01071,Female,49,Single,Graduate,Salaried,32500.0,63000.0,240.0,1.0,Semiurban,Rejected
+LP01072,Male,43,Single,Graduate,Salaried,37100.0,97000.0,180.0,1.0,Semiurban,Approved
+LP01073,Male,40,Married,Graduate,Salaried,52300.0,55000.0,360.0,1.0,Semiurban,Approved
+LP01074,Female,39,Single,Graduate,Salaried,59100.0,250000.0,360.0,1.0,Urban,Rejected
+LP01075,Female,36,Married,Not Graduate,Salaried,28700.0,29000.0,360.0,1.0,Urban,Rejected
+LP01076,Male,48,Married,Not Graduate,Salaried,39300.0,56000.0,360.0,1.0,Rural,Approved
+LP01077,Male,29,Single,Graduate,Salaried,68400.0,121000.0,360.0,1.0,Semiurban,Approved
+LP01078,Male,22,Married,Graduate,Salaried,125700.0,480000.0,360.0,0.0,Semiurban,Rejected
+LP01079,Female,44,Single,Graduate,Salaried,49100.0,164000.0,360.0,1.0,Urban,Approved
+LP01080,Male,44,Single,Graduate,Salaried,51000.0,32000.0,180.0,1.0,Rural,Approved
+LP01081,Male,43,Single,Graduate,Salaried,103400.0,136000.0,300.0,1.0,Urban,Approved
+LP01082,Female,42,Married,Graduate,Salaried,40600.0,143000.0,360.0,1.0,Urban,Approved
+LP01083,Female,35,Married,Graduate,Unemployed,10000.0,22000.0,360.0,1.0,Urban,Approved
+LP01084,Female,46,Single,Graduate,Salaried,58200.0,41000.0,240.0,0.0,Semiurban,Rejected
+LP01085,Female,38,Single,Graduate,Salaried,84400.0,368000.0,360.0,1.0,Semiurban,Approved
+LP01086,Female,33,Married,Graduate,Salaried,61200.0,73000.0,300.0,1.0,Urban,Approved
+LP01087,Female,35,Single,Graduate,Self-employed,57200.0,148000.0,300.0,0.0,Urban,Rejected
+LP01088,Female,58,Married,Graduate,Self-employed,31200.0,49000.0,360.0,1.0,Semiurban,Approved
+LP01089,Male,21,Single,Graduate,Salaried,50700.0,176000.0,300.0,1.0,Semiurban,Approved
+LP01090,Male,43,Single,Not Graduate,Salaried,66200.0,240000.0,360.0,1.0,Semiurban,Rejected
+LP01091,Male,21,Married,Graduate,Salaried,29800.0,64000.0,360.0,1.0,Urban,Approved
+LP01092,Female,37,Married,Graduate,Salaried,46600.0,148000.0,360.0,1.0,Semiurban,Approved
+LP01093,Male,34,Divorced,Graduate,Salaried,43700.0,181000.0,240.0,1.0,Rural,Approved
+LP01094,Male,21,Single,Graduate,Salaried,38000.0,144000.0,360.0,1.0,Semiurban,Approved
+LP01095,Male,42,Single,Graduate,Unemployed,20300.0,45000.0,300.0,0.0,Urban,Rejected
+LP01096,Male,34,Married,Graduate,Self-employed,73000.0,169000.0,360.0,1.0,Semiurban,Approved
+LP01097,Male,21,Divorced,Graduate,Salaried,63200.0,257000.0,180.0,1.0,Urban,Rejected
+LP01098,,46,Married,Graduate,Unemployed,11700.0,9000.0,360.0,1.0,Urban,Approved
+LP01099,Female,52,Married,Not Graduate,Salaried,18100.0,12000.0,360.0,1.0,Urban,Approved
+LP01100,Male,53,Married,Not Graduate,Salaried,42800.0,60000.0,300.0,1.0,Rural,Approved
+LP01101,Male,42,Single,Graduate,Self-employed,47600.0,182000.0,300.0,1.0,Semiurban,Rejected
+LP01102,Male,38,Single,Graduate,Salaried,118900.0,142000.0,300.0,1.0,Rural,Approved
+LP01103,Female,51,Single,Graduate,Salaried,121400.0,208000.0,,1.0,Semiurban,Approved
+LP01104,Female,55,Single,Graduate,Salaried,127400.0,389000.0,360.0,1.0,Semiurban,Approved
+LP01105,Male,49,Married,Graduate,Salaried,34100.0,45000.0,360.0,1.0,Urban,Approved
+LP01106,Female,29,Married,Graduate,Salaried,67200.0,120000.0,360.0,1.0,Semiurban,Approved
+LP01107,Male,40,Married,Graduate,Salaried,77000.0,186000.0,360.0,1.0,Urban,Approved
+LP01108,,42,Married,Graduate,Salaried,73100.0,109000.0,360.0,1.0,Semiurban,Approved
+LP01109,Female,21,Married,Graduate,Salaried,44300.0,198000.0,300.0,1.0,Urban,Rejected
+LP01110,Male,43,Single,Graduate,Salaried,92500.0,114000.0,360.0,1.0,Semiurban,Approved
+LP01111,Male,61,Single,Graduate,Self-employed,59800.0,,360.0,1.0,Semiurban,Approved
+LP01112,Male,44,Single,Graduate,Salaried,55100.0,134000.0,360.0,,Urban,Approved
+LP01113,Male,53,Married,Graduate,Salaried,26000.0,29000.0,120.0,0.0,Urban,Rejected
+LP01114,Female,40,Married,Not Graduate,,58400.0,62000.0,240.0,1.0,Rural,Approved
+LP01115,Female,37,Married,Not Graduate,Self-employed,38900.0,99000.0,240.0,1.0,Urban,Rejected
+LP01116,Male,42,Married,Graduate,Salaried,64100.0,127000.0,360.0,1.0,Urban,Approved
+LP01117,Male,30,Married,Graduate,Self-employed,66500.0,101000.0,360.0,1.0,Urban,Approved
+LP01118,Female,28,Married,Graduate,Self-employed,64900.0,282000.0,300.0,1.0,Semiurban,Approved
+LP01119,Male,51,Married,Graduate,Salaried,50900.0,123000.0,300.0,0.0,Semiurban,Rejected
+LP01120,Female,52,Single,Graduate,Self-employed,85200.0,360000.0,360.0,1.0,Urban,Rejected
+LP01121,Female,28,Married,Graduate,Self-employed,54700.0,68000.0,360.0,0.0,Semiurban,Rejected
+LP01122,Male,48,Married,Graduate,Salaried,27000.0,36000.0,360.0,1.0,Semiurban,Approved
+LP01123,Female,37,Married,Not Graduate,Salaried,49100.0,144000.0,,,Urban,Approved
+LP01124,Male,41,Married,Graduate,Self-employed,41600.0,69000.0,360.0,0.0,Rural,Rejected
+LP01125,Male,43,Married,Graduate,Unemployed,10000.0,13000.0,240.0,1.0,Rural,Approved
+LP01126,Male,48,Married,Graduate,Salaried,32800.0,32000.0,240.0,,Urban,Approved
+LP01127,Male,39,Single,Graduate,Self-employed,67900.0,61000.0,360.0,1.0,Urban,Approved
+LP01128,Female,52,Married,Graduate,Self-employed,57300.0,,360.0,0.0,Urban,Rejected
+LP01129,Female,41,Single,Not Graduate,Self-employed,16700.0,28000.0,240.0,0.0,Urban,Rejected
+LP01130,Female,44,Married,Not Graduate,Unemployed,11200.0,49000.0,360.0,,Semiurban,Rejected
+LP01131,Female,30,Married,Graduate,Salaried,88000.0,116000.0,240.0,1.0,Semiurban,Approved
+LP01132,Male,60,Married,Not Graduate,Salaried,31000.0,61000.0,240.0,1.0,Semiurban,Approved
+LP01133,Male,43,Married,Graduate,Salaried,48300.0,100000.0,300.0,1.0,Urban,Approved
+LP01134,Female,45,Married,Graduate,Salaried,83100.0,212000.0,360.0,1.0,Urban,Approved
+LP01135,Female,22,Single,Graduate,Salaried,74400.0,297000.0,360.0,1.0,Rural,Approved
+LP01136,Male,30,Married,Graduate,Self-employed,94700.0,365000.0,360.0,1.0,Rural,Approved
+LP01137,Male,50,Single,Graduate,Self-employed,17200.0,11000.0,360.0,1.0,Urban,Approved
+LP01138,Male,41,Married,Graduate,Salaried,113400.0,249000.0,360.0,1.0,Semiurban,Approved
+LP01139,Male,21,Married,Graduate,Self-employed,79600.0,305000.0,300.0,,Semiurban,Rejected
+LP01140,Female,48,Married,not graduate,Salaried,115000.0,69000.0,360.0,1.0,Semiurban,Approved
+LP01141,Male,33,Married,Graduate,Salaried,36600.0,98000.0,240.0,1.0,Semiurban,Approved
+LP01142,Female,52,Married,Not Graduate,Salaried,17200.0,28000.0,360.0,1.0,Rural,Approved
+LP01143,Female,37,Divorced,Graduate,Salaried,52200.0,115000.0,180.0,1.0,Urban,Approved
+LP01144,Female,40,Single,Not Graduate,Salaried,33600.0,75000.0,300.0,,Urban,Approved
+LP01145,Male,50,Divorced,Graduate,Self-employed,80300.0,171000.0,360.0,1.0,Rural,Approved
+LP01146,Male,29,Married,Graduate,Salaried,84300.0,344000.0,180.0,1.0,Urban,Rejected
+LP01147,Female,28,Single,Graduate,Salaried,50000.0,135000.0,360.0,1.0,Urban,Rejected
+LP01148,Female,36,Married,Not Graduate,Salaried,34100.0,141000.0,360.0,1.0,Semiurban,Approved
+LP01149,Male,46,Single,Graduate,Salaried,,226000.0,360.0,1.0,Rural,Approved
+LP01150,Female,25,Divorced,Graduate,Unemployed,16200.0,32000.0,180.0,0.0,Semiurban,Rejected
+LP01151,Male,21,Single,Not Graduate,Self-employed,37500.0,95000.0,180.0,0.0,Rural,Rejected
+LP01152,Female,46,Single,Graduate,Salaried,82900.0,176000.0,300.0,1.0,Semiurban,Approved
+LP01153,Male,32,Single,Not Graduate,Salaried,67000.0,257000.0,360.0,1.0,Urban,Approved
+LP01154,Male,34,Married,Graduate,Salaried,84700.0,113000.0,360.0,1.0,Semiurban,Approved
+LP01155,Male,21,Single,Graduate,Salaried,48200.0,205000.0,300.0,1.0,Rural,Approved
+LP01156,Male,31,Married,Graduate,,19900.0,57000.0,360.0,1.0,Rural,Approved
+LP01157,Male,38,Single,Graduate,Salaried,48600.0,145000.0,360.0,1.0,Urban,Approved
+LP01158,Male,47,Single,Graduate,Salaried,37000.0,97000.0,360.0,1.0,Urban,Approved
+LP01159,Male,30,Married,Graduate,Salaried,49100.0,136000.0,180.0,0.0,Rural,Rejected
+LP01160,Female,55,Married,Graduate,Salaried,38400.0,123000.0,360.0,1.0,Urban,Rejected
+LP01161,Male,31,Married,not graduate,Salaried,37600.0,119000.0,360.0,1.0,Urban,Approved
+LP01162,Female,31,Married,Not Graduate,,23800.0,34000.0,300.0,1.0,Rural,Approved
+LP01163,Female,53,Married,Graduate,Salaried,29200.0,84000.0,120.0,1.0,Semiurban,Approved
+LP01164,Male,40,Single,Graduate,Salaried,90100.0,179000.0,180.0,1.0,Urban,Approved
+LP01165,Male,32,Married,Graduate,,33600.0,104000.0,360.0,1.0,Urban,Approved
+LP01166,Female,36,Single,Not Graduate,Salaried,38000.0,104000.0,360.0,1.0,Urban,Rejected
+LP01167,Female,52,Married,Not Graduate,Self-employed,67100.0,87000.0,360.0,0.0,Rural,Approved
+LP01168,Male,53,Married,Graduate,Unemployed,27500.0,95000.0,240.0,1.0,Semiurban,Rejected
+LP01169,Female,30,Married,Graduate,Salaried,74400.0,177000.0,360.0,1.0,Urban,Approved
+LP01170,Male,38,Single,Not Graduate,Self-employed,50100.0,138000.0,300.0,1.0,Semiurban,Approved
+LP01171,Male,39,Married,Not Graduate,Self-employed,60500.0,195000.0,360.0,1.0,Urban,Rejected
+LP01172,Female,28,Married,Graduate,Salaried,96500.0,304000.0,180.0,1.0,Urban,Approved
+LP01173,Male,37,Married,graduate,Salaried,46000.0,162000.0,360.0,1.0,Urban,Approved
+LP01174,Female,38,Single,Graduate,Salaried,22700.0,32000.0,360.0,1.0,Semiurban,Approved
+LP01175,Male,49,Married,Graduate,Salaried,41000.0,42000.0,360.0,1.0,Urban,Approved
+LP01176,Female,50,Single,Not Graduate,Unemployed,18200.0,58000.0,360.0,1.0,Urban,Rejected
+LP01177,Male,35,Single,Graduate,Salaried,39200.0,60000.0,300.0,,Semiurban,Approved
+LP01178,Male,36,Single,Graduate,Salaried,107800.0,113000.0,360.0,1.0,Semiurban,Approved
+LP01179,Male,45,Married,Not Graduate,Salaried,36900.0,41000.0,360.0,1.0,Urban,Approved
+LP01180,Male,32,Married,Not Graduate,Salaried,39500.0,72000.0,300.0,1.0,Urban,Approved
+LP01181,Female,44,Married,Graduate,Salaried,86300.0,386000.0,360.0,1.0,Urban,Approved
+LP01182,Male,37,Married,Graduate,Salaried,47900.0,58000.0,240.0,1.0,Semiurban,Approved
+LP01183,Male,28,Single,Not Graduate,Salaried,41100.0,73000.0,300.0,0.0,Semiurban,Rejected
+LP01184,Male,28,Married,Graduate,Self-employed,89600.0,376000.0,360.0,1.0,Urban,Rejected
+LP01185,Male,52,Married,Not Graduate,Salaried,19600.0,85000.0,240.0,1.0,Rural,Rejected
+LP01186,Female,36,Married,Graduate,Salaried,45700.0,68000.0,240.0,1.0,Semiurban,Approved
+LP01187,Male,54,Married,Graduate,Self-employed,86800.0,350000.0,300.0,0.0,Urban,Rejected
+LP01188,Female,33,Married,Graduate,Salaried,53600.0,61000.0,360.0,0.0,Urban,Approved
+LP01189,Male,41,Single,Not Graduate,Salaried,73500.0,262000.0,360.0,1.0,Urban,Rejected
+LP01190,Female,62,Married,Not Graduate,Self-employed,21500.0,14000.0,180.0,1.0,Urban,Approved
+LP01191,Male,27,Divorced,Graduate,,24300.0,53000.0,360.0,1.0,Semiurban,Approved
+LP01192,Male,21,Single,Graduate,Salaried,73500.0,115000.0,360.0,0.0,Urban,Rejected
+LP01193,Female,51,Married,Not Graduate,Salaried,56100.0,188000.0,360.0,0.0,Rural,Rejected
+LP01194,Female,30,Married,Graduate,Salaried,47700.0,32000.0,360.0,1.0,Semiurban,Approved
+LP01195,Female,38,Married,Graduate,Salaried,62300.0,150000.0,360.0,1.0,Semiurban,Approved
+LP01196,Male,32,Married,Not Graduate,Salaried,53100.0,176000.0,300.0,0.0,Rural,Rejected
+LP01197,Male,41,Married,Not Graduate,Salaried,26300.0,21000.0,240.0,1.0,Semiurban,Approved
+LP01198,Female,28,Single,Not Graduate,Salaried,27600.0,113000.0,360.0,1.0,Rural,Rejected
+LP01199,Male,36,Single,Graduate,Salaried,56600.0,114000.0,300.0,1.0,Rural,Approved
+LP01200,Female,42,Married,Graduate,,78100.0,97000.0,360.0,1.0,Semiurban,Approved
+LP01201,Male,28,Married,Not Graduate,Salaried,22500.0,33000.0,180.0,1.0,Urban,Approved
+LP01202,Male,31,Married,Graduate,Unemployed,16600.0,32000.0,180.0,,Semiurban,Approved
+LP01203,Female,35,,Graduate,Salaried,46600.0,64000.0,360.0,1.0,Urban,Approved
+LP01204,Female,24,Married,graduate,Salaried,45900.0,119000.0,180.0,1.0,Semiurban,Approved
+LP01205,Male,34,Single,Graduate,Salaried,51800.0,159000.0,360.0,1.0,Semiurban,Approved
+LP01206,Male,39,Single,Not Graduate,Salaried,29700.0,68000.0,360.0,1.0,Semiurban,Approved
+LP01207,Male,34,Married,Graduate,Salaried,91200.0,207000.0,120.0,1.0,Rural,Approved
+LP01208,Male,35,Married,Not Graduate,Self-employed,34300.0,125000.0,240.0,1.0,Urban,Approved
+LP01209,Male,38,Married,Graduate,Salaried,45600.0,81000.0,300.0,1.0,Semiurban,Approved
+LP01210,Male,31,Single,Graduate,Salaried,25400.0,77000.0,,1.0,Urban,Approved
+LP01211,Female,45,Married,Not Graduate,Salaried,27600.0,113000.0,300.0,1.0,Rural,Approved
+LP01212,Female,52,Single,Graduate,Self-employed,75400.0,110000.0,360.0,1.0,Semiurban,Approved
+LP01213,Male,33,Single,Graduate,Salaried,60100.0,181000.0,240.0,1.0,Urban,Approved
+LP01214,Male,43,Single,Graduate,Salaried,68100.0,293000.0,120.0,1.0,Semiurban,Approved
+LP01215,Male,36,Married,Not Graduate,Self-employed,56000.0,149000.0,120.0,1.0,Urban,Rejected
+LP01216,Male,42,Married,Not Graduate,Self-employed,111800.0,493000.0,300.0,1.0,Semiurban,Approved
+LP01217,Male,54,Single,Graduate,Salaried,37100.0,67000.0,300.0,0.0,Semiurban,Rejected
+LP01218,Male,43,Married,Graduate,Unemployed,8800.0,25000.0,360.0,1.0,Semiurban,Approved
+LP01219,Female,21,Single,Graduate,Self-employed,37300.0,68000.0,120.0,1.0,Semiurban,Approved
+LP01220,Male,43,Married,not graduate,Salaried,27700.0,17000.0,360.0,,Rural,Approved
+LP01221,Male,50,Married,Not Graduate,Self-employed,28200.0,127000.0,360.0,1.0,Rural,Rejected
+LP01222,Male,36,Single,Not Graduate,Salaried,39600.0,61000.0,360.0,1.0,Semiurban,Approved
+LP01223,Female,48,Married,Graduate,Salaried,91400.0,402000.0,360.0,1.0,Semiurban,Rejected
+LP01224,Female,31,Married,Graduate,Salaried,104000.0,327000.0,120.0,1.0,Semiurban,Approved
+LP01225,Male,23,Married,Not Graduate,Self-employed,54800.0,226000.0,360.0,0.0,Rural,Rejected
+LP01226,Female,39,Married,Not Graduate,,99600.0,435000.0,300.0,0.0,Rural,Rejected
+LP01227,Male,21,Single,Graduate,Salaried,44300.0,125000.0,360.0,1.0,Urban,Approved
+LP01228,Male,36,Married,Graduate,Salaried,24900.0,112000.0,240.0,1.0,Urban,Rejected
+LP01229,Female,51,Married,Graduate,Salaried,83500.0,300000.0,360.0,1.0,Urban,Rejected
+LP01230,Male,21,Married,Graduate,Self-employed,26100.0,69000.0,360.0,1.0,Urban,Approved
+LP01231,Male,25,Divorced,Graduate,Self-employed,42600.0,134000.0,360.0,0.0,Semiurban,Rejected
+LP01232,Male,28,Married,Graduate,Salaried,65700.0,89000.0,240.0,0.0,Urban,Rejected
+LP01233,Male,37,Divorced,Graduate,Self-employed,57100.0,37000.0,360.0,1.0,Semiurban,Approved
+LP01234,Female,34,Single,Not Graduate,Self-employed,40100.0,64000.0,360.0,1.0,Urban,Approved
+LP01235,Male,52,Married,Not Graduate,Salaried,22300.0,51000.0,360.0,1.0,Urban,Approved
+LP01236,Male,48,Single,Not Graduate,Salaried,37800.0,56000.0,300.0,1.0,Semiurban,Approved
+LP01237,Male,43,Single,Graduate,Salaried,81700.0,213000.0,240.0,1.0,Semiurban,Approved
+LP01238,Male,39,Married,Graduate,Salaried,52500.0,166000.0,240.0,,Semiurban,Approved
+LP01239,Male,42,Married,Graduate,Salaried,35800.0,113000.0,360.0,1.0,Rural,Approved
+LP01240,Male,29,Single,Graduate,Salaried,29700.0,121000.0,300.0,1.0,Rural,Approved
+LP01241,Female,47,Single,Graduate,Self-employed,41500.0,181000.0,360.0,1.0,Semiurban,Approved
+LP01242,Male,27,Single,Not Graduate,Salaried,45300.0,185000.0,360.0,1.0,Urban,Approved
+LP01243,Male,46,Divorced,Not Graduate,Self-employed,51000.0,154000.0,360.0,1.0,Urban,Approved
+LP01244,Male,50,Married,Not Graduate,Self-employed,30500.0,43000.0,360.0,1.0,Rural,Approved
+LP01245,Male,40,Single,Graduate,Salaried,19200.0,82000.0,360.0,1.0,Semiurban,Approved
+LP01246,Male,36,Single,Graduate,Salaried,62800.0,81000.0,360.0,1.0,Rural,Approved
+LP01247,Male,42,Married,Graduate,Self-employed,39900.0,48000.0,240.0,1.0,Semiurban,Approved
+LP01248,Male,21,Married,Graduate,Self-employed,81500.0,150000.0,360.0,1.0,Urban,Approved
+LP01249,Female,41,Married,Graduate,Salaried,37000.0,105000.0,360.0,0.0,Semiurban,Rejected
+LP01250,Female,37,Single,Graduate,Salaried,33300.0,108000.0,360.0,1.0,Rural,Approved
+LP01251,Male,37,Married,Not Graduate,Salaried,40700.0,27000.0,360.0,0.0,Rural,Approved
+LP01252,Male,45,Single,Graduate,Self-employed,172800.0,628000.0,360.0,1.0,Urban,Rejected
+LP01253,Male,37,Married,Not Graduate,Self-employed,61200.0,78000.0,360.0,1.0,Semiurban,Approved
+LP01254,Male,27,Married,Not Graduate,Salaried,40400.0,71000.0,360.0,1.0,Urban,Approved
+LP01255,Male,37,Single,Graduate,Salaried,61100.0,113000.0,,1.0,Rural,Approved
+LP01256,Female,39,Married,Not Graduate,Salaried,17300.0,33000.0,240.0,0.0,Urban,Rejected
+LP01257,Female,39,Single,Graduate,Self-employed,36100.0,129000.0,120.0,1.0,Semiurban,Approved
+LP01258,Female,40,Married,Not Graduate,Self-employed,14100.0,11000.0,360.0,1.0,Urban,Approved
+LP01259,Male,48,Single,Not Graduate,Self-employed,95200.0,130000.0,360.0,1.0,Semiurban,Approved
+LP01260,Female,27,Married,Not Graduate,Salaried,75600.0,52000.0,300.0,1.0,Semiurban,Approved
+LP01261,Male,40,Divorced,Not Graduate,Salaried,45300.0,165000.0,360.0,1.0,Urban,Rejected
+LP01262,Male,51,Single,Graduate,Salaried,55300.0,245000.0,360.0,0.0,Rural,Rejected
+LP01263,Male,21,Married,Not Graduate,Salaried,18900.0,60000.0,360.0,1.0,Rural,Approved
+LP01264,Female,40,Married,Graduate,Salaried,47100.0,137000.0,240.0,1.0,Rural,Approved
+LP01265,Male,32,Married,Graduate,Self-employed,134000.0,555000.0,360.0,0.0,Urban,Rejected
+LP01266,Female,34,Single,Graduate,Salaried,55200.0,88000.0,240.0,1.0,Rural,Approved
+LP01267,Male,29,Single,Not Graduate,Salaried,29500.0,25000.0,240.0,1.0,Semiurban,Approved
+LP01268,Female,36,Married,Graduate,Unemployed,8300.0,21000.0,180.0,0.0,Semiurban,Rejected
+LP01269,Male,56,Married,Graduate,Salaried,96800.0,156000.0,180.0,1.0,Semiurban,Approved
+LP01270,Male,25,Single,Not Graduate,Salaried,36800.0,87000.0,240.0,1.0,Semiurban,Approved
+LP01271,Female,26,Married,Graduate,Self-employed,27100.0,64000.0,360.0,0.0,Urban,Rejected
+LP01272,Male,25,Single,Graduate,Salaried,34300.0,63000.0,300.0,1.0,Semiurban,Approved
+LP01273,Male,55,Married,Graduate,Salaried,29300.0,,240.0,0.0,Urban,Rejected
+LP01274,Male,33,Single,Graduate,,49000.0,102000.0,360.0,1.0,Urban,Approved
+LP01275,Male,38,Divorced,Not Graduate,Self-employed,48000.0,50000.0,360.0,,Urban,Approved
+LP01276,Male,34,Married,Graduate,Salaried,41500.0,165000.0,360.0,1.0,Urban,Rejected
+LP01277,,29,Married,Graduate,Salaried,73800.0,246000.0,360.0,1.0,Rural,Approved
+LP01278,Male,36,Married,Not Graduate,Salaried,39400.0,30000.0,120.0,1.0,Semiurban,Approved
+LP01279,Female,63,Married,Graduate,Salaried,83900.0,88000.0,360.0,1.0,Urban,Approved
+LP01280,Male,52,Married,Not Graduate,Self-employed,37200.0,36000.0,360.0,1.0,Rural,Approved
+LP01281,Male,29,Divorced,Graduate,Salaried,204700.0,172000.0,360.0,1.0,Rural,Approved
+LP01282,Male,44,Single,Not Graduate,Salaried,29500.0,24000.0,360.0,1.0,Rural,Approved
+LP01283,Male,30,Married,Graduate,Salaried,34600.0,42000.0,360.0,1.0,Rural,Approved
+LP01284,Female,21,Single,Graduate,Salaried,32800.0,128000.0,360.0,1.0,Rural,Approved
+LP01285,Female,48,Married,Graduate,Salaried,47300.0,181000.0,360.0,1.0,Semiurban,Approved
+LP01286,Female,50,Single,Graduate,Salaried,24000.0,88000.0,360.0,1.0,Rural,Rejected
+LP01287,,48,Married,Graduate,Salaried,59400.0,178000.0,240.0,1.0,Rural,Rejected
+LP01288,Male,33,Single,Not Graduate,Salaried,16100.0,55000.0,180.0,1.0,Urban,Rejected
+LP01289,Male,36,Divorced,Graduate,Self-employed,64300.0,224000.0,180.0,1.0,Rural,Approved
+LP01290,Male,45,Single,Graduate,Unemployed,9900.0,40000.0,240.0,0.0,Rural,Rejected
+LP01291,Male,42,Single,Graduate,Salaried,43800.0,151000.0,300.0,1.0,Rural,Approved
+LP01292,Female,34,Married,Graduate,Salaried,68300.0,237000.0,360.0,1.0,Rural,Approved
+LP01293,Male,22,Single,Graduate,Salaried,146700.0,548000.0,240.0,0.0,Semiurban,Rejected
+LP01294,Male,39,Married,Not Graduate,Salaried,23400.0,65000.0,300.0,1.0,Semiurban,Rejected
+LP01295,Male,49,Single,Not Graduate,Salaried,35500.0,51000.0,240.0,1.0,Semiurban,Approved
+LP01296,Male,26,Married,Graduate,Self-employed,43200.0,40000.0,360.0,,Rural,Approved
+LP01297,Male,44,Married,Graduate,Self-employed,40400.0,90000.0,360.0,1.0,Rural,Approved
+LP01298,Male,41,Married,Graduate,Salaried,37700.0,36000.0,360.0,1.0,Rural,Approved
+LP01299,Female,46,Married,Graduate,Unemployed,26400.0,33000.0,360.0,1.0,Semiurban,Rejected
+LP01300,Male,47,Single,Graduate,Salaried,41700.0,29000.0,360.0,1.0,Rural,Approved
+LP01301,Male,31,Single,Graduate,Salaried,143100.0,253000.0,360.0,1.0,Urban,Approved
+LP01302,Male,22,Divorced,Not Graduate,Salaried,45800.0,201000.0,360.0,1.0,Rural,Rejected
+LP01303,Female,33,Married,Graduate,Salaried,33000.0,69000.0,300.0,1.0,Urban,Approved
+LP01304,Male,47,Divorced,Graduate,Self-employed,,78000.0,360.0,1.0,Semiurban,Approved
+LP01305,Female,33,Married,Graduate,Salaried,36200.0,79000.0,,1.0,Urban,Approved
+LP01306,Female,31,Married,Graduate,Salaried,74500.0,132000.0,,1.0,Semiurban,Approved
+LP01307,Male,21,Single,Graduate,,24900.0,80000.0,240.0,1.0,Semiurban,Approved
+LP01308,Female,56,Married,Graduate,Self-employed,32700.0,101000.0,240.0,1.0,Urban,Approved
+LP01309,Male,46,Married,Not Graduate,Salaried,29100.0,21000.0,120.0,,Semiurban,Approved
+LP01310,Female,46,Married,Graduate,Salaried,70700.0,183000.0,360.0,0.0,Rural,Rejected
+LP01311,Male,48,Married,Graduate,Salaried,90600.0,67000.0,360.0,0.0,Urban,Rejected
+LP01312,Female,44,Single,Graduate,Self-employed,111300.0,361000.0,120.0,1.0,Semiurban,Approved
+LP01313,Male,36,Married,Graduate,Salaried,66000.0,280000.0,360.0,1.0,Urban,Approved
+LP01314,Male,36,Married,Graduate,Salaried,50100.0,207000.0,300.0,1.0,Urban,Approved
+LP01315,Male,34,Married,Graduate,Self-employed,85500.0,120000.0,360.0,0.0,Urban,Approved
+LP01316,Female,64,Married,Graduate,Salaried,31100.0,109000.0,120.0,1.0,Semiurban,Approved
+LP01317,Male,44,Single,Graduate,Salaried,22700.0,84000.0,120.0,1.0,Rural,Approved
+LP01318,Male,33,Divorced,Not Graduate,Salaried,46300.0,184000.0,360.0,1.0,Semiurban,Rejected
+LP01319,Female,43,Single,Not Graduate,Salaried,24200.0,39000.0,360.0,1.0,Rural,Approved
+LP01320,Female,28,Single,Graduate,Salaried,50500.0,119000.0,360.0,1.0,Semiurban,Approved
+LP01321,Male,53,Married,Graduate,Salaried,54900.0,80000.0,360.0,1.0,Rural,Approved
+LP01322,Male,31,Single,Not Graduate,Salaried,42500.0,30000.0,360.0,1.0,Rural,Approved
+LP01323,Male,43,Married,Not Graduate,Salaried,58000.0,184000.0,300.0,1.0,Semiurban,Approved
+LP01324,Female,49,Married,Not Graduate,Salaried,55300.0,126000.0,300.0,1.0,Urban,Approved
+LP01325,Male,42,Single,Graduate,Unemployed,19900.0,31000.0,360.0,0.0,Urban,Rejected
+LP01326,Female,39,Married,Graduate,Salaried,42600.0,166000.0,180.0,1.0,Semiurban,Approved
+LP01327,Male,38,Single,Graduate,Salaried,54600.0,138000.0,360.0,,Semiurban,Rejected
+LP01328,Male,37,Single,Not Graduate,Salaried,29100.0,130000.0,120.0,1.0,Urban,Approved
+LP01329,Male,32,Divorced,Graduate,Self-employed,54700.0,202000.0,360.0,0.0,Rural,Rejected
+LP01330,Male,34,Married,Graduate,Salaried,168900.0,674000.0,240.0,1.0,Rural,Approved
+LP01331,Female,53,Married,Graduate,Salaried,56400.0,204000.0,360.0,,Urban,Approved
+LP01332,Male,37,Single,GRADUATE ,Salaried,63700.0,65000.0,360.0,0.0,Urban,Approved
+LP01333,Male,30,Married,Graduate,Salaried,37900.0,32000.0,120.0,1.0,Urban,Approved
+LP01334,Female,33,Married,Graduate,Self-employed,94600.0,394000.0,240.0,0.0,Semiurban,Rejected
+LP01335,Female,49,Single,Graduate,Self-employed,84200.0,96000.0,300.0,1.0,Rural,Approved
+LP01336,Female,45,Divorced,Not Graduate,Self-employed,61700.0,131000.0,240.0,1.0,Semiurban,Approved
+LP01337,Male,44,Single,Graduate,Salaried,57300.0,171000.0,300.0,1.0,Urban,Approved
+LP01338,Male,35,Married,Graduate,Salaried,82800.0,118000.0,360.0,1.0,Semiurban,Approved
+LP01339,Female,44,Married,Not Graduate,Salaried,67300.0,100000.0,180.0,1.0,Urban,Approved
+LP01340,Male,32,Single,Graduate,Self-employed,67900.0,164000.0,300.0,1.0,Semiurban,Approved
+LP01341,Male,35,Married,Graduate,Self-employed,56800.0,114000.0,360.0,1.0,Semiurban,Approved
+LP01342,Female,48,Married,Graduate,Self-employed,89400.0,290000.0,240.0,1.0,Semiurban,Approved
+LP01343,Male,47,Married,Graduate,Salaried,34600.0,31000.0,240.0,,Semiurban,Approved
+LP01344,Male,28,Married,Graduate,Self-employed,43300.0,109000.0,360.0,1.0,Rural,Approved
+LP01345,Female,29,Married,Graduate,Salaried,50800.0,65000.0,360.0,1.0,Urban,Approved
+LP01346,Male,39,Married,Graduate,Self-employed,27300.0,81000.0,360.0,1.0,Rural,Approved
+LP01347,Male,55,Single,Graduate,Salaried,75500.0,80000.0,300.0,1.0,Urban,Approved
+LP01348,Male,21,Married,Graduate,Salaried,33700.0,46000.0,360.0,1.0,Urban,Approved
+LP01349,Male,41,Single,Graduate,Salaried,42100.0,157000.0,360.0,,Rural,Rejected
+LP01350,Male,24,Married,Graduate,Unemployed,16500.0,25000.0,360.0,1.0,Semiurban,Approved
+LP01351,Female,32,Single,Graduate,Salaried,52900.0,184000.0,360.0,1.0,Urban,Approved
+LP01352,Female,34,Married,Graduate,Salaried,44500.0,74000.0,,1.0,Semiurban,Approved
+LP01353,Male,34,Married,Graduate,Salaried,50400.0,76000.0,360.0,1.0,Semiurban,Approved
+LP01354,Male,33,Married,Graduate,Salaried,50600.0,,360.0,1.0,Rural,Approved
+LP01355,Female,38,Married,Not Graduate,Unemployed,10900.0,44000.0,360.0,0.0,Semiurban,Rejected
+LP01356,Male,33,Married,Not Graduate,Salaried,26800.0,58000.0,360.0,1.0,Urban,Rejected
+LP01357,Male,23,Single,Graduate,Salaried,84600.0,131000.0,360.0,,Semiurban,Approved
+LP01358,Male,46,Single,Graduate,Self-employed,23200.0,62000.0,300.0,1.0,Urban,Approved
+LP01359,Female,46,Married,Graduate,Salaried,47400.0,100000.0,360.0,1.0,Urban,Approved
+LP01360,Male,46,Married,Graduate,Salaried,42100.0,155000.0,360.0,1.0,Semiurban,Rejected
+LP01361,Female,23,Single,Not Graduate,,45900.0,205000.0,360.0,1.0,Rural,Approved
+LP01362,Male,41,Single,Graduate,Salaried,27000.0,72000.0,360.0,1.0,Urban,Approved
+LP01363,Male,45,Married,Not Graduate,Salaried,30300.0,72000.0,240.0,,Rural,Approved
+LP01364,Male,28,Single,Graduate,Salaried,49700.0,96000.0,300.0,1.0,Semiurban,Approved
+LP01365,Male,38,Married,Graduate,Salaried,84200.0,370000.0,300.0,1.0,Rural,Approved
+LP01366,Male,37,Single,Not Graduate,Self-employed,50700.0,126000.0,360.0,1.0,Urban,Approved
+LP01367,Male,56,Married,Graduate,Self-employed,35100.0,45000.0,,1.0,Semiurban,Approved
+LP01368,Male,57,Married,Not Graduate,Self-employed,35100.0,154000.0,360.0,1.0,Urban,Rejected
+LP01369,Male,21,Married,Graduate,Salaried,77500.0,337000.0,360.0,1.0,Urban,Rejected
+LP01370,Male,63,Single,Not Graduate,Salaried,22100.0,51000.0,360.0,1.0,Urban,Approved
+LP01371,Male,29,Married,Graduate,Unemployed,17600.0,34000.0,180.0,0.0,Urban,Rejected
+LP01372,Female,48,Single,Graduate,Self-employed,59600.0,194000.0,360.0,1.0,Urban,Approved
+LP01373,Male,48,Single,Not Graduate,Salaried,31900.0,122000.0,360.0,0.0,Urban,Rejected
+LP01374,Female,28,Single,Graduate,Salaried,174900.0,445000.0,360.0,1.0,Rural,Approved
+LP01375,Female,43,Married,Graduate,Salaried,43200.0,82000.0,360.0,1.0,Rural,Approved
+LP01376,Male,37,Married,Not Graduate,Salaried,46500.0,83000.0,,1.0,Urban,Approved
+LP01377,Female,44,Married,Graduate,Salaried,36800.0,69000.0,300.0,1.0,Rural,Approved
+LP01378,Female,40,Single,Not Graduate,Salaried,48200.0,51000.0,360.0,1.0,Urban,Approved
+LP01379,Female,50,Single,Graduate,Unemployed,26900.0,98000.0,360.0,0.0,Semiurban,Rejected
+LP01380,Male,39,Married,Graduate,Salaried,39900.0,40000.0,360.0,0.0,Rural,Rejected
+LP01381,Male,36,Single,Graduate,Salaried,50700.0,109000.0,240.0,,Semiurban,Approved
+LP01382,Male,49,Married,Graduate,Salaried,34800.0,134000.0,240.0,1.0,Urban,Approved
+LP01383,Male,44,Married,Not Graduate,Self-employed,26100.0,57000.0,240.0,1.0,Semiurban,Approved
+LP01384,Female,45,Married,Graduate,Self-employed,95400.0,167000.0,360.0,1.0,Semiurban,Approved
+LP01385,Female,31,Single,Graduate,Salaried,40500.0,174000.0,180.0,1.0,Semiurban,Rejected
+LP01386,Male,28,Married,Graduate,Salaried,17600.0,19000.0,300.0,1.0,Semiurban,Approved
+LP01387,Female,32,Married,Graduate,Salaried,115100.0,466000.0,,1.0,Semiurban,Approved
+LP01388,Male,32,Single,Graduate,Self-employed,41700.0,35000.0,300.0,1.0,Urban,Approved
+LP01389,Female,46,Married,Not Graduate,Salaried,34000.0,75000.0,360.0,1.0,Semiurban,Approved
+LP01390,Male,48,Married,Not Graduate,Self-employed,91400.0,280000.0,300.0,1.0,Urban,Approved
+LP01391,Female,36,Married,Not Graduate,Salaried,35700.0,73000.0,180.0,1.0,Rural,Rejected
+LP01392,Female,52,Married,Graduate,Salaried,48300.0,130000.0,360.0,1.0,Rural,Approved
+LP01393,Male,52,Married,Graduate,Salaried,29900.0,42000.0,360.0,1.0,Semiurban,Approved
+LP01394,Male,40,Married,Graduate,Salaried,24900.0,70000.0,360.0,1.0,Rural,Approved
+LP01395,Female,30,Single,Not Graduate,Salaried,35300.0,40000.0,360.0,1.0,Urban,Approved
+LP01396,Male,54,Married,Graduate,Salaried,61200.0,227000.0,180.0,1.0,Urban,Approved
+LP01397,Male,37,Single,Graduate,Self-employed,68600.0,197000.0,360.0,0.0,Semiurban,Rejected
+LP01398,Female,39,Married,Graduate,Salaried,41900.0,104000.0,240.0,1.0,Semiurban,Approved
+LP01399,Male,35,Married,Not Graduate,Unemployed,13400.0,11000.0,360.0,1.0,Rural,Approved
+LP01400,Male,29,Married,Not Graduate,Salaried,16600.0,42000.0,240.0,1.0,Rural,Approved
+LP01401,Male,23,Married,Not Graduate,Salaried,46700.0,131000.0,360.0,1.0,Semiurban,Approved
+LP01402,Male,44,Married,Graduate,Self-employed,64300.0,105000.0,240.0,0.0,Semiurban,Rejected
+LP01403,Female,30,Married,Not Graduate,Self-employed,106200.0,344000.0,240.0,1.0,Semiurban,Rejected
+LP01404,Male,69,Single,Graduate,Salaried,52200.0,47000.0,180.0,1.0,Urban,Approved
+LP01405,Male,27,Single,Graduate,Self-employed,39100.0,55000.0,360.0,1.0,Urban,Approved
+LP01406,Male,25,Married,Graduate,Salaried,50800.0,177000.0,240.0,1.0,Rural,Approved
+LP01407,Female,43,Married,Graduate,Salaried,44900.0,53000.0,360.0,1.0,Rural,Approved
+LP01408,Male,53,Married,Graduate,Salaried,63200.0,98000.0,300.0,0.0,Rural,Approved
+LP01409,Female,39,Single,Graduate,Salaried,52600.0,165000.0,360.0,1.0,Urban,Approved
+LP01410,Female,44,Married,Graduate,Salaried,29500.0,102000.0,240.0,1.0,Urban,Approved
+LP01411,Female,21,Married,Graduate,Salaried,,20000.0,360.0,1.0,Semiurban,Approved
+LP01412,Female,31,Married,Not Graduate,Self-employed,49200.0,54000.0,300.0,0.0,Rural,Rejected
+LP01413,Female,27,Married,Graduate,Self-employed,111400.0,261000.0,180.0,1.0,Urban,Approved
+LP01414,Female,21,Married,Graduate,Self-employed,62000.0,181000.0,240.0,,Urban,Rejected
+LP01415,Male,39,Single,Graduate,Self-employed,86200.0,204000.0,180.0,1.0,Urban,Approved
+LP01416,Female,21,Single,Not Graduate,Salaried,59900.0,187000.0,360.0,1.0,Rural,Approved
+LP01417,Male,25,Married,Graduate,,58600.0,208000.0,240.0,0.0,Rural,Rejected
+LP01418,Male,33,Married,Graduate,Salaried,36000.0,155000.0,360.0,1.0,Semiurban,Approved
+LP01419,Female,30,Married,Graduate,Salaried,56800.0,112000.0,360.0,1.0,Urban,Approved
+LP01420,Female,42,Married,Graduate,Salaried,89500.0,111000.0,240.0,,Semiurban,Approved
+LP01421,Female,41,Married,Graduate,Salaried,66000.0,108000.0,360.0,0.0,Semiurban,Approved
+LP01422,Male,47,Married,Graduate,Salaried,72800.0,86000.0,240.0,1.0,Urban,Approved
+LP01423,Male,46,Single,Graduate,Salaried,42200.0,90000.0,240.0,0.0,Urban,Rejected
+LP01424,Male,49,Divorced,Graduate,Salaried,47500.0,190000.0,300.0,1.0,Semiurban,Rejected
+LP01425,Male,38,Single,Graduate,Salaried,49300.0,96000.0,180.0,0.0,Urban,Rejected
+LP01426,Male,41,Single,Graduate,Salaried,50800.0,60000.0,240.0,1.0,Rural,Approved
+LP01427,,43,Married,Graduate,Unemployed,30800.0,81000.0,360.0,1.0,Semiurban,Approved
+LP01428,Male,39,Married,Graduate,Salaried,18100.0,81000.0,360.0,0.0,Semiurban,Rejected
+LP01429,Female,34,Married,Graduate,Self-employed,60600.0,81000.0,360.0,0.0,Semiurban,Rejected
+LP01430,Male,35,Single,Graduate,Self-employed,57700.0,210000.0,240.0,1.0,Semiurban,Approved
+LP01431,Female,30,Married,Graduate,Salaried,28100.0,107000.0,360.0,1.0,Urban,Approved
+LP01432,Male,42,Single,Graduate,Salaried,70400.0,152000.0,300.0,1.0,Semiurban,Approved
+LP01433,Male,37,Married,Graduate,Salaried,37500.0,113000.0,180.0,1.0,Urban,Rejected
+LP01434,Male,31,Married,Graduate,Salaried,44300.0,101000.0,360.0,0.0,Semiurban,Rejected
+LP01435,Male,31,Married,Graduate,Salaried,119500.0,194000.0,180.0,1.0,Semiurban,Approved
+LP01436,Female,26,Divorced,Graduate,Self-employed,94200.0,213000.0,300.0,1.0,Semiurban,Approved
+LP01437,Male,48,Married,Graduate,Unemployed,23600.0,23000.0,360.0,1.0,Semiurban,Approved
+LP01438,Male,39,Married,Graduate,Salaried,61700.0,207000.0,360.0,,Urban,Rejected
+LP01439,Female,29,Married,Not Graduate,Salaried,35300.0,135000.0,360.0,1.0,Semiurban,Approved
+LP01440,Female,46,Single,Graduate,Salaried,127900.0,230000.0,300.0,1.0,Urban,Approved
+LP01441,Male,32,Divorced,Graduate,Self-employed,85800.0,241000.0,180.0,1.0,Rural,Approved
+LP01442,Male,150,Married,Not Graduate,Salaried,27100.0,41000.0,360.0,1.0,Semiurban,Approved
+LP01443,Male,48,Single,Graduate,Salaried,27700.0,30000.0,240.0,1.0,Rural,Approved
+LP01444,Male,33,Married,Graduate,Self-employed,77200.0,246000.0,240.0,1.0,Semiurban,Approved
+LP01445,Male,34,Single,Graduate,Salaried,50700.0,57000.0,240.0,1.0,Rural,Approved
+LP01446,Male,38,Married,Not Graduate,Salaried,20000.0,73000.0,360.0,0.0,Urban,Rejected
+LP01447,Female,49,Married,Not Graduate,Salaried,46100.0,77000.0,360.0,1.0,Urban,Approved
+LP01448,Male,38,Single,Graduate,Salaried,46100.0,175000.0,360.0,1.0,Urban,Approved
+LP01449,Female,26,Married,Not Graduate,Salaried,48200.0,98000.0,360.0,1.0,Urban,Approved
+LP01450,Male,43,Married,Graduate,Salaried,63400.0,129000.0,180.0,1.0,Rural,Approved
+LP01451,Female,33,Single,Graduate,Salaried,39500.0,139000.0,360.0,,Semiurban,Approved
+LP01452,Male,57,Divorced,Graduate,Self-employed,79500.0,206000.0,180.0,1.0,Semiurban,Approved
+LP01453,Female,38,Married,Graduate,Salaried,41600.0,58000.0,300.0,1.0,Semiurban,Approved
+LP01454,Female,21,Single,Graduate,Self-employed,49200.0,193000.0,180.0,0.0,Semiurban,Rejected
+LP01455,Male,42,Single,Not Graduate,Salaried,29900.0,58000.0,360.0,1.0,Semiurban,Approved
+LP01456,Male,57,Married,Graduate,Self-employed,99500.0,100000.0,360.0,0.0,Rural,Rejected
+LP01457,Male,54,Single,Graduate,Salaried,45800.0,102000.0,360.0,1.0,Semiurban,Approved
+LP01458,Male,56,Married,Graduate,Self-employed,110900.0,315000.0,240.0,1.0,Rural,Approved
+LP01459,Female,28,Single,Graduate,Salaried,116000.0,346000.0,240.0,0.0,Urban,Rejected
+LP01460,Male,47,Married,Graduate,Salaried,37300.0,144000.0,300.0,0.0,Rural,Rejected
+LP01461,Female,31,Married,Not Graduate,Salaried,10200.0,28000.0,300.0,1.0,Urban,Approved
+LP01462,Male,40,Married,Graduate,,83200.0,123000.0,120.0,1.0,Semiurban,Approved
+LP01463,Male,25,Married,Graduate,Unemployed,15600.0,25000.0,360.0,0.0,Rural,Rejected
+LP01464,Male,32,Single,Graduate,Unemployed,12300.0,12000.0,360.0,0.0,Urban,Rejected
+LP01465,Female,31,Divorced,Not Graduate,Self-employed,33500.0,116000.0,360.0,1.0,Urban,Rejected
+LP01466,Female,47,Married,Not Graduate,Salaried,31500.0,32000.0,360.0,1.0,Semiurban,Approved
+LP01467,Male,46,Married,Graduate,Self-employed,107200.0,318000.0,300.0,1.0,Semiurban,Approved
+LP01468,Male,41,Married,Graduate,Self-employed,64300.0,188000.0,360.0,1.0,Rural,Approved
+LP01469,Female,24,Married,Graduate,,92700.0,340000.0,240.0,0.0,Rural,Rejected
+LP01470,Male,35,Married,Not Graduate,Salaried,47500.0,42000.0,360.0,1.0,Semiurban,Approved
+LP01471,Female,31,Single,Not Graduate,Salaried,33100.0,46000.0,360.0,1.0,Rural,Approved
+LP01472,Male,47,Single,Not Graduate,Salaried,31900.0,132000.0,240.0,,Semiurban,Approved
+LP01473,Male,50,Married,Graduate,Salaried,67000.0,190000.0,300.0,0.0,Rural,Rejected
+LP01474,Male,49,Married,Graduate,Self-employed,86500.0,206000.0,360.0,1.0,Urban,Approved
+LP01475,Male,30,Single,Graduate,Salaried,81400.0,286000.0,360.0,,Semiurban,Rejected
+LP01476,Male,21,Married,Graduate,Salaried,46200.0,190000.0,360.0,1.0,Urban,Approved
+LP01477,Male,21,Married,Graduate,Salaried,56300.0,92000.0,360.0,1.0,Urban,Approved
+LP01478,Female,52,Married,Graduate,Self-employed,77800.0,320000.0,360.0,1.0,Semiurban,Rejected
+LP01479,Male,34,Married,Graduate,Unemployed,15300.0,16000.0,180.0,1.0,Urban,Approved
+LP01480,Male,30,Married,Not Graduate,Self-employed,26200.0,116000.0,360.0,1.0,Semiurban,Rejected
+LP01481,Male,54,Single,Not Graduate,Salaried,26400.0,33000.0,360.0,1.0,Semiurban,Approved
+LP01482,Male,51,Married,Not Graduate,Salaried,34100.0,56000.0,180.0,1.0,Urban,Approved
+LP01483,Male,38,Single,Not Graduate,Salaried,51200.0,50000.0,180.0,1.0,Semiurban,Approved
+LP01484,Male,35,Married,Graduate,Salaried,91600.0,342000.0,360.0,0.0,Semiurban,Rejected
+LP01485,Female,37,Single,Graduate,Salaried,28200.0,125000.0,360.0,1.0,Rural,Approved
+LP01486,Male,40,Married,Graduate,Salaried,39700.0,70000.0,300.0,1.0,Urban,Approved
+LP01487,Female,54,Married,Graduate,Self-employed,50900.0,95000.0,360.0,1.0,Rural,Approved
+LP01488,Male,42,Married,Graduate,Salaried,74400.0,126000.0,360.0,0.0,Rural,Rejected
+LP01489,Female,45,Married,Graduate,Self-employed,47200.0,57000.0,360.0,0.0,Semiurban,Approved
+LP01490,Male,50,Married,Not Graduate,Salaried,31300.0,115000.0,180.0,,Semiurban,Rejected
+LP01491,Male,26,Single,Not Graduate,Salaried,20100.0,17000.0,180.0,1.0,Semiurban,Approved
+LP01492,Female,46,Married,Not Graduate,Salaried,47200.0,206000.0,300.0,1.0,Rural,Rejected
+LP01493,Female,35,Married,Not Graduate,Salaried,35300.0,149000.0,360.0,0.0,Urban,Rejected
+LP01494,Female,21,Married,Not Graduate,Salaried,28300.0,30000.0,360.0,0.0,Rural,Rejected
+LP01495,Male,21,Single,Graduate,Salaried,46300.0,123000.0,300.0,1.0,Rural,Approved
+LP01496,Female,28,Single,Not Graduate,Salaried,63100.0,282000.0,360.0,1.0,Semiurban,Rejected
+LP01497,Female,43,Single,Not Graduate,Salaried,24200.0,95000.0,300.0,0.0,Semiurban,Rejected
+LP01498,Female,39,Married,Not Graduate,Salaried,26000.0,88000.0,360.0,1.0,Semiurban,Approved
+LP01499,Male,40,Single,Graduate,Self-employed,105100.0,72000.0,180.0,1.0,Rural,Approved
+LP01500,Female,58,Single,Graduate,Self-employed,61900.0,54000.0,360.0,0.0,Rural,Approved
+LP01117,Male,30,Married,Graduate,Self-employed,66500.0,101000.0,360.0,1.0,Urban,Approved
+LP01369,Male,21,Married,Graduate,Salaried,77500.0,337000.0,360.0,1.0,Urban,Rejected
+LP00423,Male,33,Single,Graduate,Salaried,37200.0,107000.0,360.0,0.0,Semiurban,Rejected
+LP00414,Female,26,Married,Graduate,,63100.0,207000.0,240.0,1.0,Semiurban,Approved
+LP00452,Female,43,Married,Not Graduate,Salaried,37300.0,125000.0,240.0,0.0,Semiurban,Rejected
+LP00862,Female,51,Married,Not Graduate,Salaried,70400.0,98000.0,180.0,0.0,Semiurban,Rejected
+LP01064,Female,21,Single,Not Graduate,Salaried,42200.0,58000.0,300.0,1.0,Urban,Approved
+LP00742,Male,36,Single,Graduate,Salaried,16000.0,19000.0,360.0,1.0,Urban,Approved
+LP01273,Male,55,Married,Graduate,Salaried,29300.0,,240.0,0.0,Urban,Rejected
+LP00260,Male,25,Married,Not Graduate,Unemployed,10500.0,23000.0,180.0,0.0,Rural,Rejected
+LP00889,Male,53,Married,Graduate,Salaried,61000.0,129000.0,360.0,1.0,Rural,Approved
+LP01433,Male,37,Married,Graduate,Salaried,37500.0,113000.0,180.0,1.0,Urban,Rejected
+LP00713,Female,35,Married,Graduate,Salaried,57700.0,140000.0,180.0,1.0,Urban,Approved
+LP01383,Male,44,Married,Not Graduate,Self-employed,26100.0,57000.0,240.0,1.0,Semiurban,Approved
+LP00071,Male,44,Married,Graduate,Salaried,114700.0,215000.0,,0.0,Semiurban,Rejected
+LP01269,Male,56,Married,Graduate,Salaried,96800.0,156000.0,180.0,1.0,Semiurban,Approved
+LP01492,Female,46,Married,Not Graduate,Salaried,47200.0,206000.0,300.0,1.0,Rural,Rejected
+LP00608,Male,38,Married,Graduate,Salaried,128900.0,526000.0,360.0,1.0,Semiurban,Approved
+LP00434,Female,21,Single,Graduate,,46400.0,194000.0,360.0,1.0,Urban,Approved
+LP00052,Male,43,Married,Graduate,Self-employed,47500.0,59000.0,180.0,1.0,Semiurban,Approved

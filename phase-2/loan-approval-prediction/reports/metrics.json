@@ -1,0 +1,122 @@
+{
+  "best_model": "SVM (RBF)",
+  "test_rows": 292,
+  "models": {
+    "Logistic Regression": {
+      "accuracy": 0.8425,
+      "precision": 0.8744,
+      "recall": 0.9082,
+      "f1": 0.891,
+      "roc_auc": 0.9042,
+      "cv_f1": 0.9096
+    },
+    "Decision Tree": {
+      "accuracy": 0.8219,
+      "precision": 0.8507,
+      "recall": 0.9082,
+      "f1": 0.8785,
+      "roc_auc": 0.8402,
+      "cv_f1": 0.8842
+    },
+    "Random Forest": {
+      "accuracy": 0.8562,
+      "precision": 0.87,
+      "recall": 0.9372,
+      "f1": 0.9023,
+      "roc_auc": 0.9053,
+      "cv_f1": 0.9012
+    },
+    "SVM (RBF)": {
+      "accuracy": 0.8527,
+      "precision": 0.8727,
+      "recall": 0.9275,
+      "f1": 0.8993,
+      "roc_auc": 0.8629,
+      "cv_f1": 0.9122
+    }
+  },
+  "confusion_matrix": [
+    [
+      57,
+      28
+    ],
+    [
+      15,
+      192
+    ]
+  ],
+  "cleaning_log": [
+    [
+      "Removed duplicate records",
+      20
+    ],
+    [
+      "Standardised text categories (case / whitespace)",
+      7410
+    ],
+    [
+      "Invalid ages set to missing (outside 18-80)",
+      6
+    ],
+    [
+      "Missing values to impute inside the model pipeline (median / most frequent)",
+      261
+    ],
+    [
+      "Rows dropped for missing income / loan amount / target",
+      44
+    ]
+  ],
+  "rows_raw": 1520,
+  "rows_clean": 1456,
+  "feature_importance": [
+    [
+      "Credit_History",
+      2.0456
+    ],
+    [
+      "Loan_to_Income",
+      1.7453
+    ],
+    [
+      "Employment_Status_Unemployed",
+      1.347
+    ],
+    [
+      "Employment_Status_Salaried",
+      0.8912
+    ],
+    [
+      "Annual_Income",
+      0.5798
+    ],
+    [
+      "Loan_Amount",
+      0.538
+    ],
+    [
+      "Property_Area_Semiurban",
+      0.4963
+    ],
+    [
+      "Education_Graduate",
+      0.4819
+    ],
+    [
+      "Education_Not Graduate",
+      0.4814
+    ],
+    [
+      "Employment_Status_Self-Employed",
+      0.4563
+    ],
+    [
+      "Property_Area_Urban",
+      0.414
+    ],
+    [
+      "Monthly_Payment_Ratio",
+      0.392
+    ]
+  ]
+}
