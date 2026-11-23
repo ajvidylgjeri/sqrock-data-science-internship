@@ -1,0 +1,55 @@
+Product_ID,Product_Name,Category,Quantity_In_Stock,Supplier,Purchase_Price,Selling_Price,Stock_Entry_Date,Reorder_Level,Lead_Time_Days
+1001,Wireless Mouse,Electronics,279,GlobalTrade,38.26,70.14,2026-04-16,187,12
+1002,USB-C Cable,Electronics,0,FitSupply Co,7.42,9.51,2026-02-15,70,9
+1003,Bluetooth Speaker,Electronics,47,TechSource Ltd,45.72,74.37,2026-04-02,5,3
+1004,Webcam HD,Electronics,756,TechSource Ltd,15.63,19.78,2026-03-14,78,3
+1005,Power Bank,Electronics,793,HomeWorld,37.99,57.88,2026-08-16,182,7
+1006,Keyboard,Electronics,107,KitchenKing,30.83,58.14,2026-09-23,31,4
+1007,Monitor Stand,Electronics,277,HomeWorld,19.97,31.99,2026-09-01,109,7
+1008,Phone Charger,Electronics,252,GlobalTrade,55.55,101.21,2026-06-29,312,12
+1009,Earbuds,Electronics,4389,KitchenKing,50.93,90.17,2026-07-30,104,4
+1010,HDMI Cable,Electronics,177,HomeWorld,27.5,35.13,2026-06-03,54,7
+1011,A4 Paper Ream,Office,0,,36.64,68.3,2026-02-07,15,4
+1012,Ballpoint Pens,Office,-5,FitSupply Co,13.13,22.96,2026-01-19,140,9
+1013,Stapler,Office,42,OfficePro,25.56,37.5,2026-04-23,9,5
+1014,Notebook,Office,27,TechSource Ltd,38.97,56.29,2026-10-21,5,3
+1015,Highlighters,Office,55,TechSource Ltd,17.4,28.34,2026-10-22,5,3
+1016,Desk Organizer,electronics ,74,GlobalTrade,,77.62,2026-01-12,46,12
+1017,Sticky Notes,Office,2502,OfficePro,47.73,68.81,2026-08-26,78,5
+1018,Binder Clips,Office,91,,35.16,59.6,2026-05-29,46,12
+1019,Whiteboard Marker,Office,49,HomeWorld,4.65,8.64,2026-09-27,13,7
+1020,Folder,Office,92,OfficePro,48.9,66.0,2026-06-24,19,5
+1021,LED Bulb,Home,58,KitchenKing,23.71,34.62,2026-04-03,15,4
+1022,Extension Cord, home,31,GlobalTrade,,41.07,2026-04-08,187,12
+1023,Wall Clock,Home,2379,TechSource Ltd,18.97,30.36,2026-01-12,46,3
+1024,Storage Box,Home,56,KitchenKing,6.26,11.03,2026-09-02,7,4
+1025,Table Lamp,Home,-5,OfficePro,6.73,12.21,2026-03-08,130,5
+1026,Door Mat,Home,166,HomeWorld,42.01,70.91,2026-03-13,54,7
+1027,Curtains,Home,34,KitchenKing,14.26,22.52,2026-04-25,62,4
+1028,Picture Frame,Home,61,OfficePro,20.63,36.06,2026-07-10,19,5
+1029,Scented Candle,Home,2040,KitchenKing,29.23,48.93,2026-02-17,62,4
+1030,Mug Set,Home,2664,HomeWorld,33.53,46.54,2026-04-21,182,7
+1031,Yoga Mat,Fitness,214,TechSource Ltd,38.6,69.21,2026-06-14,23,3
+1032,Resistance Band,Fitness,100,,26.68,43.19,2026-03-14,27,7
+1033,Dumbbell 5kg,Fitness,226,TechSource Ltd,23.0,40.6,2026-10-02,23,3
+1034,Jump Rope,Fitness,51,HomeWorld,32.59,51.18,2026-05-29,13,7
+1035,Water Bottle,Fitness,47,HomeWorld,39.64,60.35,2026-02-10,27,7
+1036,Foam Roller,Fitness,206,KitchenKing,25.62,44.86,2026-05-22,31,4
+1037,Gym Gloves,Fitness,7,HomeWorld,41.15,62.93,2026-02-24,54,7
+1038,Skipping Timer,Fitness,16,HomeWorld,41.38,64.09,2026-04-13,27,7
+1039,Ankle Weights,Fitness,1867,FitSupply Co,41.05,55.07,2026-10-11,140,9
+1040,Sports Towel,Fitness,806,TechSource Ltd,34.14,60.12,2026-06-07,23,3
+1041,Chef Knife,Kitchen,26,TechSource Ltd,37.08,57.17,2026-06-28,5,3
+1042,Cutting Board,Kitchen,28,KitchenKing,12.97,19.0,2026-04-22,7,4
+1043,Non-stick Pan,Kitchen,23,TechSource Ltd,8.18,15.38,2026-02-18,23,3
+1044,Mixing Bowl,Kitchen,39,GlobalTrade,56.68,74.78,2026-03-13,23,12
+1045,Coffee Grinder,Kitchen,45,KitchenKing,40.81,53.09,2026-08-26,15,4
+1046,Lunch Box,Kitchen,17,KitchenKing,55.15,94.11,2026-06-01,31,4
+1047,Kettle,Kitchen,0,HomeWorld,19.02,24.0,2026-05-11,27,7
+1048,Peeler,OFFICE,338,GlobalTrade,44.79,80.17,2026-03-10,187,12
+1049,Measuring Cups,Kitchen,0,KitchenKing,41.13,57.45,2026-06-22,15,4
+1050,Spatula,Kitchen,77,HomeWorld,16.9,30.59,2026-07-12,27,7
+1014,Notebook,Office,27,TechSource Ltd,38.97,56.29,2026-10-21,5,3
+1016,Desk Organizer,electronics ,74,GlobalTrade,,77.62,2026-01-12,46,12
+1023,Wall Clock,Home,2379,TechSource Ltd,18.97,30.36,2026-01-12,46,3
+1043,Non-stick Pan,Kitchen,23,TechSource Ltd,8.18,15.38,2026-02-18,23,3
